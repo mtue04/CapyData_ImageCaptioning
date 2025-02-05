@@ -1,0 +1,8 @@
+Lưu code chính ví dụ:
+│── src/                         # Code chính
+│   ├── data_loader.py           # Load dữ liệu ảnh và caption
+│   ├── preprocessing.py         # Xử lý ảnh, tokenizing captions
+│   ├── model.py                 # Kiến trúc mô hình Image Captioning
+│   ├── train.py                 # Training script
+│   ├── evaluate.py              # Đánh giá mô hình
+│   ├── inference.py             # Tạo caption cho ảnh mới
