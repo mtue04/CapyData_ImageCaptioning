@@ -1,0 +1,30 @@
+Soccer 
+Basketball
+Tennis
+Athletics
+Swimming
+Gymnastics
+Volleyball
+Badminton
+Table Tennis
+Boxing
+Wrestling
+Judo
+Taekwondo
+Cycling
+Rowing
+Sailing
+Canoeing
+Fencing
+Archery
+Weightlifting
+Triathlon
+Equestrian
+Modern Pentathlon
+Handball
+Rugby Sevens
+Golf
+Diving
+Synchronized Swimming
+Water Polo
+Skiing
