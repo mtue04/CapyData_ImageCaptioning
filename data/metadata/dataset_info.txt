@@ -1,0 +1,27 @@
+Project: Image Captioning for Topic: Sports 
+
+Description:
+This project focuses on generating descriptive captions for images of sports. The goal is to develop a model that can accurately describe various sports events, athletes, and moments.
+
+Dataset Information:
+- Total Images:  appr. 3000
+- Categories: 30
+- Image Format: JPEG, PNG
+- Image Size: Various resolutions
+- Annotations: Each image is paired with a descriptive caption in Vietnamese
+
+Data Collection:
+- Source: Images were collected from various online resources, including sports blogs, official sports websites, and social media platforms. [1]
+- Annotation Process: Captions were manually written by native Vietnamese speakers with knowledge of sports.
+
+Usage:
+The dataset can be used for training and evaluating image captioning models. It is suitable for tasks such as:
+- Image-to-text translation
+- Sports recognition and description
+- Enhancing sports applications with descriptive capabilities
+
+License:
+This dataset is licensed under the MIT License. You are free to use, modify, and distribute the dataset, provided that proper attribution is given to the original creators.
+
+Contact:
+For more information or questions about the dataset, please contact the project team at [pvmtue29@gmail.com].
