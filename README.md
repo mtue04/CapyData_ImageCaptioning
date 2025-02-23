@@ -1,6 +1,7 @@
 # CapyData_ImageCaptioning_SportAction
 
 ## Project Structure:
+```
 📂 CapyData_ImageCaptioning
 │   ├── 📂 app/
 │   ├── 📂 data/
@@ -22,3 +23,4 @@
 │   ├── 📄 LICENSE
 │   ├── 📄 README.md
 │   ├── 📄 requirements.txt
+```
