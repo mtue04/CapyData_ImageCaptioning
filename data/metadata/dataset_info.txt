@@ -4,15 +4,15 @@ Description:
 This project focuses on generating descriptive captions for images of sports. The goal is to develop a model that can accurately describe various sports events, athletes, and moments.
 
 Dataset Information:
-- Total Images:  appr. 3000
+- Total Images:  appr. 5000
 - Categories: 30
 - Image Format: JPEG, PNG
 - Image Size: Various resolutions
-- Annotations: Each image is paired with a descriptive caption in Vietnamese
+- Annotations: Each image is paired with 5 descriptive captions in Vietnamese
 
 Data Collection:
-- Source: Images were collected from various online resources, including sports blogs, official sports websites, and social media platforms. [1]
-- Annotation Process: Captions were manually written by native Vietnamese speakers with knowledge of sports.
+- Source: Images were automatically crawled from Pinterest using the keyword format: "sport + 'action in real life'."
+- Annotation Process: Captions were generated automatically using OpenAI API and subsequently reviewed and refined by native Vietnamese speakers with expertise in sports.
 
 Usage:
 The dataset can be used for training and evaluating image captioning models. It is suitable for tasks such as:
