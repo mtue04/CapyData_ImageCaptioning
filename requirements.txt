@@ -1,4 +1,8 @@
-numpy
 matplotlib
+numpy
 opencv-python
 openai
+pillow
+torch
+torchvision
+tqdm
