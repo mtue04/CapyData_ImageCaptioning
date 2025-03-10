@@ -1,0 +1,1155 @@
+/dataset/test/images/000000205086.jpg	Một cậu bé đang chống đẩy trên quả banh.
+/dataset/test/images/000000205086.jpg	Một cậu bé đang chống đầu lên quả bóng đá hít đất.
+/dataset/test/images/000000205086.jpg	Một cậu bé đang hít đất đầu trên quả banh trên cỏ.
+/dataset/test/images/000000205086.jpg	Một cậu bé đang hít đất cùng quả bóng và một cậu bé đang quan sát.
+/dataset/test/images/000000205086.jpg	Một cậu bé đang chống đẩy trên một quả bóng đá.
+/dataset/test/images/000000304473.jpg	Một vận động viên bóng chày nữ đang ném quả bóng chày.
+/dataset/test/images/000000304473.jpg	Người phụ nữ vừa ném quả bóng chày về phía trước.
+/dataset/test/images/000000304473.jpg	Cầu thủ bóng chày nữ đang vừa chạy vừa ném quả bóng
+/dataset/test/images/000000304473.jpg	Người phụ nữ đang chạy trên sân tay ném bóng.
+/dataset/test/images/000000304473.jpg	Người phụ nữ đang ném quả bóng về phía trước.
+/dataset/test/images/000000123697.jpg	Một poster có nhiều hình ảnh của nhiều lĩnh vực
+/dataset/test/images/000000123697.jpg	Một bức poster quảng cáo về nhiều thể loại
+/dataset/test/images/000000123697.jpg	Một trang bìa có nhiều ô vuông chứa nhiều hình ảnh khác nhau.
+/dataset/test/images/000000123697.jpg	Nhiều bức tranh với nhiều lĩnh vực được ghép lại.
+/dataset/test/images/000000123697.jpg	Một hình ảnh có nhiều thể loại như thể thao, xe cộ, văn học.
+/dataset/test/images/000000319731.jpg	Hai hình ảnh người phụ nữ đang chơi tennis
+/dataset/test/images/000000319731.jpg	Hình ảnh kép của một vận động viên tennis nữ đang thi đấu.
+/dataset/test/images/000000319731.jpg	Vận động viên tennis nữ đang bước tới vung vợt đỡ bóng
+/dataset/test/images/000000319731.jpg	Vận động viên tennis nữ đang cầm vợt thi đấu trên sân.
+/dataset/test/images/000000319731.jpg	Vận động viên tennis nữ đang vung vợt đỡ bóng
+/dataset/test/images/000000490268.jpg	Một số người đàn ông đang chơi bóng chày trên sân.
+/dataset/test/images/000000490268.jpg	Cầu thủ bóng chày đang trườn trên sân tranh bóng.
+/dataset/test/images/000000490268.jpg	Một số cầu thủ bóng chày đang thi đấu trên sâu.
+/dataset/test/images/000000490268.jpg	Hai cầu thủ bóng chày đang tranh bóng trên sân.
+/dataset/test/images/000000490268.jpg	Một trận bóng chày đang diễn ra với nhiều người quan sát.
+/dataset/test/images/000000520457.jpg	Những đứa trẻ đang chơi với mô hình bóng chày.
+/dataset/test/images/000000520457.jpg	Một đứa trẻ đang ném bóng vào cầu thủ bóng chày giả.
+/dataset/test/images/000000520457.jpg	Những đứa trẻ đang xếp hàng ném bóng vào tấm bảng.
+/dataset/test/images/000000520457.jpg	Những đứa trẻ đang xếp hàng chơi một trò bóng chày.
+/dataset/test/images/000000520457.jpg	Một đứa trẻ đang ném quả bóng về phía hình ảnh hai cầu thủ bóng chày.
+/dataset/test/images/000000521865.jpg	Một người đàn ông cởi trần tay cầm bóng bầu dục.
+/dataset/test/images/000000521865.jpg	Một người đàn ông chuẩn bị ném quả bóng bầu dục.
+/dataset/test/images/000000521865.jpg	Một người đàn ông không mặc áo cầm quả bóng bầu dục đứng ngoài sân.
+/dataset/test/images/000000521865.jpg	Một thanh niên trong tư thế chuẩn bị ném bóng.
+/dataset/test/images/000000521865.jpg	Một thanh niên cởi trần chơi bóng bầu dục ngoài sân.
+/dataset/test/images/000000256884.jpg	Người phụ nữ áo đỏ đang nhảy lên đánh trả bóng .
+/dataset/test/images/000000276420.jpg	Hai hình ảnh giống nhau của người phụ nữ đang cầm vợt tennis đứng khuỵu chân trên sân .
+/dataset/test/images/000000184371.jpg	Một cầu thủ bóng chày đang nhìn quả bóng chày .
+/dataset/test/images/000000083174.jpg	Cầu thủ đánh bóng đang vung gậy để đánh bóng .
+/dataset/test/images/000000174574.jpg	Người phụ nữ áo tím đang đứng ở trước người phụ nữ áo xám ở trên sân .
+/dataset/test/images/000000150477.jpg	Một người đàn ông đang giơ gậy lên cao để chuẩn bị đánh bóng .
+/dataset/test/images/000000565360.jpg	Các cầu thủ bóng đá đang thi đấu ở ngoài trời .
+/dataset/test/images/000000099184.jpg	Các cầu thủ bóng đá đang đứng ở trên sân trước trận đấu .
+/dataset/test/images/000000465412.jpg	Ở trên sân , một người phụ nữ đang cầm vợt tennis và ngửa mặt lên trời .
+/dataset/test/images/000000416355.jpg	Một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000070749.jpg	Một người đàn ông đang nhảy lên để đánh quả bóng tennis .
+/dataset/test/images/000000145926.jpg	Cầu thủ ném bóng đang giơ quả bóng lên cao để chuẩn bị ném bóng .
+/dataset/test/images/000000032603.jpg	Bên trong cái thùng gỗ có các dụng cụ thể thao .
+/dataset/test/images/000000073999.jpg	Hai hình ảnh của cùng một người đang chơi tennis .
+/dataset/test/images/000000031642.jpg	Một ngời đàn ông đang chuẩn bị phát bóng ở trên sân tennis .
+/dataset/test/images/000000045049.jpg	Hai người đang chơi tennis ở trên sân vào ban đêm .
+/dataset/test/images/000000473616.jpg	Vận động viên tennis đang cầm vợt và bóng đứng trên sân trong trận .
+/dataset/test/images/000000349919.jpg	Hai hình ảnh giống nhau của người phụ nữ đang thi đấu tennis .
+/dataset/test/images/000000518858.jpg	Những cầu thủ bóng đá đang tập luyện trên sân .
+/dataset/test/images/000000564627.jpg	Một người đàn ông đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000391325.jpg	Những đứa trẻ đang dẫn bóng trên sân cỏ .
+/dataset/test/images/000000316807.jpg	Người phụ nữ đang vung vợt tennis về phía bóng .
+/dataset/test/images/000000401094.jpg	Một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000391325.jpg	Những đứa trẻ đang luyện tập đá bóng trên sân .
+/dataset/test/images/000000198042.jpg	Người đàn ông mặc áo trắng đang chơi bóng chày trên sân .
+/dataset/test/images/000000276420.jpg	Vận động viên tennis nữ đang câm vợt khum người đỡ bóng thấp .
+/dataset/test/images/000000085872.jpg	Các cầu thủ khác đang theo dõi cú ném bóng của cầu thủ ném bóng .
+/dataset/test/images/000000216556.jpg	Đứa trẻ đang cầm vợt đánh tennis trên sân .
+/dataset/test/images/000000548822.jpg	Người đàn ông đang chơi bóng đá ngoài sân .
+/dataset/test/images/000000245697.jpg	Quả bóng chày đang nàm kế bên gậy bóng chày trên bàn .
+/dataset/test/images/000000009895.jpg	Hình ảnh hai cậu bé đang chơi trong khu dân cư .
+/dataset/test/images/000000252470.jpg	Cầu thủ bóng chày đang cầm gậy thi đấu trên sân .
+/dataset/test/images/000000347604.jpg	Người phụ nữ áo đỏ cầm vợt tennis đang đỡ bóng .
+/dataset/test/images/000000457275.jpg	Một con chó đang chạm chân vào quả bóng ở trên sân cỏ .
+/dataset/test/images/000000253264.jpg	Hình ảnh của đứa trẻ và người đàn ông đang chơi bóng chày trên sân .
+/dataset/test/images/000000324006.jpg	Cầu thủ bắt bóng đang đưa tay ra phía trước đón bóng .
+/dataset/test/images/000000154496.jpg	Những người bạn đang chơi bóng đá ở trong công viên .
+/dataset/test/images/000000048604.jpg	Các cầu thủ đang đứng cùng những quả bóng ở trên sân .
+/dataset/test/images/000000542745.jpg	Người đàn ông áo trắng đang chơi tennis trên sân .
+/dataset/test/images/000000333546.jpg	Người phụ nữ đang cầm vợt tennis thi đấu trên sân .
+/dataset/test/images/000000373177.jpg	Hai hình ảnh giống nhau của hai vận động viên đang thi đấu .
+/dataset/test/images/000000153921.jpg	Các cầu thủ bóng đá đang nói chuyện với trọng tài rải rác ở trên sân .
+/dataset/test/images/000000529964.jpg	Vận động viên tennis nữ đang vung vợt đỡ bóng .
+/dataset/test/images/000000090464.jpg	Một trận thi đấu tennis đôi nam đang diễn ra ở trên sân .
+/dataset/test/images/000000174574.jpg	Hai người phụ nữ đang chơi tennis ở trong nhà .
+/dataset/test/images/000000333546.jpg	Người phụ nữ đang vung vợt tennis về phía bóng .
+/dataset/test/images/000000045049.jpg	Ngươi phụ nữ áo vàng đang đứng nhìn động tác đánh quả bóng tennis của đối thủ .
+/dataset/test/images/000000287656.jpg	Người đàn ông áo trắng đang chơi bóng chày trên sân .
+/dataset/test/images/000000380351.jpg	Các cầu thủ bóng đá đang mặc áo khoác luyện tập trên sân .
+/dataset/test/images/000000221625.jpg	Hai hình ảnh giống nhau của người phụ nữ đang đánh tennis .
+/dataset/test/images/000000538747.jpg	Người đàn ông áo trắng đang chơi bóng chày trên sân .
+/dataset/test/images/000000048604.jpg	Các cầu thủ đang bước đi ở trên sân bóng đá .
+/dataset/test/images/000000375321.jpg	Vận động viên tennis đang đứng ngoài biên ném bóng lên phát bóng .
+/dataset/test/images/000000094893.jpg	Hai người đàn ông đang chơi bóng đá ở trên sân .
+/dataset/test/images/000000306890.jpg	Người đàn ông cầm vợt đang hạ thấp người để đón bóng thấp .
+/dataset/test/images/000000392520.jpg	Đội tennis áo cam đang đỡ bóng qua phần sân bên kia .
+/dataset/test/images/000000405210.jpg	Một trận thi đấu bóng đá nam đang diễn ra ở trên sân .
+/dataset/test/images/000000306456.jpg	Người đàn ông trẻ đang giữ bóng dưới chân .
+/dataset/test/images/000000529964.jpg	Hình ảnh kép của người phụ nữ đang cầm vợt chơi tennis .
+/dataset/test/images/000000125218.jpg	Ba người đang đứng ở trên sân bóng chày với găng tay và nón bảo hiểm .
+/dataset/test/images/000000080215.jpg	Một người đànông đang nghiêng người để đánh quả bóng tennis .
+/dataset/test/images/000000559553.jpg	Hai bức ảnh của một trận thi đấu bóng đá nữ ở trên sân .
+/dataset/test/images/000000049429.jpg	Một cô bé đang cầm vợt và quả bóng tennis ở cạnh bức tường .
+/dataset/test/images/000000515075.jpg	Các cầu thủ bóng đá của hai đội đang thi đấu trên sân .
+/dataset/test/images/000000502916.jpg	Người phụ nữ đang nhảy lên vung vợt tennis đánh trả bóng .
+/dataset/test/images/000000094893.jpg	Cầu thủ áo cam đang theo dõi động tác hãm bóng của cầu thủ áo đen .
+/dataset/test/images/000000090464.jpg	Hai nam vận động viên tennis đang cầm vợt và đứng ở trên sân .
+/dataset/test/images/000000442518.jpg	Một cầu thủ bắt bóng đang giữ quả bóng ở trong găng tay .
+/dataset/test/images/000000306890.jpg	Vận động viên tennis đang bước dài để đón banh tennis .
+/dataset/test/images/000000014876.jpg	Một cậu bé đang nghiêng người để đánh quả bóng chày .
+/dataset/test/images/000000085876.jpg	Một cậu bé đang đứng cầm vợt tennis bằng tay trái ở trên sân .
+/dataset/test/images/000000538747.jpg	Hình ảnh cầu thủ bóng chày đang thi đấu và số 746
+/dataset/test/images/000000276062.jpg	Những người đàn ông đang thi đấu bóng đá trên sân trước đông đảo khán giả .
+/dataset/test/images/000000216556.jpg	Đứa trẻ đang luyện tập tennis trên sân cùng nhiều bóng tennis xung quanh .
+/dataset/test/images/000000363257.jpg	Vận động viên tennis đang thi đấu trên sân với đám đông đang quan sát .
+/dataset/test/images/000000154496.jpg	Một người đàn ông đang tâng bóng ở trong công viên .
+/dataset/test/images/000000083174.jpg	Cầu thủ đánh bóng đang nghiêng người để đánh bóng .
+/dataset/test/images/000000502916.jpg	Người phụ nữ đang cầm vợt tennis nhảy lên đánh bóng .
+/dataset/test/images/000000052208.jpg	Hai người phụ nữ đang luyện tập tennis ở trên sân .
+/dataset/test/images/000000338018.jpg	Vận động viên tennis đang đứng trên sân cầm vợt đỡ bóng .
+/dataset/test/images/000000447484.jpg	Một nam vận động viên tennis đang ngửa người để phát bóng .
+/dataset/test/images/000000031642.jpg	Một người đàn ông đang chuẩn bị phát quả bóng tennis .
+/dataset/test/images/000000153921.jpg	Trọng tài đang đứng cạnh các cầu thủ bóng đá ở trên sân .
+/dataset/test/images/000000129437.jpg	Các cầu thủ bóng chày đang luyện tập ở trên sân .
+/dataset/test/images/000000158451.jpg	Những người đàn ông đang luyện tập bóng chày ở trong công viên .
+/dataset/test/images/000000562596.jpg	Một người đàn ông đang dùng vợt để đánh quả bóng tennis .
+/dataset/test/images/000000288943.jpg	Vận động viên tennis đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000198054.jpg	Vận động viên tennis nam đang cầm vợt đứng ngoài biên đánh bóng .
+/dataset/test/images/000000318310.jpg	Người phụ nữ đang vung vợt tennis về phía bóng .
+/dataset/test/images/000000281214.jpg	Hình ảnh kép của người đàn ông đang chơi tennis trên sân .
+/dataset/test/images/000000548822.jpg	Một người đang dẫn bóng trên sân cỏ .
+/dataset/test/images/000000276420.jpg	Vận động viên tennis nữ đang cầm vợt đứng thấp người chuẩn bị đỡ bóng .
+/dataset/test/images/000000208006.jpg	Người phụ nữ đang cầm vợt đánh tennis trên sân .
+/dataset/test/images/000000276062.jpg	Các cầu thủ bóng đá đang thi đấu trên sân trước đông đảo khán giả .
+/dataset/test/images/000000351855.jpg	Vận động viên tennis nam đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000165820.jpg	Một người đàn ông đang cầm găng tay và nhảy lên ở trên sân bóng chày .
+/dataset/test/images/000000405210.jpg	Các bác sĩ đang chăm sóc cho cầu thủ ở trên sân .
+/dataset/test/images/000000049120.jpg	Hai hình ảnh giống nhau của một người đàn ông đang chơi tennis .
+/dataset/test/images/000000455565.jpg	Một người đàn ông đang cầm vợt tennis và đứng ở trên sân .
+/dataset/test/images/000000529137.jpg	Một cầu thủ bóng chày đang trong tư thế ném bóng .
+/dataset/test/images/000000164462.jpg	Một trận thi đấu tennis đôi nữ đang diễn ra ở trên sân .
+/dataset/test/images/000000165820.jpg	Một cầu thủ bắt bóng dang nhảy lên ở trên sân .
+/dataset/test/images/000000252470.jpg	Cầu thủ bóng chày đang vung gậy đánh trả bóng trong trận .
+/dataset/test/images/000000138977.jpg	Những người khác đang theo dõi cú đánh bóng của cậu bé áo xanh .
+/dataset/test/images/000000398696.jpg	Khán giả đang theo dõi một trận thi đấu tennis nam ở trên sân .
+/dataset/test/images/000000539270.jpg	Những người đàn ông đang chơi bóng chày trên sân .
+/dataset/test/images/000000425200.jpg	Một nữ vận động viên tennis đang dùng vợt để đánh bóng .
+/dataset/test/images/000000125218.jpg	Hai người phụ nữ đang đứng ở cạnh gôn ở trên sân .
+/dataset/test/images/000000099184.jpg	Một cầu thủ bóng đá đang đứng ở trước khung thành với quả bóng trên tay .
+/dataset/test/images/000000572998.jpg	Một cầu thủ đánh bóng đang xoay người để đánh bóng .
+/dataset/test/images/000000129510.jpg	Hai nam vận động viên tennis đang thi đấu ở trên sân .
+/dataset/test/images/000000170227.jpg	Một người phụ nữ đang quan sát đường bay của quả bóng tennis .
+/dataset/test/images/000000443393.jpg	Hai bức ảnh của một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000559306.jpg	Một người đàn ông đang cầm gậy bóng chày và đứng nghiêng người qua trái .
+/dataset/test/images/000000518858.jpg	Các cầu thủ bóng đá đang luyện tập đá bóng trên sân .
+/dataset/test/images/000000306456.jpg	Người đàn ông đang chơi đá banh trên sân cỏ .
+/dataset/test/images/000000070749.jpg	Một nam vận động viên tennis đang vươn người để đánh bóng .
+/dataset/test/images/000000123558.jpg	Cầu thủ áo xanh đang ngã vào chân của cầu thủ áo trắng .
+/dataset/test/images/000000572998.jpg	Một người đàn ông đang vung gậy để đánh quả bóng chày .
+/dataset/test/images/000000307475.jpg	Cầu thủ bóng chày đang cầm gậy đánh bóng .
+/dataset/test/images/000000534440.jpg	Hai hình ảnh giống nhau người phụ nữ đang chơi tennis trên sân .
+/dataset/test/images/000000379944.jpg	Cầu thủ đánh bóng đàng cầm gậy đỡ bóng trên sân .
+/dataset/test/images/000000347604.jpg	Hai người phụ nữ áo trắng đang cầm vợt tennis đứng quan sát bóng .
+/dataset/test/images/000000524819.jpg	Người đàn ông áo trắng đang chơi tennis trên sân .
+/dataset/test/images/000000150477.jpg	Một cầu thủ đánh bóng đang giơ gậy lên cao để chuẩn bị đánh bóng .
+/dataset/test/images/000000052943.jpg	Những người đàn ông đang chơi bóng đá ở trên sân .
+/dataset/test/images/000000151927.jpg	Một nữ vận động viên tennis đang chuẩn bị đánh bóng .
+/dataset/test/images/000000045049.jpg	Hai người đang luyện tập tennis ở trên sân vào ban đêm .
+/dataset/test/images/000000476341.jpg	Hai đứa trẻ đang thi đấu bóng chày ngoài sân .
+/dataset/test/images/000000052843.jpg	Một nữ vận động viên tennis đang vung vợt để đánh bóng .
+/dataset/test/images/000000030712.jpg	Hai người bạn đang chụp ảnh sau khi chơi tennis .
+/dataset/test/images/000000104075.jpg	Một nữ vận động viên tennis đang vung vợt để đánh bóng .
+/dataset/test/images/000000048604.jpg	Những người đàn ông đang đứng cùng những quả bóng ở trên sân cỏ .
+/dataset/test/images/000000476045.jpg	Cầu thủ bóng chày đang cầm gậy đứng trên sân chuẩn bị đỡ bóng .
+/dataset/test/images/000000052208.jpg	Hai hình ảnh của những người phụ nữ đang chơi tennis .
+/dataset/test/images/000000014876.jpg	Một cậu bé đang chơi bóng chày ở trong vườn vào ban ngày .
+/dataset/test/images/000000138265.jpg	Hai hình ảnh của một người phụ nữ đang chơi tennis .
+/dataset/test/images/000000246412.jpg	Cầu thủ đánh bóng cầm gậy chuẩn bị đỡ bóng và cầu thủ bắt bóng đang ngồi sẵn sàng bắt bóng .
+/dataset/test/images/000000401094.jpg	Một người phụ nữ đang dùng vợt để đánh quả bóng tennis .
+/dataset/test/images/000000205367.jpg	Hai vận động viên tennis nữ đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000562124.jpg	Nữ vận động viên tennis áo tím đang nhảy lên để đánh bóng .
+/dataset/test/images/000000118272.jpg	Một người phụ nữ đang chuẩn bị dùng vợt để đánh quả bóng tennis .
+/dataset/test/images/000000086549.jpg	Một cầu thủ bóng chày đang giơ gậy lên cao để đánh bóng .
+/dataset/test/images/000000212741.jpg	Người đàn ông áo trắng đang chơi tennis trên sân .
+/dataset/test/images/000000120241.jpg	Những cậu bé đang chơi bóng đá ở trên sân .
+/dataset/test/images/000000405210.jpg	Các cầu thủ bóng đá đang đứng rải rác ở trên sân .
+/dataset/test/images/000000043163.jpg	Một người đàn ông đang bước qua phải để đánh quả bóng tennis .
+/dataset/test/images/000000086549.jpg	Một cầu thủ đánh bóng đang chuẩn bị đánh bóng .
+/dataset/test/images/000000349614.jpg	Cầu thủ áo vàng và cầu thủ áo đỏ đang chạy theo bóng trên sân .
+/dataset/test/images/000000307990.jpg	Người đàn ông đeo kính đen đang chơi tennis trên sân .
+/dataset/test/images/000000140690.jpg	Nam vận động viên áo đỏ đang đứng khuỵu chân ở trên sân tennis .
+/dataset/test/images/000000094155.jpg	Cầu thủ bắt bóng đang đứng cạnh cầu thủ chạy gôn ở trên sân .
+/dataset/test/images/000000316914.jpg	Cầu thủ ném bóng vừa thực hiện cú phát bóng
+/dataset/test/images/000000425200.jpg	Một người phụ nữ đang dùng vợt để đánh quả bóng tennis .
+/dataset/test/images/000000476341.jpg	Cầu thủ bóng chày trẻ đang ném vậy xuống đất .
+/dataset/test/images/000000120241.jpg	Cậu bé áo trắng đang nghiêng người ở trên sân .
+/dataset/test/images/000000455565.jpg	Một người đàn ông đang cầm vợt tennis và thả quả bóng xuống sân .
+/dataset/test/images/000000572998.jpg	Một cầu thủ đánh bóng đang vung gậy để đánh bóng .
+/dataset/test/images/000000281214.jpg	Người đàn ông đang vung vợt tennis đánh trả bóng .
+/dataset/test/images/000000243153.jpg	Hai vận động viên tennis nữ đang cầm vợt tennis đánh đôi trên sân .
+/dataset/test/images/000000123731.jpg	Một nữ vận động viên tennis đang nhảy lên để đánh bóng .
+/dataset/test/images/000000136240.jpg	Cầu thủ bắt bóng và trọng tài đang theo dõi động tác của cầu thủ đánh bóng .
+/dataset/test/images/000000209844.jpg	Hai vận động viên tennis đang thi đấu cùng đội trên sân .
+/dataset/test/images/000000014864.jpg	Một người phụ nữ đang vung vợt để đánh quả bóng tennis .
+/dataset/test/images/000000043856.jpg	Một cô bé đang luyên tập tennis ở trên sân .
+/dataset/test/images/000000538747.jpg	Cầu thủ bóng chày đang vung gậy đỡ bóng trong một trận đấu .
+/dataset/test/images/000000417627.jpg	Một nam vận động viên đang khuỵu gối ở trên sân .
+/dataset/test/images/000000053101.jpg	Một nữ vận động viên tennis đang vung vợt để đánh bóng .
+/dataset/test/images/000000518858.jpg	Các cầu thủ bóng đá đang luyện tập trên sân cỏ .
+/dataset/test/images/000000174574.jpg	Người phụ nữ áo xám đang tung quả bóng lên cao để phát bóng ở trên sân tennis .
+/dataset/test/images/000000429182.jpg	Các cầu thủ khác đang theo dõi cú bắt bóng của cầu thủ bắt bóng .
+/dataset/test/images/000000405210.jpg	Một nam cầu thủ đang bị chấn thương ở trên sân .
+/dataset/test/images/000000357989.jpg	Một số người đang chơi bóng rổ ngoài sân .
+/dataset/test/images/000000256884.jpg	Người phụ nữ áo đỏ đang chơi tennis trên sân .
+/dataset/test/images/000000335660.jpg	Hai vận động viên tennis nữ đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000401885.jpg	Một người phụ nữ đang dùng vợt để đánh quả bóng tennis .
+/dataset/test/images/000000216454.jpg	Hình ảnh của hai đứa trẻ đang chơi bóng chày ngoài sân .
+/dataset/test/images/000000007615.jpg	Ở trên sân , một cầu thủ đánh bóng đang chuẩn bị đánh bóng .
+/dataset/test/images/000000091558.jpg	Một người đàn ông đang nhón chân để đỡ quả bóng tennis .
+/dataset/test/images/000000243660.jpg	Trận đấu bóng chày đang diễn ra với cầu thủ đánh bóng sẵn sàng đỡ bóng .
+/dataset/test/images/000000354575.jpg	Người đàn oông đang cầm vợt tennis đứng ngoài biên giao bóng .
+/dataset/test/images/000000070687.jpg	Trọng tài đang theo dõi động tác của các cầu thủ bóng chày .
+/dataset/test/images/000000099184.jpg	Những người đàn ông đang đứng ở trên sân bóng đá .
+/dataset/test/images/000000180818.jpg	Một cầu thủ ném bóng đang xoay người để thực hiện động tác ném bóng .
+/dataset/test/images/000000094150.jpg	Một người đàn ông đang xoay người để chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000283999.jpg	Cầu thủ đánh bóng đang cầm gậy bước tới đánh trả bóng .
+/dataset/test/images/000000129510.jpg	Một nam vận động viên tennis đang thủ thế trong khi người còn lại đangvung vợt để đánh bóng .
+/dataset/test/images/000000423234.jpg	Một người đàn ông áo xanh đang nằm trên sân và giữ quả bóng chày bằng găng tay .
+/dataset/test/images/000000219335.jpg	người thủ môn nữ đang trong tư thế chuẩn bị chụp bóng .
+/dataset/test/images/000000432884.jpg	Một người phụ nữ đang giơ vợt lên cao để đánh quả bóng tennis .
+/dataset/test/images/000000473928.jpg	Trận bóng chày đang diễn ra với một cầu thủ đang ném bóng .
+/dataset/test/images/000000338018.jpg	Người đàn ông áo trắng đang vung vợt tennis về phía bóng .
+/dataset/test/images/000000083174.jpg	Một người đàn ông đang vung gậy để đánh quả bóng chày .
+/dataset/test/images/000000090238.jpg	Cô gái áo tím đang nghiêng người để đánh quả bóng tennis .
+/dataset/test/images/000000500740.jpg	Một cầu thủ bóng chày đang thi đấu trong hình ảnh quảng cáo kẹo cao su .
+/dataset/test/images/000000123038.jpg	Một người phụ nữ đang xoay người để đánh quả bóng tennis .
+/dataset/test/images/000000349614.jpg	Hai người đàn ồng đang tranh bóng trên sân cỏ .
+/dataset/test/images/000000209844.jpg	Hai hình ảnh giống nhau của hai vận động viên tennis đang thi đấu trên sân .
+/dataset/test/images/000000336532.jpg	Người đàn ông mặc quần trắng đang chơi bóng chày trên sân /
+/dataset/test/images/000000061358.jpg	Những người đàn ông đang luyện tập bóng chày ở trong khung lưới .
+/dataset/test/images/000000562596.jpg	Một người đàn ông đang vươn người để đánh quả bóng tennis .
+/dataset/test/images/000000103401.jpg	Một cầu thủ ném bóng đang chuẩn bị ném quả bóng chày ở trong tay .
+/dataset/test/images/000000276062.jpg	Các cầu thủ bóng đá của hai đội đang thi đấu trên sân .
+/dataset/test/images/000000335013.jpg	Một bé gái đang cầm quả bóng đỏ quan sát hai đứa trẻ chơi điện tử .
+/dataset/test/images/000000564627.jpg	Một người đàn ông đang vung vợt đánh quả bóng tennis .
+/dataset/test/images/000000011015.jpg	Hình ảnh một trận thi đấu bóng đá đang diễn ra .
+/dataset/test/images/000000349614.jpg	Hai cầu thủ bóng đá đang tranh giành bóng trên sân .
+/dataset/test/images/000000104075.jpg	Một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000476045.jpg	Các cầu thủ bóng chày đang thi đấu trên sân .
+/dataset/test/images/000000052957.jpg	Một cậu bé đang giơ gậy bóng chày lên cao ở sau cái lưới .
+/dataset/test/images/000000518858.jpg	Hình ảnh một đội bóng đang tập luyện trên sân trước nhiều người quan sát .
+/dataset/test/images/000000549496.jpg	Một con voi ném bóng rổ tại một buổi biểu diễn.
+/dataset/test/images/000000335660.jpg	Hai hình ảnh giống nhau của hai người phụ nữ đang thi đấu tennis cùng đội .
+/dataset/test/images/000000032603.jpg	Cái thùng gỗ đang mở nắp với găng tay , cây gậy , dây và những quả bóng .
+/dataset/test/images/000000477451.jpg	Đứa trẻ đang đeo găng tay bóng chày chôi ngoài sân cỏ .
+/dataset/test/images/000000143348.jpg	Một nam vận động viên tennis đang nhảy lên để đánh bóng .
+/dataset/test/images/000000052957.jpg	Một cậu bé đang cầm cây gậy ở trong căn phòng .
+/dataset/test/images/000000078986.jpg	Bốn nam vận động viên tennis đang thi đấu ở trên sân .
+/dataset/test/images/000000030712.jpg	Hai cậu bé đang cầm vợt và đứng ở trên sân .
+/dataset/test/images/000000503689.jpg	Đứa trẻ đang cầm gậy bóng chày thi đấu trong trận .
+/dataset/test/images/000000335013.jpg	Bé gái đứng cạnh ghế sofa tay đang cầm bóng .
+/dataset/test/images/000000335013.jpg	Cô bé tay cầm quả bóng đang đứng cạnh người đàn ông .
+/dataset/test/images/000000246918.jpg	Ba hình ảnh của ba người đàn ông đang chơi tennis .
+/dataset/test/images/000000423234.jpg	Một cầu thủ bắt bóng đang nằm trên sân và giữ quả bóng ở trong găng tay .
+/dataset/test/images/000000014876.jpg	Một cậu bé đang vung gậy bóng chày để đánh bóng trong vườn .
+/dataset/test/images/000000384595.jpg	Người đàn ông áo trắng đang chơi bóng chày trên sân .
+/dataset/test/images/000000222555.jpg	Người đàn ông áo đỏ đang cầm vợt đánh tennis trên sân .
+/dataset/test/images/000000150981.jpg	Một nữ vận động viên tennis đang chuẩn bị thả quả bóng xuống đất .
+/dataset/test/images/000000246918.jpg	Ba hình ảnh khác nhau của người đàn ông đang giao bóng .
+/dataset/test/images/000000370851.jpg	Những người đàn ông đang cưỡi voi choi bóng đá .
+/dataset/test/images/000000143348.jpg	Một người đàn ông đang nhảy lên để đánh quả bóng tennis .
+/dataset/test/images/000000335013.jpg	Một số người đang chơi điện tử trong phòng khách .
+/dataset/test/images/000000154564.jpg	Cầu thủ áo trắng đang nằm trên sân trong khi cầu thủ áo đỏ đang đứng cạnh gôn .
+/dataset/test/images/000000242712.jpg	Người đàn ông đang ngồi trên cỏ kế bên quả bóng .
+/dataset/test/images/000000432884.jpg	Một người phụ nữ đang xoay người để đánh quả bóng tennis .
+/dataset/test/images/000000103401.jpg	Một người đàn ông đang chuẩn bị ném quả bóng chày ở trong tay .
+/dataset/test/images/000000182861.jpg	Một cậu bé đang luyện tập bóng chày ở trên sân .
+/dataset/test/images/000000445073.jpg	Hai người đàn ông đang cầm vợt tennis và bước đi ở trên sân .
+/dataset/test/images/000000094155.jpg	Hai người đàn ông đang chơi bóng chày ở trên sân .
+/dataset/test/images/000000373177.jpg	Hai vận động viên tennis đang cầm vợt thi đấu đôi .
+/dataset/test/images/000000448826.jpg	Một người đàn ông đang cầm vợt tennis và đứng xoay người ở trên sân .
+/dataset/test/images/000000413324.jpg	Một người đàn ông đang vươn người để đánh quả bóng tennis .
+/dataset/test/images/000000558942.jpg	Quang cảnh một khu vườn với khung thành và quả bóng đá .
+/dataset/test/images/000000429182.jpg	Những người đàn ông đang chơi bóng chày ở ngoài trời .
+/dataset/test/images/000000267289.jpg	Cầu thủ bóng chày đang vung gậy bóng chày đánh tả bóng .
+/dataset/test/images/000000212741.jpg	Vận động viên tennis nam đang cầm vợt đứng trên sân
+/dataset/test/images/000000338018.jpg	Vận động viên tennis nam đang cầm vợt chuẩn bị đánh bóng .
+/dataset/test/images/000000307990.jpg	Thanh niên đeo kính đen đang đỡ bóng tennis .
+/dataset/test/images/000000240225.jpg	Hai đứa trẻ đang cùng nhau chơi với quả bóng đá trên sân cỏ .
+/dataset/test/images/000000007615.jpg	Ở trên sân , một cầu thủ đánh bóng đang luyện tập .
+/dataset/test/images/000000252470.jpg	Cầu thủ bóng chày đang vung gậy đỡ bóng trên sân nhà .
+/dataset/test/images/000000118535.jpg	Cầu thủ đánh bóng , cầu thủ bắt bóng và trọng tài đang đứng ở gôn .
+/dataset/test/images/000000216114.jpg	Đứa trẻ mặc đồ bóng chày đang cầm gậy thi đấu trên sân .
+/dataset/test/images/000000391325.jpg	Những đứa trẻ đang cùng nhau đá bóng trên sân .
+/dataset/test/images/000000559553.jpg	Các nữ cầu thủ còn lại đang theo dõi cú sút bóng của nữ cầu thủ số 9 .
+/dataset/test/images/000000078986.jpg	Hình ảnh một trận thi đấu tennis đôi nam được chụp từ trên cao .
+/dataset/test/images/000000442518.jpg	Một cầu thủ bắt bóng đang ngồi ở trên sân bóng chày .
+/dataset/test/images/000000416355.jpg	Hai người phụ nữ đang chơi tennis ở trên sân .
+/dataset/test/images/000000080215.jpg	Một nam vận động viên tennis đang nghiêng người để đánh bóng .
+/dataset/test/images/000000417627.jpg	Những người đàn ông đang chơi tennis ở trên sân .
+/dataset/test/images/000000101249.jpg	Những người đàn ông đang chơi bóng chày ở trên sân .
+/dataset/test/images/000000336532.jpg	Cầu thủ đánh bóng đang cầm gậy chuẩn bị đỡ bóng .
+/dataset/test/images/000000413324.jpg	Một nam vận động viên tennis đang vung vợt để đánh bóng .
+/dataset/test/images/000000019318.jpg	Hai cầu thủ bóng chày đang va chạm với nhau khi chơi bóng .
+/dataset/test/images/000000538747.jpg	Cầu thủ bóng chày đang thi đấu trước đông đảo khán giả .
+/dataset/test/images/000000562596.jpg	Một người đàn ông đang nhảy lên để đánh quả bóng tennis .
+/dataset/test/images/000000198042.jpg	Người đàn ông mặc áo trắng đang chuẩn bị ném bóng .
+/dataset/test/images/000000053101.jpg	Hai hình ảnh của một người phụ nữ đang chuẩn bị đánh qủa bóng tennis .
+/dataset/test/images/000000045071.jpg	Trong phòng , có một con mèo , quả bóng màu vàng và cái vali .
+/dataset/test/images/000000338018.jpg	Hình ảnh kép của người đàn ông đang chơi tennis trên sân .
+/dataset/test/images/000000245598.jpg	Đứa trẻ đang cầm gậy bóng chày đánh trả bóng trên sân .
+/dataset/test/images/000000476341.jpg	cầu thủ bóng chày trẻ đứng trên san thả gậy xuống sân .
+/dataset/test/images/000000328574.jpg	Hai nguời đàn ông đang cưỡi ngựa và cầm súng trên tay .
+/dataset/test/images/000000518858.jpg	Một đội bóng đang tập luyện trên sân thi đấu .
+/dataset/test/images/000000392520.jpg	MỘt số người đang chơi tennis trên sân .
+/dataset/test/images/000000085872.jpg	Cầu thủ ném bóng đang chuẩn bị ném quả bóng ở trong tay .
+/dataset/test/images/000000245697.jpg	Gậy bóng chày và quả bóng chày được đặt trên bàn trưng bày .
+/dataset/test/images/000000554036.jpg	Một trận bóng chày đang diễn ra với sự vung gậy.
+/dataset/test/images/000000559306.jpg	Khán giả đang theo dõi một trận thi đấu bóng chày nam .
+/dataset/test/images/000000153921.jpg	Trọng tài đang nói chuyện với các cầu thủ bóng đá ở trên sân .
+/dataset/test/images/000000242712.jpg	Người đàn ông đang ngồi cạnh quả bóng nhìn xuống dưới .
+/dataset/test/images/000000388641.jpg	Vận động viên tennis đang đứng trên sân đỡ bóng .
+/dataset/test/images/000000539270.jpg	Một số người đàn ông đang chơi bóng chày trên sân .
+/dataset/test/images/000000085948.jpg	Khán giả đang theo dõi buổi biểu diễn xiếc voi .
+/dataset/test/images/000000429182.jpg	Một người đàn ông với cái găng tay đang nhảy lên để bắt quả bóng chày .
+/dataset/test/images/000000151927.jpg	Một nữ vận động viên tennis đang ngửa người để đánh bóng .
+/dataset/test/images/000000209844.jpg	Hình ảnh kép của hai người đàn ông đang chơi tennis trên sân
+/dataset/test/images/000000078986.jpg	Khán giả đang theo dõi một trận thi đấu tennis đôi nam ở trên sân .
+/dataset/test/images/000000349614.jpg	Hai hình ảnh giống nhau của một nhóm người đan đá bóng trên sân .
+/dataset/test/images/000000157239.jpg	Một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000043873.jpg	Bên trái con gấu , một quả bóng đang nổi trên mặt hồ .
+/dataset/test/images/000000380351.jpg	Các cầu thủ bóng đá đang luyện tập trên sân dưới trời nắng .
+/dataset/test/images/000000473616.jpg	Vận động viên tennis đang cầm vợt đứng ngoài biên giao bóng .
+/dataset/test/images/000000324006.jpg	Cầu thủ bát bóng đang ngồi thấp người đón bóng .
+/dataset/test/images/000000023098.jpg	Người mẹ đang theo dõi động tác đánh bóng của con gái mình .
+/dataset/test/images/000000390213.jpg	Hai hình ảnh giống nhau của người phụ nữ đang chơi tennis .
+/dataset/test/images/000000014864.jpg	Một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000242739.jpg	Một nhóm trẻ em chơi với một quả bóng đá khổng lồ trong bãi đậu xe.
+/dataset/test/images/000000471558.jpg	Vận động viên tennis nam đang nhảy tới đỡ bóng .
+/dataset/test/images/000000471558.jpg	Vận động viên tennis nam đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000287656.jpg	Cầu thủ bóng chày đang vung gậy đỡ bóng trong trận .
+/dataset/test/images/000000328574.jpg	Hai người đàn ông đang phi ngựa qua chướng ngại vật .
+/dataset/test/images/000000085872.jpg	Cầu thủ ném bóng đang luyện tập ném bóng dưới sự theo dõi của đồng đội .
+/dataset/test/images/000000446557.jpg	Một cô bé đang cầm quả bóng chày bằng cái găng tay .
+/dataset/test/images/000000061358.jpg	Cậu bé đang vung gậy để đánh quả bóng chày ở trước tấm lưới .
+/dataset/test/images/000000558942.jpg	Ở trên sân cỏ , một quả bóng đang nằm ở dưới cái lưới .
+/dataset/test/images/000000336532.jpg	Vận động viên bóng chày áo số 14 đang cầm gậy chuẩn bị đánh bóng .
+/dataset/test/images/000000070687.jpg	Những người đàn ông đang chơi bóng chày ở trên sân .
+/dataset/test/images/000000129510.jpg	Một trận thi đấu tennis đôi nam đang diễn ra ở trên sân .
+/dataset/test/images/000000011015.jpg	Một cầu thủ đang ôm quả bóng trên tay .
+/dataset/test/images/000000061358.jpg	Cậu bé đang vung gậy để đánh quả bóng chày ở trên sân .
+/dataset/test/images/000000281214.jpg	Hai hình ảnh giống nhau của người đàn ông áo xanh dương đang cầm vợt đánh tennis .
+/dataset/test/images/000000465412.jpg	Ở trên sân , một người phụ nữ đang đưa vợt tennis ra sau và quan sát quả bóng .
+/dataset/test/images/000000371735.jpg	Người đàn ông đang cầm vợt và bóng tennis chuẩn bị giao bóng .
+/dataset/test/images/000000184371.jpg	Một người đàn ông với cái găng tay đang nhìn quả bóng chày .
+/dataset/test/images/000000328574.jpg	Hai người đàn ông cưỡi ngựa đang nhảy qua chướng ngại vật
+/dataset/test/images/000000465198.jpg	Ở trên sân tennis , một người phụ nữ đang đưa vợt lên cao và nhìn lên quả bóng .
+/dataset/test/images/000000392776.jpg	Người phụ nữ đang chơi tennis trên sân dưới trời nắng .
+/dataset/test/images/000000154496.jpg	Những người đàn ông đang chơi bóng đá ở trên sân .
+/dataset/test/images/000000252470.jpg	Cầu thủ bóng chày đang đứng trên sân nhà cầm gậy đỡ bóng .
+/dataset/test/images/000000539270.jpg	Một cầu thủ bóng chày vừa thực hiện cú ném bóng .
+/dataset/test/images/000000085876.jpg	Một cậu bé đang giơ vợt lên cao ở trên sân tennis .
+/dataset/test/images/000000267957.jpg	Cầu thủ bóng chày đang cầm gậy bóng chày sẵn sàng đỡ bóng .
+/dataset/test/images/000000390213.jpg	Vận động viên tennis nữ đang cầm vợt đỡ bóng thấp .
+/dataset/test/images/000000333546.jpg	Người phụ nữ đang cầm vợt tennis đỡ bóng thấp .
+/dataset/test/images/000000272735.jpg	Đứa trẻ đang cầm vợt đánh tennis trên sân .
+/dataset/test/images/000000052843.jpg	Một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000032603.jpg	Bộ dụng cụ chơi bóng chày và bóng bầu dục ở trong cái thùng gỗ .
+/dataset/test/images/000000102835.jpg	Một nam vận động viên tennis đang nhảy lên ở trên sân .
+/dataset/test/images/000000090238.jpg	Những người phụ nữ đang luyện tập tennis ở trên sân .
+/dataset/test/images/000000448826.jpg	Một người đàn ông đang cầm vợt tennis và đứng ở trên sân .
+/dataset/test/images/000000059252.jpg	Những người đàn ông đang chơi bóng đá ở trên sân .
+/dataset/test/images/000000398696.jpg	Một người đàn ông đang cầm vợt tennis và đứng ở trên sân .
+/dataset/test/images/000000073999.jpg	Một người đàn ông đang chơi tennis ở trên sân .
+/dataset/test/images/000000180818.jpg	Một người đàn ông đang xoay người để ném quả bóng chày .
+/dataset/test/images/000000031642.jpg	Một vận động viên tennis đang luyện tập ở ngoài trời .
+/dataset/test/images/000000307990.jpg	Người đàn ông mặc áo trắng đang chuẩn bị đánh bóng .
+/dataset/test/images/000000219335.jpg	người phụ nữ đang chơi bóng đá ở vị trí thủ môn .
+/dataset/test/images/000000090464.jpg	Hai nam vận động viên tennis đang thi đấu ở trên sân .
+/dataset/test/images/000000335660.jpg	Hai ảnh kép của hai người phụ nữ đang thi đấu trên sân .
+/dataset/test/images/000000208006.jpg	Người phụ nữ mặc áo đen đang chơi tennis trên sân .
+/dataset/test/images/000000429182.jpg	Một cầu thủ bắt bóng đang nhảy lên ở trên gôn để bắt bóng .
+/dataset/test/images/000000212741.jpg	Vận động viên tennis đang đứng ngoài biên nhồi bóng .
+/dataset/test/images/000000455565.jpg	Một nam vận động viên tennis đang cầm vợt và thả quả bóng xuống sân .
+/dataset/test/images/000000529137.jpg	Một cầu thủ bóng chày đang thực hiện cú ném bóng trong trận .
+/dataset/test/images/000000043163.jpg	Hai bức ảnh giống nhau của một vận động viên tennis .
+/dataset/test/images/000000045554.jpg	Một cầu thủ đánh bóng đang dùng gậy của mình để đánh quả bóng .
+/dataset/test/images/000000370851.jpg	Những con vui đang được điều khiển chơi đá bóng .
+/dataset/test/images/000000391325.jpg	Những đứa trẻ đang ở ngoài sân tập đá bóng .
+/dataset/test/images/000000094893.jpg	Hai cầu thủ đang thi đấu bóng đá ở trên sân .
+/dataset/test/images/000000253264.jpg	Người đàn ông đang đeo găng tay bóng chày chụp bóng từ đứa trẻ .
+/dataset/test/images/000000564627.jpg	Một nam vận động viên tennis đang vung vợt để đánh quả bóng tennis .
+/dataset/test/images/000000416355.jpg	Một người phụ nữ đang cầm vợt và di chuyển ở trên sân .
+/dataset/test/images/000000307990.jpg	Thanh niên áo trắng đang cầm vợt tennis đánh bóng .
+/dataset/test/images/000000532014.jpg	Đứa trẻ đang cầm gậy bóng chày thi đấu ngoài sân .
+/dataset/test/images/000000090464.jpg	Hai nam vận động viên tennis đang đứng nhìn quả bóng .
+/dataset/test/images/000000123731.jpg	Một người phụ nữ đang dùng vợt để đánh quả bóng tennis .
+/dataset/test/images/000000549496.jpg	Voi nhúng bóng rổ qua một cái vòng trong sân vận động trong nhà
+/dataset/test/images/000000073212.jpg	Một người đàn ông đang giơ vợt để đánh quả bóng tennis .
+/dataset/test/images/000000380351.jpg	Các cầu thủ bóng đá đang đứng trên sân cùng bóng .
+/dataset/test/images/000000076740.jpg	Một nữ vận động viên tennis đang nhón chân để đánh bóng .
+/dataset/test/images/000000555956.jpg	Một cậu bé chơi tennis, với cây vợt của mình cào xuống đất.
+/dataset/test/images/000000011015.jpg	Các cầu thủ bóng đá đang đứng gần nhau ở trên sân .
+/dataset/test/images/000000245598.jpg	Đứa trẻ đang cầm gậy đỡ bóng trên sân trong trận bóng chày .
+/dataset/test/images/000000143348.jpg	Một nam vận động viên tennis đang vươn người lên để đánh bóng .
+/dataset/test/images/000000455565.jpg	Một nam vận động viên tennis đang cầm vợt và đứng ở trên sân .
+/dataset/test/images/000000221625.jpg	Hình ảnh kép của người phụ nữ đang chơi tennis trên sân .
+/dataset/test/images/000000378081.jpg	Người đàn ông đang vung vợt tennis đánh bóng .
+/dataset/test/images/000000283999.jpg	Cầu thủ đánh bóng đang đứng trước cầu thủ bắt bóng cố gắng đỡ bóng bằng gậy .
+/dataset/test/images/000000032603.jpg	Một cái thùng gỗ cũ đựng các dụng cụ thể thao ở bên trong .
+/dataset/test/images/000000390213.jpg	Vận động viên tennis đang vung vợt đánh bóng .
+/dataset/test/images/000000335660.jpg	Vận động viên tennis nữ đang vung vợt về phía bóng .
+/dataset/test/images/000000445073.jpg	Một trận thi đấu tennis đôi nam đang diễn ra ở trên sân .
+/dataset/test/images/000000443393.jpg	Một người phụ nữ đang xoay người lên để đánh quả bóng tennis .
+/dataset/test/images/000000208006.jpg	Người phụ nữ đang vung vợt tennis đánh bóng .
+/dataset/test/images/000000043856.jpg	Một cô bé đang theo dõi diễn biến của đối thủ ở trên sân tennis .
+/dataset/test/images/000000045049.jpg	Người phụ nữ áo đen đang đánh quả bóng tennis về phía đối thủ .
+/dataset/test/images/000000052957.jpg	Một cậu bé đang luyện tập bóng chày ở sau cái lưới .
+/dataset/test/images/000000243660.jpg	Những cầu thủ bóng chày đang thi đấu trên sân .
+/dataset/test/images/000000086549.jpg	Một người đàn ông đang xoay người để đánh quả bóng chày .
+/dataset/test/images/000000481168.jpg	Người phụ nữ áo trắng đang chơi tennis trên sân .
+/dataset/test/images/000000145926.jpg	Những người đàn ông đang chơi bóng chày ở trên sân .
+/dataset/test/images/000000272735.jpg	Đứa trẻ áo xanh lá đang chơi tennis trên sân .
+/dataset/test/images/000000090238.jpg	Những người phụ nữ đang chơi tennis ở trên sân .
+/dataset/test/images/000000392776.jpg	Người phụ nữ cầm vợt tennis chuẩn bị giao bóng .
+/dataset/test/images/000000198054.jpg	Vận động viên tennis nam đang vung vợt đánh bóng .
+/dataset/test/images/000000120241.jpg	Phụ huynh đang theo dõi buổi tập luyện bóng đá của con mình .
+/dataset/test/images/000000180818.jpg	Một cầu thủ ném bóng đang bước tới trước để ném quả bóng chày .
+/dataset/test/images/000000376843.jpg	Vận động viên tennis đang cầm vợt đứng ngoài biên đỡ bóng .
+/dataset/test/images/000000432884.jpg	Một nữ vận động viên tennis đang giơ vợt lên để đánh bóng .
+/dataset/test/images/000000240225.jpg	Hình ảnh của hai đứa trẻ đang chơi bóng đá trên sân cỏ .
+/dataset/test/images/000000023098.jpg	Cô bé và mẹ của mình đang luyện tập chơi tennis ở gần nhà .
+/dataset/test/images/000000157239.jpg	Hai hình ảnh của một nữ vận động viên tennis đang vung vợt để đánh bóng .
+/dataset/test/images/000000448826.jpg	Khán giả đang theo dõi một trận thi đấu tennis nam ở trên sân .
+/dataset/test/images/000000101249.jpg	Các cầu thủ bóng chày đang thi đấu ở trên sân .
+/dataset/test/images/000000104075.jpg	Một người phụ nữ đang vung vợt để đánh quả bóng tennis .
+/dataset/test/images/000000246412.jpg	Cầu thủ đánh bóng sẵn sàng vung vợt đánh trả bóng trong trận đấu .
+/dataset/test/images/000000316914.jpg	Cầu thủ đánh bóng đang đưa gậy về phía sau quan sát bóng .
+/dataset/test/images/000000473928.jpg	Trận bóng chày đang diễn ra với cầu thủ đánh bóng sẵn sàng đỡ bóng trên sân nhà .
+/dataset/test/images/000000014864.jpg	Một nữ vận động viên tennis đang chuẩn bị đánh bóng .
+/dataset/test/images/000000306890.jpg	Người đàn ông cầm vợt tennis đang đuổi theo bóng .
+/dataset/test/images/000000145926.jpg	Các cầu thủ bóng chày đang thi đấu ở trên sân .
+/dataset/test/images/000000267957.jpg	Cầu thủ bóng chày đang cầm gậy thi đấu trên sân .
+/dataset/test/images/000000445073.jpg	Hai người đàn ông đang cầm vợt tennis và đứng ở trên sân .
+/dataset/test/images/000000572998.jpg	Một người đàn ông đang xoay người để đánh quả bóng chày .
+/dataset/test/images/000000548822.jpg	Một người đang đá bóng trên sân cỏ .
+/dataset/test/images/000000118535.jpg	Cầu thủ đánh bóng đang cầm gậy và đứng cạnh trọng tài và cầu thủ bắt bóng .
+/dataset/test/images/000000007615.jpg	Ở trên sân , một cầu thủ đánh bóng đang vung gậy để đánh bóng .
+/dataset/test/images/000000384595.jpg	Cầu thủ bóng chày đang cầm gậy đỡ bóng trong trận đấu .
+/dataset/test/images/000000007615.jpg	Ở trên sân , một người đàn ông đang nghiêng người để chuẩn bị đánh quả bóng chày .
+/dataset/test/images/000000170227.jpg	Một người phụ nữ đang đứng ở trên sân tennis với cái vợt ở trong tay .
+/dataset/test/images/000000143348.jpg	Một người đàn ông đang vươn người để đánh quả bóng tennis .
+/dataset/test/images/000000070687.jpg	Những người đàn ông đang chơi bóng chày ở trong công viên .
+/dataset/test/images/000000362898.jpg	Hai hình ảnh giống nhau của thủ môn đang bảo về cầu môn .
+/dataset/test/images/000000125218.jpg	Người đàn ông đang đứng quay lưng với hai người phụ nữ ở cạnh gôn .
+/dataset/test/images/000000401885.jpg	Hai bức ảnh của một người phụ nữ đang chơi tennis ở trên sân .
+/dataset/test/images/000000245598.jpg	Đứa trẻ đang cầm gậy bóng chày vung gậy đánh trả bóng .
+/dataset/test/images/000000370851.jpg	Những người cưỡi voi đang thi đấu bóng đá trong sở thú .
+/dataset/test/images/000000165820.jpg	Một cầu thủ bóng chày đang nhảy lên ở trên sân .
+/dataset/test/images/000000288943.jpg	Vận động viên tennis nam đang vung vợt tennis đánh trả bóng .
+/dataset/test/images/000000349919.jpg	Hai vận động viên tennis nữ đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000085876.jpg	Một cậu bé đang đứng vung vợt ở trên sân tennis .
+/dataset/test/images/000000477451.jpg	Đứa trẻ đang đeo găng tay bóng chày bắt bóng thấp trên sân .
+/dataset/test/images/000000509030.jpg	Đứa trẻ đội mũ bóng chày đang chơi bóng chày ngoài sân .
+/dataset/test/images/000000351855.jpg	Vận động viên tennis đang cầm vợt chạy theo bóng .
+/dataset/test/images/000000011015.jpg	Một cầu thủ đang ôm quả bóng để chuẩn bị phạt góc .
+/dataset/test/images/000000023098.jpg	Cô bé đang bước tới trước để thực hiện động tác đánh bóng .
+/dataset/test/images/000000503689.jpg	Cầu thủ bóng chày trẻ đang cầm gậy thi đấu trên sân .
+/dataset/test/images/000000349614.jpg	Hình ảnh kép của một số người đang chơi bóng đá trên sân .
+/dataset/test/images/000000425200.jpg	Một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000243153.jpg	Hai hình ảnh giống nhau của hai người phụ nữ đang đánh tennis trên sân .
+/dataset/test/images/000000123731.jpg	Một người phụ nữ đang nhảy lên để đánh quả bóng tennis .
+/dataset/test/images/000000548822.jpg	Người đàn ông đang chơi bóng trên san cỏ dưới trời nắng .
+/dataset/test/images/000000392520.jpg	Cầu thủ tennis của đội áo cao đang cố gắng đỡ bóng .
+/dataset/test/images/000000045071.jpg	Bên cạnh cái vali và con mèo , quả bóng màu vàng đang nằm ở trên sàn .
+/dataset/test/images/000000532014.jpg	Đứa trẻ đang chơi bóng chày ngoài sân .
+/dataset/test/images/000000445073.jpg	Hai người đàn ông đang luyện tập tennis ở trên sân .
+/dataset/test/images/000000182861.jpg	Một cậu bé đang nghiêng người để ném quả bóng chày ở trong tay .
+/dataset/test/images/000000061358.jpg	Những người đàn ông đang chơi bóng chày ở trong khung lưới .
+/dataset/test/images/000000043873.jpg	Một con gấu đang đứng trên tảng đá ở cạnh hồ nước .
+/dataset/test/images/000000085948.jpg	Con voi đang dùng vòi để đưa bóng vào rổ ở trên sân khấu .
+/dataset/test/images/000000125218.jpg	Người đàn ông đang xoay đầu về phía hai người phụ nữ ở cạnh gôn .
+/dataset/test/images/000000375321.jpg	Vận động viên tennis đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000085876.jpg	Một cậu bé đang đưa vợt ra sau để chuẩn bị đánh bóng .
+/dataset/test/images/000000009895.jpg	Một cậu bé đang vung gậy đánh bóng và một cậu bé ngồi trên xe đạp .
+/dataset/test/images/000000562124.jpg	Một người phụ nữ đang nhảy lên để đánh quả bóng tennis .
+/dataset/test/images/000000401885.jpg	Một người phụ nữ đang cúi người để đánh quả bóng tennis .
+/dataset/test/images/000000562124.jpg	Nữ vận động viên tennis áo trắng đang quan sát cú đánh bóng của nữ vận động viên áo tím .
+/dataset/test/images/000000287656.jpg	Cầu thủ bóng chày đang đỡ bóng bằng gậy bóng chày .
+/dataset/test/images/000000500740.jpg	Người đàn ông áo trắng đang chơi bóng chày trên sân .
+/dataset/test/images/000000052208.jpg	Một người phụ nữ đang dùng vợt để đỡ quả bóng tennis .
+/dataset/test/images/000000118535.jpg	Cầu thủ bắt bóng đang đứng cạnh trọng tài và cầu thủ đánh bóng .
+/dataset/test/images/000000118535.jpg	Những người đàn ông đang đứng ở trên sân bóng chày .
+/dataset/test/images/000000481168.jpg	Đứa trẻ đang cầm vợt tennis nhảy lên đánh bóng .
+/dataset/test/images/000000529964.jpg	Vận động viên tennis nữ đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000539270.jpg	Một cầu thủ bóng chày vừa tung cú ném bóng trong trận .
+/dataset/test/images/000000471558.jpg	Hình ảnh kép của người đàn ông đang chơi tennis trên sân .
+/dataset/test/images/000000164462.jpg	Người phụ nữ áo trắng đang theo dõi chuyển động của người phụ nữ áo xanh .
+/dataset/test/images/000000307990.jpg	Thanh niên trẻ đang đỡ bóng tennis bằng vợt .
+/dataset/test/images/000000463758.jpg	Một người đàn ông đang sải bước để đánh quả bóng tennis .
+/dataset/test/images/000000376843.jpg	Người đàn ông áo xanh biển đang chơi tennis trên sân .
+/dataset/test/images/000000123731.jpg	Hai hình ảnh của một người phụ nữ đang nhảy lên để đánh quả bóng tennis .
+/dataset/test/images/000000455565.jpg	Khán giả đang theo dõi một trận thi đấu tennis nam ở trên sân .
+/dataset/test/images/000000009895.jpg	Hai cậu bé đang chơi đùa trên vỉa hè ở ngoài trời .
+/dataset/test/images/000000216454.jpg	Đứa trẻ đang cầm gậy bóng chày chuẩn bị vung gậy đánh bóng .
+/dataset/test/images/000000052208.jpg	Một người phụ nữ đang theo dõi cú đánh bóng của người phụ nữ khác .
+/dataset/test/images/000000532014.jpg	Đứa trẻ đang vung gậy bóng chày đánh trả bóng .
+/dataset/test/images/000000209844.jpg	Hai vận động viên tennis đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000240225.jpg	Hình ảnh hai đứa trẻ đang cùng nhau đá bóng trên sân cỏ dưới trời nắng .
+/dataset/test/images/000000049120.jpg	Hai hình ảnh của một vận động viên tennis đang thi đấu .
+/dataset/test/images/000000481168.jpg	Đứa trẻ đang nhảy lên vung vợt tennis bằng hai tay đỡ bóng .
+/dataset/test/images/000000379944.jpg	Cầu thủ bóng chày đang vung gậy đánh bóng .
+/dataset/test/images/000000432884.jpg	Hai bức ảnh của một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000118272.jpg	Một người phụ nữ đang chuẩn bị khuỵu gối để đỡ quả bóng tennis .
+/dataset/test/images/000000333383.jpg	Người phụ nữ đang cầm vợt tennis đánh bóng .
+/dataset/test/images/000000070749.jpg	Một nam vận động viên tennis đang thi đấu ở trên sân .
+/dataset/test/images/000000515075.jpg	Một cầu thủ bóng đá đang chuẩn bị sút bóng trên sân .
+/dataset/test/images/000000157239.jpg	Hai hình ảnh của một người phụ nữ đang vung vợt để đánh quả bóng tennis .
+/dataset/test/images/000000031642.jpg	Một vận động viên tennis đang chuẩn bị phát bóng .
+/dataset/test/images/000000423234.jpg	Một người đàn ông áo đỏ đang chạy ở trên sân .
+/dataset/test/images/000000242739.jpg	Một số trẻ em chơi với một quả bóng đá lớn.
+/dataset/test/images/000000349919.jpg	Người phụ nữ đang cầm vợt tennis đứng trên sân đánh bóng .
+/dataset/test/images/000000222555.jpg	Hình ảnh kép của người đàn ông áo đỏ đang chơi tennis trên sân .
+/dataset/test/images/000000123558.jpg	Cầu thủ áo xanh đang ngồi tựa lưng vào chân của cầu thủ áo trắng .
+/dataset/test/images/000000481168.jpg	Đứa trẻ đang vung vợt tennis đánh trả bóng .
+/dataset/test/images/000000581409.jpg	Một cậu bé đang luyện tập bóng chày ở trên sân .
+/dataset/test/images/000000240225.jpg	Hai đứa trẻ đang chơi với quả bóng đá dưới trời nắng .
+/dataset/test/images/000000524819.jpg	Người đàn ông đang cầm vợt tennis chuẩn bị đỡ bóng thấp .
+/dataset/test/images/000000458147.jpg	Hai nam vận động viên tennis đang di chuyển ở trên sân .
+/dataset/test/images/000000287656.jpg	Cầu thủ bóng chày đang vung gậy đánh trả bóng .
+/dataset/test/images/000000316807.jpg	Vận động viên tennis đang cầm vợt nhảy lên đỡ bóng .
+/dataset/test/images/000000245598.jpg	Đứa trẻ đang cầm gậy bóng chày thi đấu trên sân .
+/dataset/test/images/000000085872.jpg	Những người đàn ông đang chơi bóng chày ở ngoài trời .
+/dataset/test/images/000000138977.jpg	Một cầu thủ đánh bóng nhí đang vung gậy để đánh bóng .
+/dataset/test/images/000000517906.jpg	Một đứa trẻ đang cầm vợt đánh tennis trên sân .
+/dataset/test/images/000000333383.jpg	Vận động viên tennis nữ đang thi đấu trên sân .
+/dataset/test/images/000000176477.jpg	Một nam vận động viên tennis đang nhảy lên để đánh bóng .
+/dataset/test/images/000000052208.jpg	Một người phụ nữ đang chơi tennis ở trên sân .
+/dataset/test/images/000000059252.jpg	Những người đàn ông đang xếp hàng ở trên sân .
+/dataset/test/images/000000529964.jpg	Hai hình ảnh giống nhau người phụ nữ đang chơi tennis .
+/dataset/test/images/000000316914.jpg	Cầu thủ ném bóng đang ném bóng về phía cầu thủ bắt bóng .
+/dataset/test/images/000000222555.jpg	Hai hình ảnh giống nhau của người đàn ông áo đỏ đang chơi tennis trên sân .
+/dataset/test/images/000000131522.jpg	Khán giả đang theo dõi cú đánh bóng của cầu thủ đánh bóng .
+/dataset/test/images/000000240225.jpg	Hình ảnh của hai đứa trẻ đang đá bóng trên sân cỏ .
+/dataset/test/images/000000246918.jpg	Ba hình ảnh khác nhau của ba người đàn ông đang cầm vợt đánh tennis .
+/dataset/test/images/000000334171.jpg	Một cậu bé đang chạy xe đạp quan sát cậu bé khác chơi bóng chày .
+/dataset/test/images/000000401885.jpg	Một người phụ nữ đang bước tới trước để đánh quả bóng tennis .
+/dataset/test/images/000000267957.jpg	Người đàn ông áo trắng đang chơi bóng chày trên sân .
+/dataset/test/images/000000363257.jpg	Vận động viên tennis đang giao bóng trước đông đảo khán giả .
+/dataset/test/images/000000565360.jpg	Cầu thủ áo vàng và cầu thủ áo trắng đang chạy cạnh nhau ở trên sân .
+/dataset/test/images/000000458147.jpg	Hai người đàn ông đang cầm vợt và di chuyển ở trên sân tennis .
+/dataset/test/images/000000221625.jpg	Người phụ nữ áo trắng đang vung vợt tennis đánh bóng .
+/dataset/test/images/000000520434.jpg	Hình ảnh kép của người phụ nữ đang thi đấu tennis trên sân .
+/dataset/test/images/000000073212.jpg	Một người đàn ông đang luyện tập tennis ở trên sân .
+/dataset/test/images/000000246875.jpg	Cầu thủ đánh bóng nữ đang đứng trước cầu thủ bắt bóng nữ đỡ bóng .
+/dataset/test/images/000000085948.jpg	Một con voi đang chơi bóng rổ giữa đám đông .
+/dataset/test/images/000000565360.jpg	Cầu thủ áo vàng đang tranh chấp bóng với cầu thủ áo trắng .
+/dataset/test/images/000000020698.jpg	Cậu bé nghiêng người để đỡ quả bóng bằng vợt của mình .
+/dataset/test/images/000000094155.jpg	Cầu thủ chạy gôn đang nằm ở cạnh gôn ở trên sân bóng chày .
+/dataset/test/images/000000401094.jpg	Một nữ vận động viên tennis đang chuẩn bị đánh bóng .
+/dataset/test/images/000000019318.jpg	Một trận thi đấu bóng chày nam đang diễn ra ở trên sân .
+/dataset/test/images/000000049429.jpg	Một đứa trẻ đang cầm cái vợt tennis đồ chơi và quả bóng ở cạnh bức tường .
+/dataset/test/images/000000473616.jpg	Vận động viên tennis nam đang cầm vợt thi đấu trước đông đảo khán giả .
+/dataset/test/images/000000052957.jpg	Một cậu bé đang chơi bóng chày ở sau cái lưới .
+/dataset/test/images/000000371735.jpg	Người đàn ông áo trắng đang chơi tennis trên sân .
+/dataset/test/images/000000154564.jpg	Cầu thủ áo đỏ đang đứng cạnh gôn và nhìn cầu thủ áo trắng nằm trên sân .
+/dataset/test/images/000000392776.jpg	Người phụ nữ đang cầm vợt chơi tennis trên sân .
+/dataset/test/images/000000321346.jpg	Vận động viên tennis đang thi đấu trên sân .
+/dataset/test/images/000000169494.jpg	Những người đàn ông đang chơi bóng chày ở ngoài trời .
+/dataset/test/images/000000443393.jpg	Một người phụ nữ đang giơ vợt lên để đánh quả bóng tennis .
+/dataset/test/images/000000559553.jpg	Các nữ cầu thủ bóng đá đang thi đấu ở trên sân .
+/dataset/test/images/000000032603.jpg	Một cái thùng gỗ có găng tay , quả bóng chày , dây và quả bóng bầu dục .
+/dataset/test/images/000000380351.jpg	Một số người đàn ông đang đứng trên sân cỏ cạnh những quả bóng .
+/dataset/test/images/000000212741.jpg	Vận động viên tennis đang cầm vợt nhồi bóng bằng tay .
+/dataset/test/images/000000417627.jpg	Một trận thi đấu tennis đôi nam đang diễn ra ở trên sân .
+/dataset/test/images/000000378081.jpg	Người đàn ông đang cầm vợt đứng ngoài biên đánh bóng .
+/dataset/test/images/000000259186.jpg	Hình ảnh kép của người đàn ông đang chơi tennis trên sân .
+/dataset/test/images/000000043873.jpg	Một con gấu đang đứng cạnh vũng nước ở trong sở thú .
+/dataset/test/images/000000446557.jpg	Một cậu bé đang cầm quả bóng chày bằng cái găng tay .
+/dataset/test/images/000000165820.jpg	Một cầu thủ ném bóng dang nhảy lên ở trên sân .
+/dataset/test/images/000000379944.jpg	Người đàn ông đang chơi bóng chày trên sân cỏ .
+/dataset/test/images/000000507969.jpg	Người đàn ông đang chơi bóng rổ trên sân .
+/dataset/test/images/000000413324.jpg	Một người đàn ông đang vung vợt để đánh quả bóng tennis .
+/dataset/test/images/000000242739.jpg	Năm cô gái chơi với một quả bóng đá lớn.
+/dataset/test/images/000000442518.jpg	Một người đàn ông giữ quả bóng ở trong cái găng tay .
+/dataset/test/images/000000019318.jpg	Cầu thủ số 10 đang va chạm với cầu thủ bắt bóng .
+/dataset/test/images/000000198054.jpg	Vận động viên tennis nam đang càm vợt đỡ bóng .
+/dataset/test/images/000000376843.jpg	Vận động viên tennis đang cầm vợt đứng ngoài sân đánh bóng .
+/dataset/test/images/000000031642.jpg	Một người đàn ông đang luyện tập tennis ở ngoài trời .
+/dataset/test/images/000000447484.jpg	Một người đàn ông đang quan sát để phát bóng ở trên sân tennis .
+/dataset/test/images/000000101249.jpg	Quả bóng đang bay về phía cầu thủ bắt bóng .
+/dataset/test/images/000000267289.jpg	Cầu thủ bóng chày đang đứng trên sân nhà vung vợt đỡ bóng .
+/dataset/test/images/000000246875.jpg	Người phụ nữ áo đỏ đang chơi bóng chày trên sân .
+/dataset/test/images/000000351855.jpg	Vận động viên tennis đang cầm vợt với đánh bóng .
+/dataset/test/images/000000401094.jpg	Một nữ vận động viên tennis đang bước tới trước để đánh bóng .
+/dataset/test/images/000000555956.jpg	Một người lớn dạy một đứa trẻ chơi tennis trên sân nhựa đường.
+/dataset/test/images/000000222555.jpg	Người đàn ông đang vung vợt tennis đánh bóng tennis .
+/dataset/test/images/000000253264.jpg	Đứa trẻ đang ném quả bóng chày cho người đàn ông .
+/dataset/test/images/000000554036.jpg	Một cầu thủ bóng chày vung gậy để đánh bóng.
+/dataset/test/images/000000446557.jpg	Một cầu thủ bắt bóng đang giữ quả bóng ở trong găng tay .
+/dataset/test/images/000000507969.jpg	Người đàn ông đang đứng trên sân ném rổ .
+/dataset/test/images/000000318310.jpg	Người phụ nữ đang cố đánh bóng tennis qua lưới .
+/dataset/test/images/000000138265.jpg	Hai hình ảnh của một người phụ nữ đang xoay người để đánh quả bóng tennis .
+/dataset/test/images/000000164462.jpg	Nữ vận động viên áo xanh đang nghiêng người để đỡ quả bóng tennis trong khi nữ vận động viên áo trắng đang quan sát .
+/dataset/test/images/000000453682.jpg	Môt người đàn ông đang giơ gậy bóng chày lên cao ở gôn .
+/dataset/test/images/000000094150.jpg	Một người đàn ông đang luyện tập tennis ở trên sân .
+/dataset/test/images/000000094155.jpg	Một cầu thủ bóng chày đang nằm trên sân trong khi một cầu thủ khác đang đứng .
+/dataset/test/images/000000500740.jpg	Hình ảnh quảng cáo kẹo cao su có hai người phụ nữ và một cầu thủ bóng chày . ,
+/dataset/test/images/000000562124.jpg	Một người phụ nữ đang vung vợt để đánh quả bóng tennis .
+/dataset/test/images/000000423234.jpg	Những người đàn ông đang chơi bóng chày ở ngoài trời .
+/dataset/test/images/000000267957.jpg	Cầu thủ bóng chày cầm gậy đứng trên sân chuẩn bị đỡ bóng .
+/dataset/test/images/000000083174.jpg	Cầu thủ bắt bóng và trọng tài đang theo dõi động tác của cầu thủ đánh bóng .
+/dataset/test/images/000000306456.jpg	Người đàn ông áo đỏ đang chơi bóng đá trên sân .
+/dataset/test/images/000000509030.jpg	Đứa trẻ đang ném quả bóng chày trong trận trước nhiều người quan sát .
+/dataset/test/images/000000388641.jpg	Người phụ nữ áo đỏ đang chơi tennis trên sân .
+/dataset/test/images/000000169494.jpg	Một cầu thủ bóng chày đang theo dõi chuyển động của hai cầu thủ ở gôn .
+/dataset/test/images/000000517906.jpg	Đứa trẻ cầm vợt tennis đánh trả bóng .
+/dataset/test/images/000000445073.jpg	Hai người đàn ông đang chơi tennis ở trên sân .
+/dataset/test/images/000000429182.jpg	Các cầu thủ bóng chày đang thi đấu ở ngoài trời .
+/dataset/test/images/000000150981.jpg	Một nữ vận động viên tennis đang đứng cúi người ở trên sân .
+/dataset/test/images/000000334171.jpg	Hình ảnh của một đứa trẻ chạy xe đạp và một đứa trẻ chơi bóng chày ngoài sân .
+/dataset/test/images/000000216114.jpg	Hình ảnh của một trận đấu bóng chày đang diễn ra ngoài sân .
+/dataset/test/images/000000431167.jpg	Một cầu thủ đánh bóng đang vung gậy để đánh bóng .
+/dataset/test/images/000000140690.jpg	Nam vận động viên áo trắng đang chạy ở trên sân tennis .
+/dataset/test/images/000000125218.jpg	Hai người phụ nữ và một người đàn ông đang chơi bóng chày ở trên sân .
+/dataset/test/images/000000045554.jpg	Một cầu thủ đánh bóng đang vung gậy để đánh bóng .
+/dataset/test/images/000000045554.jpg	Hai cầu thủ bóng chày và trọng tài đang đứng ở gôn .
+/dataset/test/images/000000465412.jpg	Ở trên sân , một nữ vận động viên tennis đang chuẩn bị phát bóng .
+/dataset/test/images/000000334171.jpg	Cậu bé áo xám đang vung gậy bóng chày về phía bóng .
+/dataset/test/images/000000138977.jpg	Một cậu bé đang vung gậy để đánh quả bóng chày .
+/dataset/test/images/000000335013.jpg	Cô bé tay cầm quả bóng đang quan sát hai đứa trẻ chơi game .
+/dataset/test/images/000000316807.jpg	Vận động viên tennis nữ đang thi đấu trên sân .
+/dataset/test/images/000000349919.jpg	Người phụ nữ đang cầm vợt tennis đỡ bóng cao .
+/dataset/test/images/000000288943.jpg	Hai hình ảnh giống nhau của người đàn ông áo tím đang chơi tennis trên sân .
+/dataset/test/images/000000221625.jpg	Người phụ nữ đang đứng trên sân tay cầm vợt tennis .
+/dataset/test/images/000000306890.jpg	Người đàn ông áo vàng đang chơi tennis trên sân .
+/dataset/test/images/000000364941.jpg	Vận động viên tennis đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000507969.jpg	Người đàn ông đang cầm quả bóng rổ một tay đứng trên sân .
+/dataset/test/images/000000520434.jpg	Người phụ nữ đang vung tennis đánh trả bóng .
+/dataset/test/images/000000256884.jpg	người phụ nữ đang cầm vợt tennis đỡ bóng cao .
+/dataset/test/images/000000090464.jpg	Hai người đàn ông đang chơi tennis ở trên sân .
+/dataset/test/images/000000318310.jpg	Người phụ nữ áo trắng đang chơi tennis trên sân .
+/dataset/test/images/000000073212.jpg	Một người đàn ông đang dùng vợt để đánh quả bóng tennis .
+/dataset/test/images/000000052943.jpg	Các cầu thủ bóng đá đang chạy ở trên sân cỏ .
+/dataset/test/images/000000447484.jpg	Một người đàn ông đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000457275.jpg	Một con chó đang dùng chân để chạm vào quả bóng ở trên sân cỏ .
+/dataset/test/images/000000043163.jpg	Hai người đàn ông đang bước qua phải để đỡ quả bóng tennis .
+/dataset/test/images/000000354575.jpg	Người đàn ông áo đỏ đang cầm vợt tennis chuẩn bị giao bóng .
+/dataset/test/images/000000045554.jpg	Những người đàn ông đang chơi bóng chày ở ngoài trời .
+/dataset/test/images/000000416355.jpg	Hai bức ảnh của hai người phụ nữ đang chơi tennis ở trên sân .
+/dataset/test/images/000000256884.jpg	Người phụ nữ áo đỏ đang cầm vợt tennis thi đấu trên sân .
+/dataset/test/images/000000104075.jpg	Hai hình ảnh của một nữ vận động viên tennis đang chuẩn bị đánh bóng .
+/dataset/test/images/000000052943.jpg	Các cầu thủ bóng đá đang khởi động trước trận đấu .
+/dataset/test/images/000000534440.jpg	Người phụ nữ vung vợt tennis đánh trả bóng .
+/dataset/test/images/000000061358.jpg	Một cầu thủ bóng chày đang dùng gậy để đánh bóng ở trước tâm lưới .
+/dataset/test/images/000000392520.jpg	Hai cầu thủ tennis cùng đội đang thi đấu trên sân .
+/dataset/test/images/000000347604.jpg	Người phụ nữ áo đỏ đang cầm vợt tennis đứng trên sân đánh bóng .
+/dataset/test/images/000000565360.jpg	Những người đàn ông đang chơi bóng đá ở ngoài trời .
+/dataset/test/images/000000076740.jpg	Một người phụ nữ đang đánh quả bóng tennis ở trên sân .
+/dataset/test/images/000000085564.jpg	Cầu thủ đánh bóng đang giơ gậy lên cao để đánh bóng .
+/dataset/test/images/000000524819.jpg	Người đàn ông đang vung vợt tennis đánh trả bóng .
+/dataset/test/images/000000564627.jpg	Hai bức ảnh của một nam vận động viên tennis đang vung vợt để đánh bóng .
+/dataset/test/images/000000471558.jpg	Hai hình ảnh giống nhau của người đàn ông đang chơi tennis trên sân .
+/dataset/test/images/000000242712.jpg	Hình ảnh chụp từ trên của người đàn ông đang ngồi cạnh quả bóng .
+/dataset/test/images/000000170227.jpg	Một người phụ nữ đang luyện tập tennis ở trên sân .
+/dataset/test/images/000000014864.jpg	Một nữ vận động viên tennis đang dùng vợt để đỡ bóng .
+/dataset/test/images/000000336532.jpg	Cầu thủ đánh bóng đang vung gậy bóng chày về phía bóng .
+/dataset/test/images/000000099184.jpg	Thủ môn đang cầm quả bóng trên tay ở trước khung thành .
+/dataset/test/images/000000559306.jpg	Một cầu thủ đánh bóng đang cầm gậy và đứng cạnh số 754 .
+/dataset/test/images/000000243660.jpg	Hình ảnh của trận đấu bóng chày đang diễn ra với đông đảo khán giả quan sát .
+/dataset/test/images/000000154496.jpg	Những người đàn ông đang chơi bóng đá ở trong công viên .
+/dataset/test/images/000000043856.jpg	Một cô bé đang cúi người và đứng ở trên sân tennis .
+/dataset/test/images/000000524819.jpg	Người đàn ông áo trắng đang cầm vợt đánh tennis trên sân .
+/dataset/test/images/000000020698.jpg	Cậu bé đang chơi đùa ở trên sân tennis cùng với quả bóng và cái vợt .
+/dataset/test/images/000000517906.jpg	Đứa bé gái đang cầm vợt tennis đỡ bóng cao .
+/dataset/test/images/000000316807.jpg	Người phụ nữ áo đen đang chơi tennis trên sân .
+/dataset/test/images/000000380351.jpg	Các cầu thủ bóng đá đang cùng nhau luyện tập bóng đá trên sân .
+/dataset/test/images/000000416535.jpg	Hai hình ảnh của một nữ vận động viên tennis đang thi đấu ở trên sân .
+/dataset/test/images/000000045071.jpg	Trên cái vali , một con mèo đang nằm .
+/dataset/test/images/000000376843.jpg	Vận động viên tennis đang đứng ngoài biên đánh bóng .
+/dataset/test/images/000000351855.jpg	Người đàn ông áo trắng đang chơi tennis trên sân .
+/dataset/test/images/000000243153.jpg	Hình ảnh kép của hai người phụ nữ đang chơi tennis trên sân .
+/dataset/test/images/000000011015.jpg	Một trận thi đấu bóng đá đang diễn ra ở trên sân .
+/dataset/test/images/000000281214.jpg	Người đàn ông đang cầm vợt tennis đứng ngoài biên đỡ bóng .
+/dataset/test/images/000000463758.jpg	Một người đàn ông đang bay người để đánh quả bóng tennis .
+/dataset/test/images/000000554036.jpg	Một cầu thủ bóng chày đánh bóng chày trong một trận bóng chày.
+/dataset/test/images/000000373177.jpg	Hình ảnh kép của hai người đang chơi tennistrên sân .
+/dataset/test/images/000000086549.jpg	Một cầu thủ ném bóng đang theo dõi cú đánh bóng của cầu thủ đánh bóng .
+/dataset/test/images/000000555956.jpg	Một người đàn ông dạy một cậu bé chơi tennis
+/dataset/test/images/000000316914.jpg	Trọng tài áo tím đang quan sát trận bóng chày diễn ra .
+/dataset/test/images/000000267289.jpg	Người đàn ông áo trắng đang chơi bóng chày trên sân .
+/dataset/test/images/000000150477.jpg	Trọng tài và cầu thủ đánh bóng đang theo dõi chuyển động của cầu thủ ném bóng .
+/dataset/test/images/000000049120.jpg	Một vận động viên tennis đang thi đấu ở trên sân .
+/dataset/test/images/000000307475.jpg	Cầu thủ bắt bóng đang đưa tay về phía trước bắt bóng .
+/dataset/test/images/000000542745.jpg	Người đàn ông đang cầm vợt và bóng tennis đứng trên sân .
+/dataset/test/images/000000324006.jpg	Một sô người đang chơi bóng chày trên sân .
+/dataset/test/images/000000045071.jpg	Bên cạnh quả bóng màu vàng , một con mèo đang nằm trên cái vali .
+/dataset/test/images/000000417627.jpg	Một nam vận động viên đang chuẩn bị đánh bóng ở gần lưới .
+/dataset/test/images/000000443393.jpg	Một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000246918.jpg	Một chuỗi những hình ảnh của những nguwofi đang chơi tennis .
+/dataset/test/images/000000431167.jpg	Một người đàn ông đang cầm gậy bóng chày và xoay người ở gôn .
+/dataset/test/images/000000123038.jpg	Hai hình ảnh của một trận thi đấu tennis đôi nam nữ .
+/dataset/test/images/000000059252.jpg	Các cầu thủ bóng đá đang khởi động trước trận đấu .
+/dataset/test/images/000000515075.jpg	Trận đấu bóng đá đang diễn ra vơi cầu thủ chuẩn bị đá phạt góc .
+/dataset/test/images/000000085948.jpg	Một con voi đang chơi bóng rổ ở trên sân khấu .
+/dataset/test/images/000000457275.jpg	Một con chó đang dùng chân để chạm vào quả bóng ở trong vườn .
+/dataset/test/images/000000253264.jpg	Đứa trẻ đang ném quả bóng chày về phía người đàn ông .
+/dataset/test/images/000000529137.jpg	Người đàn ông đang chươi bóng chày trên sân .
+/dataset/test/images/000000174574.jpg	Người phụ nữ áo xám đang chuẩn bị phát bóng ở trên sân tennis .
+/dataset/test/images/000000318310.jpg	Người phụ nữ đang đưa vợt tennis lên cao đánh bóng .
+/dataset/test/images/000000102835.jpg	Một người đàn ông đang nhảy lên không ở trên sân tennis .
+/dataset/test/images/000000392776.jpg	Người phụ nữ mặc đồ tím đang chơi tennis trến sân .
+/dataset/test/images/000000205367.jpg	Hai hình ảnh giống nhau của đội tennis nữ đang thi đấu trên sân .
+/dataset/test/images/000000216454.jpg	Một đứa trẻ đang ném bóng về phía đứa trẻ đang cầm gậy bóng chày .
+/dataset/test/images/000000245697.jpg	Quả bóng chày nằm trên trụ đặt trên bàn cùng gậy bóng chày .
+/dataset/test/images/000000354575.jpg	Hình ảnh kép của người đàn ông áo đỏ đang chơi tennis trên sân .
+/dataset/test/images/000000448826.jpg	Một nam vận động viên tennis đang xoay người ở trên sân .
+/dataset/test/images/000000045554.jpg	Một người đàn ông đang giơ gậy lên để đánh quả bóng chày .
+/dataset/test/images/000000363257.jpg	Vận động viên tennis nam đang đứng trên sân giao bóng .
+/dataset/test/images/000000458147.jpg	Hai bức ảnh của hai người đàn ông đang chơi tennis ở trên sân .
+/dataset/test/images/000000154564.jpg	Cầu thủ áo đỏ đang đứng cạnh gôn trong khi cầu thủ áo trắng đang nằm trên sân .
+/dataset/test/images/000000129437.jpg	Trọng tài đang theo dõi động tác của cầu thủ bắt bóng và cầu thủ đánh bóng .
+/dataset/test/images/000000562596.jpg	Hai người đàn ông đang luyện tập tennis ở trên sân .
+/dataset/test/images/000000471558.jpg	Vận động viên tennis nam đang vung vợt tennis đánh trả bóng .
+/dataset/test/images/000000129437.jpg	Cầu thủ đánh bóng đang giơ gậy lên để chuẩn bị đánh bóng .
+/dataset/test/images/000000405210.jpg	Khán giả đang theo dõi diễn biến của trận thi đấu bóng đá nam .
+/dataset/test/images/000000532014.jpg	Đứa trẻ đang cầm gậy chơi bóng chày ngoài sân .
+/dataset/test/images/000000520434.jpg	Hai hình ảnh giống nhau của người phụ nữ chơi tennis trên sân .
+/dataset/test/images/000000102835.jpg	Hai vận động viên tennis đang nhảy lên ở trên sân .
+/dataset/test/images/000000565360.jpg	Cầu thủ áo trắng đang tranh chấp bóng với cầu thủ áo vàng .
+/dataset/test/images/000000435161.jpg	Những người đàn ông đang chơi bóng đá ở trên sân .
+/dataset/test/images/000000129437.jpg	Cầu thủ bắt bóng , cầu thủ đánh bóng và trọng tài đang tập trung ở gôn .
+/dataset/test/images/000000554036.jpg	một người đàn ông sắp đánh bóng trong một trận bóng chày
+/dataset/test/images/000000379944.jpg	Cầu thủ bóng chày đang cầm gậy thi đấu trên sân .
+/dataset/test/images/000000245697.jpg	Gậy bóng chày đang nằm trên bàn cùng quả bóng chày .
+/dataset/test/images/000000272735.jpg	Đứa trẻ đang đứng gần lưới cầm vợt tennis đỡ bóng .
+/dataset/test/images/000000158451.jpg	Những người đàn ông khác đang theo dõi cú ném bóng của người đàn ông áo đen .
+/dataset/test/images/000000208006.jpg	Người phụ nữ mặc áo đen đang cầm vợt tennis thi đấu trên sân .
+/dataset/test/images/000000070687.jpg	Cầu thủ đánh bóng đang giơ gậy lên cao để đánh bóng .
+/dataset/test/images/000000477451.jpg	Đứa trẻ đang cúi người xuống bắt quả bóng chày .
+/dataset/test/images/000000150477.jpg	Một cầu thủ ném bóng đang ném quả bóng về phía cầu thủ đánh bóng và trọng tài .
+/dataset/test/images/000000198042.jpg	Cầu thủ bóng chày đang thực hiện động tác ném bóng .
+/dataset/test/images/000000529964.jpg	Vận động viên tennis nữ cầm vợt đỡ bóng thấp .
+/dataset/test/images/000000357989.jpg	Một nhóm người đàn ông đang chơi bóng rổ ngoài sân dưới trời nắng .
+/dataset/test/images/000000324006.jpg	Cầu thủ đánh bóng đang vung vợt về phía quả bóng chày .
+/dataset/test/images/000000129510.jpg	Một nam vận động viên tennis đang vung vợt để đánh bóng trong khi người còn lại đang thủ thế .
+/dataset/test/images/000000416535.jpg	Một người phụ nữ đang nhảy lên ở trên sân tennis .
+/dataset/test/images/000000390213.jpg	Hình ảnh kép của người phụ nữ đang chơi tennis .
+/dataset/test/images/000000252470.jpg	Người đàn ông áo đen đang chơi bóng chày trên sân .
+/dataset/test/images/000000515075.jpg	Hình ảnh trận bóng đá đang diễn ra trước đông đảo khán giả .
+/dataset/test/images/000000473928.jpg	Cầu thủ bắt bóng cầm gậy sẵn sàng đón bóng từ cầu thủ ném bóng .
+/dataset/test/images/000000371735.jpg	Người đàn ông áo trắng đang cầm vợt tennis đứng trên sân .
+/dataset/test/images/000000048604.jpg	Những người đàn ông đang đứng cạnh những quả bóng ở trên sân .
+/dataset/test/images/000000502916.jpg	Người phụ nữ áo đỏ đang cầm vợt đánh tennis trên sân .
+/dataset/test/images/000000375321.jpg	Vận động viên tennis đang cầm vợt đứng ngoài biên đánh bóng .
+/dataset/test/images/000000043856.jpg	Một cô bé đang thủ thế để chuẩn bị đỡ bóng .
+/dataset/test/images/000000052843.jpg	Một nữ vận động viên tennis đang khuỵu gối để đánh bóng .
+/dataset/test/images/000000242712.jpg	Người đàn ông mặc áo tím đang ngồi trên sân cỏ cạnh quả bóng .
+/dataset/test/images/000000246875.jpg	Cầu thủ bóng chày nữ đang cầm gậy chơi bóng chày trên sân .
+/dataset/test/images/000000094150.jpg	Một người đàn ông đang vung vợt để chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000370851.jpg	Một số người đang cùng nhau đá bóng trên sân trong sở thú .
+/dataset/test/images/000000288943.jpg	Vận động viên tennis nam đang vung vợt đỡ bóng thấp .
+/dataset/test/images/000000259186.jpg	Vận động viên tennis nam đang cầm vợt tennis đỡ bóng cao .
+/dataset/test/images/000000154564.jpg	Những người đàn ông đang chơi bóng chày ở trên sân .
+/dataset/test/images/000000362898.jpg	Thủ môn đang nhảy sang phải cố gắng bảo về cầu môn .
+/dataset/test/images/000000188029.jpg	Một trận thi đấu bóng chày nữ đang diễn ra ở trên sân .
+/dataset/test/images/000000502916.jpg	Hai hình ảnh giống nhau của người phụ nữ đang đánh tennis .
+/dataset/test/images/000000442518.jpg	Một người đàn ông đang ngồi và giữ quả bóng ở trong găng tay .
+/dataset/test/images/000000020698.jpg	Cậu bé đang luyện tập chơi tennis ở trên sân .
+/dataset/test/images/000000101249.jpg	Cầu thủ bắt bóng đang chuẩn bị bắt quả bóng .
+/dataset/test/images/000000321346.jpg	Vận động viên tennis đang đứng ngoài biên phát bóng .
+/dataset/test/images/000000151927.jpg	Một người phụ nữ đang ngửa mặt lên để nhìn quả bóng tennis .
+/dataset/test/images/000000307475.jpg	Cầu thủ đánh bóng đang cầm gậy đỡ bóng .
+/dataset/test/images/000000049120.jpg	Một vận động viên tennis đang nhảy lên để đánh bóng .
+/dataset/test/images/000000401094.jpg	Một người phụ nữ đang bước tới trước để đánh quả bóng tennis .
+/dataset/test/images/000000045071.jpg	Con mèo đang nằm trên cái vali ở cạnh quả bóng màu vàng .
+/dataset/test/images/000000321346.jpg	Người đàn ông đang cầm vợt tennis chuẩn bị giao bóng .
+/dataset/test/images/000000094150.jpg	Một người đàn ông đang dùng vợt để đánh quả bóng tennis .
+/dataset/test/images/000000431167.jpg	Một cầu thủ đánh bóng đang xoay người để đánh bóng .
+/dataset/test/images/000000373177.jpg	Hai vận động viên tennis áo tím đang đấu đôi trên sân .
+/dataset/test/images/000000151927.jpg	Một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000073999.jpg	Một người đàn ông đang đánh quả bóng tennis ở trên sân .
+/dataset/test/images/000000362898.jpg	Thủ môn nam vừa thất bại bảo vệ cầu môn .
+/dataset/test/images/000000548822.jpg	Một người đàn ông đang luyện tập đá bóng ngoài sân cỏ .
+/dataset/test/images/000000120241.jpg	Những cậu bé đang luyện tập bóng đá ở trên sân .
+/dataset/test/images/000000476045.jpg	Hình ảnh trận bóng chày đang diễn ra .
+/dataset/test/images/000000503689.jpg	Cầu thủ bóng chày trẻ đang vung gậy bóng chày đánh trả bóng .
+/dataset/test/images/000000477451.jpg	Đứa trẻ đang chơi bóng chày ngoài sân cỏ .
+/dataset/test/images/000000184371.jpg	Quả bóng chày đang bay ở trước mặt một cầu thủ bóng chày .
+/dataset/test/images/000000477451.jpg	Đứa trẻ đeo găng tay bóng chày đang chơi ngoài sân .
+/dataset/test/images/000000085872.jpg	Những người đàn ông đang chơi bóng chày ở trên sân .
+/dataset/test/images/000000500740.jpg	Cầu thủ bóng chày đang vung gậy đánh trả bóng trong hình quảng cáo .
+/dataset/test/images/000000138265.jpg	Một người phụ nữ đang xoay người để đánh quả bóng tennis .
+/dataset/test/images/000000246875.jpg	Cầu thủ bóng chày nữ đang cầm gậy đứng một chân trên sân đỡ bóng .
+/dataset/test/images/000000517906.jpg	Một đứa trẻ đang chơi tennis trên sân .
+/dataset/test/images/000000073212.jpg	Một người đàn ông đang cầm vợt và đứng ở trên sân tennis .
+/dataset/test/images/000000091558.jpg	Một người đàn ông đang chơi tennis ở trên sân .
+/dataset/test/images/000000049120.jpg	Hai vận động viên tennis đang nhảy lên để đánh bóng .
+/dataset/test/images/000000267289.jpg	Cầu thủ bóng chày đang cầm gậy bóng chày thi đấu trên sân .
+/dataset/test/images/000000476045.jpg	Cầu thủ bóng chày đang đứng trên sân nhà vung gậy đỡ bóng .
+/dataset/test/images/000000078986.jpg	Một trận thi đấu tennis đôi nam đang diễn ra ở trên sân .
+/dataset/test/images/000000045049.jpg	Hai người phụ nữ đang chơi tennis ở trên sân vào ban đêm .
+/dataset/test/images/000000465198.jpg	Ở trên sân tennis , một người phụ nữ đang quan sát quả bóng để phát bóng .
+/dataset/test/images/000000432884.jpg	Một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000443393.jpg	Một nữ vận động viên tennis đang chuẩn bị đánh bóng .
+/dataset/test/images/000000423234.jpg	Một cầu thủ chạy gôn đang chạy ở trên sân .
+/dataset/test/images/000000318310.jpg	Người phụ nữ đang đỡ bóng tennis bằng vợt .
+/dataset/test/images/000000507969.jpg	Người đàn ông đang cầm quả bóng rổ trên tay chuẩn bị ném rổ .
+/dataset/test/images/000000043163.jpg	Hai nam vận động viên tennis đang bước qua phải để đỡ bóng .
+/dataset/test/images/000000131522.jpg	Một cầu thủ đánh bóng đang vung gậy để đánh bóng .
+/dataset/test/images/000000364941.jpg	Vận động viên tennis đứng trên sân vung vợt đánh bóng .
+/dataset/test/images/000000338018.jpg	Hai hình ảnh giống nhau của vận động viên tennis đang thi đấu .
+/dataset/test/images/000000158451.jpg	Một người đàn ông đang chuẩn bị ném quả bóng chày ở trong tay .
+/dataset/test/images/000000453682.jpg	Những người đàn ông đang chơi bóng chày ở trên sân .
+/dataset/test/images/000000306456.jpg	Người đàn ông chuẩn bị thực hiện cú sút bóng .
+/dataset/test/images/000000384595.jpg	Cầu thủ bóng chày đang cầm gậy thi đấu trên sân .
+/dataset/test/images/000000131522.jpg	Một người đàn ông đang xoay người để đánh quả bóng chày .
+/dataset/test/images/000000123731.jpg	Hai hình ảnh của một người phụ nữ đang dùng vợt để đánh quả bóng tennis .
+/dataset/test/images/000000333383.jpg	Người phụ nữ đang vung vợt tennis về phía bóng .
+/dataset/test/images/000000283999.jpg	Hình ảnh trắng đen của trận đấu bóng chày đang diễn ra .
+/dataset/test/images/000000549496.jpg	Một con voi đang đặt một quả bóng rổ qua một cái vòng
+/dataset/test/images/000000140690.jpg	Một trận thi đấu tennis nam đang diễn ra ở trên sân .
+/dataset/test/images/000000416535.jpg	Một nữ vận động viên tennis đang đưa vợt qua phải ở trên sân .
+/dataset/test/images/000000242712.jpg	hình ảnh cận cảnh của một người ngồi trên sân cỏ cùng quả bóng .
+/dataset/test/images/000000153921.jpg	Các cầu thủ bóng đá đang đứng rải rác ở trên sân .
+/dataset/test/images/000000549496.jpg	Một con voi đặt một quả bóng rổ trong giỏ với thân cây của mình.
+/dataset/test/images/000000216454.jpg	Đứa trẻ đang cầm gậy bóng chày đứng trên đồng cỏ chuẩn bị đánh bóng .
+/dataset/test/images/000000384595.jpg	Cầu thủ bóng chày đang cầm gậy đứng trên sân đánh bóng .
+/dataset/test/images/000000103401.jpg	Một trận thi đấu bóng chày nam đang diễn ra ở trên sân .
+/dataset/test/images/000000347604.jpg	Hình ảnh kép của những người phụ nữ đang thi đấu tennis trên sân .
+/dataset/test/images/000000425200.jpg	Một nữ vận động viên tennis đang chuẩn bị đánh bóng .
+/dataset/test/images/000000184371.jpg	Quả bóng chày đang bay ở trước mặt một cầu thủ bắt bóng .
+/dataset/test/images/000000354575.jpg	Người đàn ông đang cầm vợt tennis và bóng trên hai tay .
+/dataset/test/images/000000216454.jpg	Hai đứa trẻ đang cùng nhau chơi bóng chày ngoài đồng cỏ .
+/dataset/test/images/000000328574.jpg	Hai người đàn ông đang thi đua ngựa trên sân .
+/dataset/test/images/000000070749.jpg	Một người đàn ông đang vươn người để đánh quả bóng tennis .
+/dataset/test/images/000000447484.jpg	Một người đàn ông đang ngửa người để phát bóng ở trên sân tennis .
+/dataset/test/images/000000336532.jpg	Vận động viên bóng chày đang cầm gậy thi đấu trên sân /
+/dataset/test/images/000000520434.jpg	Hình ảnh kép người phụ nữ đang vung vợt tennis đánh bóng .
+/dataset/test/images/000000103401.jpg	Một người đàn ông đang xoay người để ném quả bóng chày ở trong tay .
+/dataset/test/images/000000373177.jpg	Hai vận động viên tennis đang thi đấu chung đội trên sân .
+/dataset/test/images/000000164462.jpg	Người phụ nữ áo xanh đang nghiêng người để đánh quả bóng tennis .
+/dataset/test/images/000000267289.jpg	Cầu thủ đánh bóng đang đứng trên sân nhà đỡ bóng bằng gậy .
+/dataset/test/images/000000020698.jpg	Vận động viên tennis nhỏ tuổi đang luyện tập ở trên sân .
+/dataset/test/images/000000184371.jpg	Quả bóng chày đang bay ở trước mặt một cầu thủ ném bóng .
+/dataset/test/images/000000094893.jpg	Cầu thủ áo đen đang dùng bụng để hãm bóng .
+/dataset/test/images/000000246918.jpg	Ba hình ảnh khác nhau của ba người đang đánh tennis .
+/dataset/test/images/000000245598.jpg	Đứa trẻ áo xanh lá đang chơi bóng chày trên sân .
+/dataset/test/images/000000384595.jpg	Cầu thủ bóng chày đang đứng trên sân vung gậy đánh bóng .
+/dataset/test/images/000000306890.jpg	Vận động viên nam tennis đang thi đấu trên sân .
+/dataset/test/images/000000076740.jpg	Một người phụ nữ đang nhón chân để đánh quả bóng tennis .
+/dataset/test/images/000000182861.jpg	Một cậu bé đang ngửa người để ném quả bóng chày .
+/dataset/test/images/000000085876.jpg	Một cậu bé đang luyện tập tennis ở trên sân .
+/dataset/test/images/000000542745.jpg	Người đàn ông đang cầm vợt tennis và bóng đứng trên sân
+/dataset/test/images/000000091558.jpg	Một người đàn ông đang dùng vợt để đỡ quả bóng tennis .
+/dataset/test/images/000000094893.jpg	Một người đàn ông đang dùng bụng để hãm bóng .
+/dataset/test/images/000000324006.jpg	Trọng tài đang đứng sau cầu thủ ném bóng quan sát trận đấu .
+/dataset/test/images/000000216556.jpg	Đứa trẻ đang cầm vợt tennis đứng trên sân .
+/dataset/test/images/000000188029.jpg	Khán giả đang theo dõi trận thi đấu bóng chày nữ ở trên sân .
+/dataset/test/images/000000118535.jpg	Trọng tài đang bước về phía cầu thủ đánh bóng và cầu thủ bắt bóng .
+/dataset/test/images/000000120241.jpg	Huấn luyện viên đang theo dõi buổi tập luyện bóng đá của học trò .
+/dataset/test/images/000000259186.jpg	Vận động viên tennis nam đang cầm vợt nhảy lên đánh trả bóng .
+/dataset/test/images/000000102835.jpg	Một nam vận động viên tennis đang nhảy lên để đánh bóng .
+/dataset/test/images/000000267957.jpg	Cầu thủ bóng chày đang vung gậy bóng chày đánh trả bóng .
+/dataset/test/images/000000157239.jpg	Một người phụ nữ đang vung vợt để đánh quả bóng tennis .
+/dataset/test/images/000000129510.jpg	Hai hình ảnh của một cặp nam vận động viên tennis đang thi đấu ở trên sân .
+/dataset/test/images/000000138977.jpg	Một cầu thủ đánh bóng nhí đang xoay người để đánh bóng .
+/dataset/test/images/000000357989.jpg	Một nhóm người đàn ông đang chơi bóng rổ dưới trời nắng .
+/dataset/test/images/000000053101.jpg	Một người phụ nữ đang nghiêng người để đánh quả bóng tennis .
+/dataset/test/images/000000076740.jpg	Một người phụ nữ đang vung vợt để đánh quả bóng tennis ở trên sân .
+/dataset/test/images/000000375321.jpg	Người đàn ông áo trắng đang chơi tennis trên sân .
+/dataset/test/images/000000559553.jpg	Hai bức ảnh của một nữ cầu thủ số 9 đang nhảy lên để đá bóng .
+/dataset/test/images/000000182861.jpg	Một cậu bé đang cầm quả bóng chày và cái găng tay ở trên sân .
+/dataset/test/images/000000529137.jpg	Cầu thủ bóng chày đang bước dài tới ném bóng .
+/dataset/test/images/000000517906.jpg	Đứa trẻ cầm vợt tennis giơ lên đánh bóng .
+/dataset/test/images/000000542745.jpg	Người đàn ông áo trắng đang cầm vợt đánh tennis .
+/dataset/test/images/000000334171.jpg	Hai đứa trẻ đang chơi ngoài công viên . .
+/dataset/test/images/000000416535.jpg	Một người phụ nữ đang đưa vợt qua phải ở trên sân tennis .
+/dataset/test/images/000000558942.jpg	Ở trong vườn , một quả bóng đang nằm ở dưới cái lưới .
+/dataset/test/images/000000048604.jpg	Các cầu thủ đang khởi động ở trên sân trước khi thi đấu .
+/dataset/test/images/000000091558.jpg	Một nam vận động viên tennis đang dùng vợt để đỡ bóng .
+/dataset/test/images/000000388641.jpg	Vận động viên tennis nữ đang vung vợt đánh bóng .
+/dataset/test/images/000000242739.jpg	Một người phụ nữ và một nhóm những đứa trẻ đi qua một bãi đậu xe.
+/dataset/test/images/000000138977.jpg	Một cậu bé đang xoay người để đánh quả bóng chày .
+/dataset/test/images/000000453682.jpg	Một cầu thủ bắt bóng đang đưa tay ra để bắt bóng .
+/dataset/test/images/000000539270.jpg	Một cầu thủ bóng chày đang ném bóng về phía trước .
+/dataset/test/images/000000043856.jpg	Một cô bé đang chơi tennis ở trên sân .
+/dataset/test/images/000000287656.jpg	Cầu thủ bóng chày áo số 24 đang cầm gậy thi đấu trên sân .
+/dataset/test/images/000000023098.jpg	Cô bé đang luyện tập chơi tennis cùng với mẹ ở trên sân vào ban ngày .
+/dataset/test/images/000000052943.jpg	Một trận thi đấu bóng đá nam đnag diễn ra ở trên sân .
+/dataset/test/images/000000453682.jpg	Môt cầu thủ đánh bóng đang giơ gậy lên cao ở gôn .
+/dataset/test/images/000000138265.jpg	Hai hình ảnh của một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000094155.jpg	Một trận thi đấu bóng chày đang diễn ra ở trên sân .
+/dataset/test/images/000000118272.jpg	Một người phụ nữ đang chuẩn bị dùng vợt để đỡ quả bóng tennis .
+/dataset/test/images/000000564627.jpg	Hai bức ảnh của một người đàn ông đang vung vợt để đánh quả bóng tennis .
+/dataset/test/images/000000558942.jpg	Ở trong vườn , một quả bóng đang nằm trong khung thành .
+/dataset/test/images/000000145926.jpg	Cầu thủ đánh bóng đang theo dõi động tác của cầu thủ ném bóng .
+/dataset/test/images/000000086549.jpg	Một người đàn ông đang giơ gậy lên cao để chuẩn bị đánh bóng .
+/dataset/test/images/000000534440.jpg	HÌnh ảnh kép người phụ nữ đang đánh tennis trên sân .
+/dataset/test/images/000000392776.jpg	Người phụ nữ đang cầm vợt tennis chuẩn bị nhặt bóng .
+/dataset/test/images/000000023098.jpg	Cô bé đang luyện tập chơi tennis cùng với huấn luyện viên ở trên sân vào ban ngày .
+/dataset/test/images/000000053101.jpg	Một nữ vận động viên tennis đang chuẩn bị đánh bóng .
+/dataset/test/images/000000349919.jpg	Hình ảnh kép của người phụ nữ đang chơi tennis trên sân .
+/dataset/test/images/000000371735.jpg	Người đàn ông đang cầm vợt tennis đứng ngoài biên giao bóng .
+/dataset/test/images/000000413324.jpg	Một nam vận động viên tennis đang nhảy lên để đánh bóng .
+/dataset/test/images/000000219335.jpg	Hình ảnh kép của thủ môn nữ đang bảo vệ cầu môn trong trận bóng đá .
+/dataset/test/images/000000009895.jpg	Một cậu bé đang ngồi nhìn bạn của mình luyện tập bóng chày .
+/dataset/test/images/000000431167.jpg	Một cầu thủ đánh bóng đang cầm gậy và xoay người ở gôn .
+/dataset/test/images/000000043873.jpg	Một con gấu đang được đứng cạnh hồ nước ở trong sở thú .
+/dataset/test/images/000000198042.jpg	Cầu thủ bóng chày đang bước về sau ném bóng về phía trước .
+/dataset/test/images/000000085564.jpg	Cầu thủ ném bóng đang xoay người để chuẩn bị ném bóng .
+/dataset/test/images/000000176477.jpg	Một người đàn ông đang rướn người để đánh quả bóng tennis .
+/dataset/test/images/000000009895.jpg	Một cậu bé đang cầm gậy bóng chày và một cậu bé ngồi trên xe đạp .
+/dataset/test/images/000000073999.jpg	Một vận động viên tennis đang thi đấu ở trên sân .
+/dataset/test/images/000000581409.jpg	Một cậu bé đang chuẩn bị đánh quả bóng chày .
+/dataset/test/images/000000447484.jpg	Một nam vận động viên tennis đang chuẩn bị đánh bóng .
+/dataset/test/images/000000246412.jpg	Cầu thủ bóng chày đang cầm vợt sẵn sàng đánh trả bóng trên sân nhà .
+/dataset/test/images/000000085564.jpg	Khán giả đang theo dõi một trận thi đấu bóng chày nam .
+/dataset/test/images/000000306456.jpg	Người đàn ông chuẩn bị đá bóng .
+/dataset/test/images/000000198054.jpg	Vận động viên tennis đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000335660.jpg	Vận động viên nữ phía sau đang cầm vợt tennis đánh bóng .
+/dataset/test/images/000000371735.jpg	Người đàn ông đang đứng trên sân tennis chuẩn bị giao bóng .
+/dataset/test/images/000000581409.jpg	Một cậu bé đang giơ gậy ra sau để đánh quả bóng chày .
+/dataset/test/images/000000256884.jpg	người phụ nữ đang cầm vợt tennis nhảy lên đỡ bóng .
+/dataset/test/images/000000425200.jpg	Một nữ vận động viên tennis đang xoay người để đánh bóng .
+/dataset/test/images/000000500740.jpg	Hình ảnh quảng cáo kẹo cao su có cầu thủ bóng chày đang thi đấu .
+/dataset/test/images/000000198042.jpg	Cầu thủ bóng chày áo số 36 đang chuẩn bị ném bóng .
+/dataset/test/images/000000020698.jpg	Cậu bé đang dùng vợt tennis để đỡ bóng ở trên sân .
+/dataset/test/images/000000165820.jpg	Một người đàn ông đang nhảy lên ở trên sân bóng chày .
+/dataset/test/images/000000357989.jpg	Những người đàn ông đang thi đấu bóng rổ dưới trời nắng .
+/dataset/test/images/000000481168.jpg	Đứa trẻ áo trắng đang cầm vợt đánh tennis .
+/dataset/test/images/000000538747.jpg	Cầu thủ bóng chày đang cầm gậy thi đấu trên sân .
+/dataset/test/images/000000118272.jpg	Một người phụ nữ đang chuẩn bị khuỵu gối để đánh quả bóng tennis .
+/dataset/test/images/000000272735.jpg	Đứa trẻ đang vung vợt tennis đánh trả bóng .
+/dataset/test/images/000000140690.jpg	Quang cảnh một trận thi đấu tennis nam được chụp từ trên cao .
+/dataset/test/images/000000090238.jpg	Những người phụ nữ đang thi đấu tennis ở trên sân .
+/dataset/test/images/000000150477.jpg	Những người đàn ông đang chơi bóng chày ở trên sân .
+/dataset/test/images/000000520434.jpg	Người phụ nữ cầm vợt tennis bước tới đỡ bóng .
+/dataset/test/images/000000216114.jpg	Đứa trẻ đang vung gậy bóng chày đánh bóng trong trận bóng chày . ;
+/dataset/test/images/000000333383.jpg	Hình ảnh đôi của người phụ nữ đang chơi tennis trên sân .
+/dataset/test/images/000000099184.jpg	Một người đàn ông đang cầm quả bóng trên tay và đứng ở trước khung thành .
+/dataset/test/images/000000246412.jpg	Hình ảnh sân nhà của trận bóng chày đang diễn ra .
+/dataset/test/images/000000376843.jpg	Vận động viên tennis đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000150981.jpg	Một nữ vận động viên tennis đang chuẩn bị phát bóng .
+/dataset/test/images/000000243660.jpg	Hình ảnh của các cầu thủ bóng chày trên sân nhà trong trận đấu .
+/dataset/test/images/000000253264.jpg	Hình ảnh của đứa trẻ đang chơi bóng chày cùng người đàn ông .
+/dataset/test/images/000000209844.jpg	hai vận động viên tennis đang cầm vợt đánh tennis trong trận .
+/dataset/test/images/000000453682.jpg	Các cầu thủ bóng chày đang thi đấu ở trên sân .
+/dataset/test/images/000000276062.jpg	Hai đội bóng đang đứng trên sân bóng chờ đợi trong trận .
+/dataset/test/images/000000363257.jpg	Người đàn ông mặc áo xanh dương đang chơi tennis trên sân .
+/dataset/test/images/000000435161.jpg	Một cầu thủ áo xanh đang nhảy lên ở trước khung thành .
+/dataset/test/images/000000091558.jpg	Một nam vận động viên tennis đang nhón chân để đỡ bóng .
+/dataset/test/images/000000448826.jpg	Một nam vận động viên tennis đang đứng ở trên sân .
+/dataset/test/images/000000529137.jpg	Trận bóng chày đang diễn ra với một cầu thủ đang ném bóng .
+/dataset/test/images/000000442518.jpg	Một cầu thủ bắt bóng đang ngồi và giữ quả bóng ở trong găng tay .
+/dataset/test/images/000000154564.jpg	Các cầu thủ bóng chày đang thi đấu ở trên sân .
+/dataset/test/images/000000070749.jpg	Một nam vận động viên tennis đang nhảy lên để đánh bóng .
+/dataset/test/images/000000457275.jpg	Một con chó đang chạm chân vào quả bóng ở trong vườn .
+/dataset/test/images/000000458147.jpg	Hai người đàn ông đang chơi tennis ở trên sân .
+/dataset/test/images/000000145926.jpg	Cầu thủ ném bóng đang xoay người để chuẩn bị ném bóng .
+/dataset/test/images/000000138265.jpg	Một người phụ nữ đang dùng vợt để đánh quả bóng tennis .
+/dataset/test/images/000000272735.jpg	Đứa trẻ đang cầm vợt tennis đứng gần lưới sẵn sàng đánh trả bóng .
+/dataset/test/images/000000370851.jpg	Những người đàn ông đang cưỡi voi đá bóng trong sở thú .
+/dataset/test/images/000000364941.jpg	Vận động viên tennis nam đang cầm vợt đỡ bóng thấp .
+/dataset/test/images/000000059252.jpg	Các cầu thủ bóng đá đang đứng ở trên sân .
+/dataset/test/images/000000216556.jpg	Đứa trẻ đang cầm vợt tennis luyện tập trên sân .
+/dataset/test/images/000000503689.jpg	Đứa trẻ đang chơi bóng chày trên sân .
+/dataset/test/images/000000073212.jpg	Một người đàn ông đang chơi tennis ở trên sân .
+/dataset/test/images/000000169494.jpg	Cầu thủ bắt bóng đang nhảy lên để bắt bóng trong khi cầu thủ số 10 đang chạy về gôn .
+/dataset/test/images/000000085564.jpg	Các cầu thủ bóng chày đang thi đấu ở trên sân .
+/dataset/test/images/000000205367.jpg	Hai người phụ nữ đang cầm vợt tennis đánh đôi trước đám đông quan sát .
+/dataset/test/images/000000465412.jpg	Ở trên sân , một nữ vận động viên tennis đang ngửa mặt lên để quan sát quả bóng .
+/dataset/test/images/000000170227.jpg	Một người phụ nữ đang cầm vợt và đứng ở ngoài sân tennis .
+/dataset/test/images/000000123038.jpg	Người phụ nữ đang vung vợt để đánh quả bóng tennis .
+/dataset/test/images/000000555956.jpg	Một người đàn ông và một cậu bé đứng trên sân tennis cầm vợt tennis
+/dataset/test/images/000000398696.jpg	Một nam vận động viên tennis đang cầm vợt và đứng ở trên sân .
+/dataset/test/images/000000059252.jpg	Các cầu thủ bóng đá đang xếp hàng ở trên sân .
+/dataset/test/images/000000205367.jpg	Hình ảnh kép của hai người phụ nữ đang chơi tennis trên sân .
+/dataset/test/images/000000334171.jpg	Một đứa trẻ đang cầm vợt bóng chày đứng trên cỏ .
+/dataset/test/images/000000473928.jpg	Hình ảnh trận bóng chày đang diễn ra .
+/dataset/test/images/000000417627.jpg	Hai bức ảnh của một trận thi đấu tennis đôi nam đang diễn ra ở trên sân .
+/dataset/test/images/000000351855.jpg	Vận động viên tennis đang vơi vợt tới đỡ bóng .
+/dataset/test/images/000000143348.jpg	Khán giả đang theo dõi cú đánh bóng của nam vận động viên tennis .
+/dataset/test/images/000000052843.jpg	Một nữ vận động viên tennis đang chuẩn bị đánh bóng .
+/dataset/test/images/000000052957.jpg	Một cậu bé đang chuẩn bị đánh quả bóng chày .
+/dataset/test/images/000000076740.jpg	Một nữ vận động viên tennis đang đánh bóng .
+/dataset/test/images/000000446557.jpg	Một cậu bé đang giữ quả bóng chày ở trong cái găng tay .
+/dataset/test/images/000000123038.jpg	Ba người đang chơi tennis ở trên sân .
+/dataset/test/images/000000136240.jpg	Cầu thủ đánh bóng đang xoay người để đánh bóng .
+/dataset/test/images/000000131522.jpg	Một cầu thủ đánh bóng đang xoay người để đánh bóng .
+/dataset/test/images/000000562124.jpg	Một người phụ nữ đang vươn người để đánh quả bóng tennis .
+/dataset/test/images/000000388641.jpg	Vận động viên tennis nữ đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000458147.jpg	Hai nam vận động viên tennis đang thi đấu ở trên sân .
+/dataset/test/images/000000030712.jpg	Hai người bạn đang chụp ảnh cùng vợt của mình ở trên sân .
+/dataset/test/images/000000333546.jpg	Hình ảnh đôi của nguwofi phụ nữ đang chơi tennis trên sân .
+/dataset/test/images/000000476341.jpg	Một đứa trẻ đang ném gậy bóng chày và một đứa trẻ đang ném bóng .
+/dataset/test/images/000000140690.jpg	Khán giả đang theo dõi một trận thi đấu tennis nam ở trên sân .
+/dataset/test/images/000000164462.jpg	Những người phụ nữ đang chơi tennis ở trên sân .
+/dataset/test/images/000000104075.jpg	Hai hình ảnh của một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000052843.jpg	Một người phụ nữ đang vung vợt để đánh quả bóng tennis .
+/dataset/test/images/000000307475.jpg	Hình ảnh của những người đàn ông đang chơi bóng chày với số 749 trên hình .
+/dataset/test/images/000000007615.jpg	Một người đàn ông đang vung gậy để đánh quả bóng chày .
+/dataset/test/images/000000219335.jpg	Hai hình ảnh giống nhau của người những người phụ nữ đang chơi bóng đá .
+/dataset/test/images/000000534440.jpg	Người phụ nữ đang vung vợt tennis đánh bóng .
+/dataset/test/images/000000463758.jpg	Một nam vận động viên tennis đang sải bước để đánh bóng .
+/dataset/test/images/000000507969.jpg	Người đàn ông đang cầm quả bóng rổ chuẩn bị ghi bàn .
+/dataset/test/images/000000473928.jpg	Cầu thủ ném bóng đang ném bóng về phía cầu thủ bắt bóng .
+/dataset/test/images/000000524819.jpg	Người đàn ông đang vung vợt tennis đỡ bóng trong trận .
+/dataset/test/images/000000281214.jpg	Người đàn ông mặc áo xanh dương đang vung vợt đánh trả bóng .
+/dataset/test/images/000000208006.jpg	Vận động viên tennis nữ đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000246412.jpg	Cầu thủ đánh bóng đang đứng trước cầu thủ bắt bóng sẵn sàng đỡ bóng .
+/dataset/test/images/000000094150.jpg	Một người đàn ông đang chơi tennis ở trên sân .
+/dataset/test/images/000000154496.jpg	Nhiều người đang tụ tập ở trong công viên .
+/dataset/test/images/000000103401.jpg	Một cầu thủ ném bóng đang xoay người để ném quả bóng chày ở trong tay .
+/dataset/test/images/000000416535.jpg	Một nữ vận động viên tennis đang nhảy lên ở trên sân .
+/dataset/test/images/000000085948.jpg	Một buổi biểu diễn xiếc voi đang diễn ra .
+/dataset/test/images/000000465198.jpg	Ở trên sân , một nữ vận động viên tennis đang quan sát quả bóng để phát bóng .
+/dataset/test/images/000000457275.jpg	Một con chó đang đứng cạnh quả bóng ở trên sân cỏ .
+/dataset/test/images/000000019318.jpg	Cầu thủ bắt bóng đang cố gắng tránh cầu thủ số 10 .
+/dataset/test/images/000000030712.jpg	Hai cậu bé đang cầm vợt bằng tay trái và giơ tay phải lên cao .
+/dataset/test/images/000000542745.jpg	Người đàn ông đang cầm vợt và bóng tennis chuẩn bị giao bóng .
+/dataset/test/images/000000131522.jpg	Một người đàn ông đang vung gậy để đánh quả bóng chày .
+/dataset/test/images/000000083174.jpg	Một người đàn ông đang xoay người để đánh quả bóng chày .
+/dataset/test/images/000000435161.jpg	Các cầu thủ bóng đá đang quan sát đường bay của quả bóng .
+/dataset/test/images/000000283999.jpg	Cầu thủ đánh bóng đang đứng trên sân nhà đánh trả bóng .
+/dataset/test/images/000000174574.jpg	Người phụ nữ áo xám đang chuẩn bị phát bóng trong khi người phụ nữ áo tím đang đứng ở trên sân tennis .
+/dataset/test/images/000000364941.jpg	Người đàn ông mặc áo xanh lá đang chơi tennis trên sân .
+/dataset/test/images/000000463758.jpg	Một nam vận động viên tennis đang bay người để đánh bóng .
+/dataset/test/images/000000176477.jpg	Một người đàn ông đang nhảy lên để đánh quả bóng tennis .
+/dataset/test/images/000000180818.jpg	Một người đàn ông đang thực hiện động tác ném bóng ở trên sân bóng chày .
+/dataset/test/images/000000049429.jpg	Một cậu bé đang cầm vợt và quả bóng tennis ở cạnh bức tường .
+/dataset/test/images/000000158451.jpg	Một người đàn ông đang giơ gậy lên cao để chuẩn bị đánh bóng .
+/dataset/test/images/000000581409.jpg	Một cầu thủ đánh bóng đang giơ gậy ra sau để đánh bóng .
+/dataset/test/images/000000136240.jpg	Cầu thủ đánh bóng đang vung gậy để đánh bóng .
+/dataset/test/images/000000216114.jpg	Các cầu thủ bóng chày trẻ đang thi đấu ngoài sân .
+/dataset/test/images/000000182861.jpg	Một cậu bé đang chuẩn bị để ném quả bóng chày ở trong tay .
+/dataset/test/images/000000401885.jpg	Hai bức ảnh của một nữ vận động viên tennis đang thi đấu ở trên sân .
+/dataset/test/images/000000043873.jpg	Bên trái con gấu , một quả bóng đang nổi ở trên mặt nước .
+/dataset/test/images/000000549496.jpg	Một con voi đặt một quả bóng rổ vào cái vòng.
+/dataset/test/images/000000259186.jpg	Vận động viên tennis nam đang vung vợt tennis đánh trả bóng .
+/dataset/test/images/000000392520.jpg	Hai cầu thủ tennis áo cam đang càm vợt thi đấu trên sân .
+/dataset/test/images/000000118272.jpg	Một người phụ nữ đang bước tới trước để đánh quả bóng tennis .
+/dataset/test/images/000000328574.jpg	Hai người đàn ông đang cưỡi ngựa trên sân .
+/dataset/test/images/000000049429.jpg	Một đứa trẻ đang cầm vợt và quả bóng tennis ở cạnh bức tường .
+/dataset/test/images/000000243153.jpg	Hai vận động viên tennis nữ đang cùng nhau đánh tennis trên sân .
+/dataset/test/images/000000136240.jpg	Những người đàn ông đang chơi bóng chày ở trên sân .
+/dataset/test/images/000000555956.jpg	Một người đàn ông và một đứa trẻ đang chơi trên sân tennis.
+/dataset/test/images/000000379944.jpg	Cầu thủ bóng chày đang cầm gậy đứng trên sân đánh bóng .
+/dataset/test/images/000000136240.jpg	Các cầu thủ bóng chày đang thi đấu ở trên sân .
+/dataset/test/images/000000465198.jpg	Ở trên sân tennis , một người phụ nữ đang chuẩn bị phát bóng .
+/dataset/test/images/000000357989.jpg	Những người đàn ông đang cùng nhau chơi bóng rổ ngoài sân .
+/dataset/test/images/000000049429.jpg	Một đứa trẻ đang cầm quả bóng bằng tay phải và cái vợt bằng tay trái .
+/dataset/test/images/000000157239.jpg	Một nữ vận động viên tennis đang vung vợt để đánh bóng .
+/dataset/test/images/000000158451.jpg	Những người đàn ông đang chơi bóng chày ở trong công viên .
+/dataset/test/images/000000362898.jpg	Thủ môn đang nhảy sang phải trước cầu môn cố gắng bắt bóng .
+/dataset/test/images/000000398696.jpg	Một nam vận động viên tennis đang chạm cái vợt vào quả bóng .
+/dataset/test/images/000000316914.jpg	Một nhóm người đang chơi bóng chày trên sân .
+/dataset/test/images/000000073999.jpg	Một vận động viên tennis đang nghiêng người để đánh bóng ở trên sân .
+/dataset/test/images/000000243660.jpg	Trận đấu bóng chày đang diễn ra với quả bóng chày bay về phía sân nhà .
+/dataset/test/images/000000242739.jpg	Một vài đứa trẻ đang chơi với một quả bóng.
+/dataset/test/images/000000321346.jpg	Vận động viên tennis nam đang cầm vợt và bóng trên tay .
+/dataset/test/images/000000388641.jpg	Vận động viên tennis đang cầm vợt đánh bóng trên sân .
+/dataset/test/images/000000259186.jpg	Hai hình ảnh của người đàn ông áo đỏ đang cầm vợt tennis thi đấu trên sân .
+/dataset/test/images/000000446557.jpg	Một cô bé đang giữ quả bóng chày ở trong cái găng tay .
+/dataset/test/images/000000378081.jpg	Người đàn ông áo xanh lá đang chơi tennis trên sân .
+/dataset/test/images/000000473616.jpg	Vận động viên tennis nam đang thi đấu trước đông đảo khán giả .
+/dataset/test/images/000000416355.jpg	Hai nữ vận động viên tennis đang thi đấu ở trên sân .
+/dataset/test/images/000000170227.jpg	Một người phụ nữ đang cầm vợt tennis và đứng ở trên sân .
+/dataset/test/images/000000205367.jpg	Hai người phụ nữ đang thi đấu tennis cùng đội trên sân .
+/dataset/test/images/000000362898.jpg	Hình ảnh kép của thủ môn đang nhảy lên bắt bóng .
+/dataset/test/images/000000070687.jpg	Cầu thủ đánh bóng , cầu thủ ném bóng và trọng tài đang đứng ở gôn .
+/dataset/test/images/000000316807.jpg	Người phụ nữ vừa thực hiện cú đỡ bóng cao bằng vợt tennis .
+/dataset/test/images/000000123558.jpg	Những người đàn ông đang chơi bóng đá ở trên sân .
+/dataset/test/images/000000276420.jpg	Hình ảnh kép của người phụ nữ đang chơi tennis trên sân .
+/dataset/test/images/000000176477.jpg	Một người đàn ông đang bay người để đánh quả bóng tennis .
+/dataset/test/images/000000216114.jpg	Những đứa trẻ đang mặc đồ bóng chày thi đấu bóng chày trên sân .
+/dataset/test/images/000000391325.jpg	Một số những đứa trẻ đang chơi bóng đá trên sân .
+/dataset/test/images/000000581409.jpg	Một cầu thủ đánh bóng đang chuẩn bị đánh bóng .
+/dataset/test/images/000000435161.jpg	Hai bức ảnh của một trận thi đấu bóng đá nam ở trên sân .
+/dataset/test/images/000000572998.jpg	Cầu thủ bắt bóng và trọng tài đang theo dõi cú đánh bóng của cầu thủ đánh bóng .
+/dataset/test/images/000000153921.jpg	Các cầu thủ bóng đá và trọng tài đang đứng ở trên sân .
+/dataset/test/images/000000390213.jpg	Vận động viên tennis nữ đang cầm vợt thi đấu trên sân .
+/dataset/test/images/000000363257.jpg	Vận động viên tennis nam đang cầm vợt giao bóng .
+/dataset/test/images/000000276062.jpg	Hình ảnh trận bóng đá đang diễn ra trước đông đảo khán giả .
+/dataset/test/images/000000321346.jpg	Người đàn ông áo xanh biển đang chơi tennis trên sân .
+/dataset/test/images/000000212741.jpg	Vận động viên tennis đang cầm vợt chuẩn bị giao bóng .
+/dataset/test/images/000000307475.jpg	Người đàn ông mặc đồ trắng đang cầm gậy bóng chày .
+/dataset/test/images/000000019318.jpg	Cầu thủ chạy gôn đang bay người vào cầu thủ bắt bóng .
+/dataset/test/images/000000333546.jpg	Người phụ nữ đang hạ vợt tennis xuống thấp đánh bóng .
+/dataset/test/images/000000476341.jpg	Hình ảnh traajn bóng chày đang diễn ra ngoài sân cỏ .
+/dataset/test/images/000000465198.jpg	Ở trên sân , một nữ vận động viên tennis đang chuẩn bị phát bóng .
+/dataset/test/images/000000435161.jpg	Các cầu thủ bóng đá đang thi đấu ở trên sân .
+/dataset/test/images/000000101249.jpg	Cầu thủ đánh bóng đang vung gậy để đánh bóng .
+/dataset/test/images/000000378081.jpg	Người đàn ông đang cầm vợt đánh tennis trên sân .
+/dataset/test/images/000000188029.jpg	Cầu thủ nữ ném bóng đang chuẩn bị ném bóng về phía đối thủ .
+/dataset/test/images/000000288943.jpg	Vận động viên tennis nam đang vung vợt đỡ bóng .
+/dataset/test/images/000000354575.jpg	Hai hình ảnh giống nhau của người đàn ông áo đỏ đang cầm vợt tennis đứng trên sân .
+/dataset/test/images/000000176477.jpg	Một nam vận động viên tennis đang bay người để đánh bóng .
+/dataset/test/images/000000014876.jpg	Một cậu bé đang chơi bóng chày ở trong công viên vào ban ngày .
+/dataset/test/images/000000123038.jpg	Một trận thi đấu tennis đôi nam nữ đang diễn ra ở trên sân .
+/dataset/test/images/000000534440.jpg	Người phụ nữ đứng trên sân đỡ bóng tennis bằng vợt tennis .
+/dataset/test/images/000000198054.jpg	Người đàn ông áo vàng đang chơi tennis trên sân .
+/dataset/test/images/000000102835.jpg	Một người đàn ông đang nhảy lên để chuẩn bị đánh bóng ở trên sân tennis .
+/dataset/test/images/000000052943.jpg	Một cầu thủ đang dắt bóng ở trước các cầu thủ khác .
+/dataset/test/images/000000476045.jpg	Cầu thủ bóng chày áo số 26 đang cầm gậy thi đấu trên sân .
+/dataset/test/images/000000532014.jpg	Đứa trẻ đang vung gậy bóng chày đánh bóng .
+/dataset/test/images/000000123558.jpg	Các cầu thủ bóng đá đang thi đấu ở trên sân .
+/dataset/test/images/000000509030.jpg	Đứa trẻ đang bước tới ném bóng .
+/dataset/test/images/000000030712.jpg	Hai cậu bé đang chụp ảnh sau khi chơi tennis .
+/dataset/test/images/000000080215.jpg	Hai người đàn ông đang nghiêng người để đánh quả bóng tennis .
+/dataset/test/images/000000150981.jpg	Một người phụ nữ đang cầm vợt tennis và đứng cúi người ở trên sân .
+/dataset/test/images/000000246875.jpg	Cầu thủ bóng chày nữ đang vung gậy đánh bóng trên sân .
+/dataset/test/images/000000558942.jpg	Ở trên sân cỏ , một quả bóng đang nằm trong khung thành .
+/dataset/test/images/000000080215.jpg	Một nam vận động viên tennis đang vung vợt để đánh bóng .
+/dataset/test/images/000000509030.jpg	Cầu thủ bóng chày trẻ đang ném bóng về phía trước .
+/dataset/test/images/000000151927.jpg	Một nữ vận động viên tennis đang chuẩn bị phát bóng .
+/dataset/test/images/000000276420.jpg	Hai hình ảnh giống nhau của người phụ nữ đang cầm vợt tennis đứng trên sân .
+/dataset/test/images/000000150981.jpg	Một người phụ nữ đang chuẩn bị phát bóng ở trên sân tennis .
+/dataset/test/images/000000222555.jpg	Người đàn ông áo đỏ đang cầm vợt tennis thi đấu trên sân .
+/dataset/test/images/000000169494.jpg	Những người đàn ông đang luyện tập bóng chày ở ngoài trời .
+/dataset/test/images/000000078986.jpg	Bốn người đàn ông đang chơi tennis ở trên sân .
+/dataset/test/images/000000243153.jpg	Hai vận động viên tennis nữ đang thi đấu cùng đội trên sân .
+/dataset/test/images/000000219335.jpg	Hình ảnh của thủ môn nữ mặc áo đỏ đang chuẩn bị bắt bóng .
+/dataset/test/images/000000221625.jpg	Người phụ nữ đang cầm vợt tennis đỡ bóng thấp .
+/dataset/test/images/000000503689.jpg	Cầu thủ bóng chày trẻ đang vung gậy bóng chày đỡ bóng .
+/dataset/test/images/000000562596.jpg	Một người đàn ông đang vung vợt để đánh quả bóng tennis .
+/dataset/test/images/000000085564.jpg	Những người đàn ông đang chơi bóng chày ở trên sân .
+/dataset/test/images/000000413324.jpg	Một người đàn ông đang nhảy lên để đánh quả bóng tennis .
+/dataset/test/images/000000333383.jpg	Người phụ nữ váy ngắn đang cầm vợt tennis chơi trên sân .
+/dataset/test/images/000000364941.jpg	Vận động viên tennis nam đang cầm vợt đứng ngoài biên đỡ bóng .
+/dataset/test/images/000000188029.jpg	Cầu thủ ném bóng nữ đang thực hiện động tác ném bóng .
+/dataset/test/images/000000283999.jpg	Hình ảnh trắng đen của trận đấu bóng chày với đông đảo khán giả quan sát .
+/dataset/test/images/000000559306.jpg	Một cầu thủ đánh bóng đang đứng nghiêng người qua trái .
+/dataset/test/images/000000129437.jpg	Những người đàn ông đang chơi bóng chày ở trên sân .
+/dataset/test/images/000000559306.jpg	Một người đàn ông đang cầm gậy bóng chày và đứng cạnh số 754 .
+/dataset/test/images/000000245697.jpg	Hình ảnh của gậy bóng chày và quả bóng chày đang trưng bày trên bàn .
+/dataset/test/images/000000378081.jpg	Người đàn ông đang cầm vợt bước sáng phải đánh bóng .
+/dataset/test/images/000000465412.jpg	Ở trên sân tennis , một người phụ nữ đang chuẩn bị phát bóng .
+/dataset/test/images/000000559553.jpg	Một nữ cầu thủ bóng đá đang nhảy lên để đá quả bóng .
+/dataset/test/images/000000188029.jpg	Cầu thủ ném bóng đang cầm quả bóng ở trên tay để ném .
+/dataset/test/images/000000473616.jpg	Người đàn ông áo trắng đang chơi tennis trên sân .
+/dataset/test/images/000000502916.jpg	Hình ảnh kép của người phụ nữ đang đánh tennis trên sân .
+/dataset/test/images/000000180818.jpg	Một cầu thủ ném bóng đang thực hiện động tác ném bóng .
+/dataset/test/images/000000053101.jpg	Một người phụ nữ đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000347604.jpg	Hai hình ảnh giống nhau của những người phụ nữ đang chwoi tennis .
+/dataset/test/images/000000123558.jpg	Cầu thủ áo xanh đang tranh chấp bóng với cầu thủ áo trắng .
+/dataset/test/images/000000431167.jpg	Một người đàn ông đang vung gậy bóng chày để đánh bóng .
+/dataset/test/images/000000090238.jpg	Cô gái áo tím đang chuẩn bị đánh quả bóng tennis .
+/dataset/test/images/000000515075.jpg	Hình ảnh một cầu thủ thực hiện phạt góc trong trận bóng đá .
+/dataset/test/images/000000398696.jpg	Một người đàn ông đang chạm cái vợt tennis vào quả bóng .
+/dataset/test/images/000000043163.jpg	Hai bức ảnh của một người đàn ông đang cố gắng để cứu quả bóng tennis
+/dataset/test/images/000000375321.jpg	Vận động viên tennis đang cầm vợt đứng ngoài biên giao bóng .
+/dataset/test/images/000000169494.jpg	Cầu thủ số 10 đang chạy về gôn trong khi cầu thủ bắt bóng đang nhảy lên để bắt bóng .
+/dataset/test/images/000000216556.jpg	Đứa trẻ đang đứng trên sân tennis tay cầm vợt tennis .
+/dataset/test/images/000000080215.jpg	Hai nam vận động viên tennis đang nghiêng người để đánh bóng .
+/dataset/test/images/000000509030.jpg	Đứa trẻ đang chơi bóng chày ngoài sân .
+/dataset/test/images/000000554036.jpg	Một cầu thủ bóng chày cầm gậy trên sân bóng chày.
+/dataset/test/images/000000014864.jpg	Hai bức ảnh của vận động viên tennis nữ đang dùng vợt để đỡ bóng .
+/dataset/test/images/000000463758.jpg	Hai bức ảnh của một người đàn ông đang chơi tennis ở trên sân .
+/dataset/test/images/000000014876.jpg	Một cậu bé đang vung gậy bóng chày để đánh bóng trong công viên .

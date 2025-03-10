@@ -6,3 +6,6 @@ pillow
 torch
 torchvision
 tqdm
+kaggle
+wordcloud
+seaborn
