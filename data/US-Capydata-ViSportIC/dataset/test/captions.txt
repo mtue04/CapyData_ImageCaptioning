@@ -1,0 +1,815 @@
+/dataset/test/images/100000000546.jpg	Một đội chèo kayak đang đua dưới ánh hoàng hôn rực rỡ, tạo nên khung cảnh tuyệt đẹp.
+/dataset/test/images/100000000546.jpg	Những vận động viên chèo thuyền khéo léo hòa mình vào dòng nước lấp lánh dưới bầu trời trong xanh.
+/dataset/test/images/100000000546.jpg	Ánh nắng vàng óng ánh chiếu rọi lên mặt nước, làm nổi bật từng nhịp chèo mạnh mẽ của các tay chèo.
+/dataset/test/images/100000000546.jpg	Đội chèo như những chiến binh trên mặt nước, cạnh tranh quyết liệt trong bối cảnh hoàng hôn huyền ảo.
+/dataset/test/images/100000000546.jpg	Sự dấn thân mạnh mẽ của các vận động viên chèo thuyền khiến khung cảnh trở nên đầy năng lượng và sống động.
+/dataset/test/images/100000000371.jpg	Vận động viên đang chuẩn bị cho cú đánh quyết định, chiêu mộ sự chú ý từ hàng triệu khán giả!
+/dataset/test/images/100000000371.jpg	Đường swing mạnh mẽ và chính xác, thể hiện sự điêu luyện trong môn golf đầy tính chiến thuật!
+/dataset/test/images/100000000371.jpg	Ánh mắt đầy tập trung, vận động viên hoàn toàn hòa mình vào cuộc chiến trên sân cỏ xanh mướt.
+/dataset/test/images/100000000371.jpg	Cú đánh đã đến, không khí căng thẳng lan tỏa khắp sân, mọi người đều nín thở chờ đợi!
+/dataset/test/images/100000000371.jpg	Đáy swing tuyệt vời, những cảm xúc sôi sục khi vận động viên tạo nên khoảnh khắc đáng nhớ cho người hâm mộ!
+/dataset/test/images/100000000144.jpg	Trong không gian luyện tập căng thẳng, những chiếc bao cát treo đung đưa chờ đợi cú đấm mạnh mẽ.
+/dataset/test/images/100000000144.jpg	Các vận động viên đang phải thử thách sức bền và kỹ thuật, mồ hôi bóng loáng rơi.
+/dataset/test/images/100000000144.jpg	Bao cát đen và đỏ tạo nên bầu không khí mạnh mẽ, điển hình của một phòng tập boxing hiện đại.
+/dataset/test/images/100000000144.jpg	Chiếc bao cát lớn sẵn sàng nhận những cú đấm chính xác, các võ sĩ đang tích cực rèn luyện.
+/dataset/test/images/100000000144.jpg	Không khí hồi hộp trong phòng tập, nơi những cú đấm quyết liệt và hăng say phát ra âm thanh đặc trưng.
+/dataset/test/images/100000000755.jpg	Vận động viên đang nỗ lực trong một pha biểu diễn đầy mạnh mẽ, sáng tạo dưới nước.
+/dataset/test/images/100000000755.jpg	Cô ấy vươn mình lên cao, tạo nên một hình ảnh tuyệt đẹp trong môn bơi nghệ thuật đầy thách thức!
+/dataset/test/images/100000000755.jpg	Đỉnh cao của sự phối hợp! Vận động viên tỏa sáng giữa làn nước, khẳng định kỹ thuật điêu luyện.
+/dataset/test/images/100000000755.jpg	Sự kết hợp giữa sức mạnh và nghệ thuật, khiến khán giả không thể rời mắt khỏi màn trình diễn tuyệt vời này!
+/dataset/test/images/100000000755.jpg	Ngập tràn năng lượng, vận động viên hoàn thành một kỹ thuật khó, tạo nên sự phấn khích cho mọi người xem!
+/dataset/test/images/100000000435.jpg	Một không gian sôi động, người hâm mộ háo hức chờ đợi trận đấu bóng ném hấp dẫn.
+/dataset/test/images/100000000435.jpg	Sân đấu tràn ngập ánh sáng và màu sắc, hứa hẹn những pha bóng kịch tính sắp diễn ra.
+/dataset/test/images/100000000435.jpg	Cận cảnh sự hồi hộp trong lòng khán giả, tất cả đều hướng mắt về sân thi đấu.
+/dataset/test/images/100000000435.jpg	Không khí náo nhiệt từ phía khán đài, cổ động viên đã sẵn sàng cho cuộc chiến khốc liệt!
+/dataset/test/images/100000000435.jpg	Trận đấu bóng ném sắp sửa bắt đầu, không ai muốn bỏ lỡ khoảnh khắc đỉnh cao này!
+/dataset/test/images/100000000123.jpg	Chàng trai vàng đang thể hiện kỹ thuật nhảy bật để tung cú ném bóng vào rổ nổi bật!
+/dataset/test/images/100000000123.jpg	Với sự hăng say, các bạn nhỏ đứng xung quanh chăm chú theo dõi cú ném đầy kịch tính này!
+/dataset/test/images/100000000123.jpg	Bóng rổ không chỉ là môn thể thao, mà còn là sân chơi tuyệt vời cho những kỷ niệm tuổi thơ vui vẻ!
+/dataset/test/images/100000000123.jpg	Những đôi tay đang chào đón bóng rổ bay lên cao trên không trung, không khí đầy hào hứng!
+/dataset/test/images/100000000123.jpg	Cách phối hợp ăn ý giữa các cầu thủ thể hiện tinh thần thể thao và niềm đam mê rực rỡ!
+/dataset/test/images/100000000966.jpg	Một cuộc đấu gay cấn giữa các cầu thủ bóng nước, mọi ánh mắt đổ dồn vào khung thành!
+/dataset/test/images/100000000966.jpg	Vận động viên trong cuộc chiến nảy lửa, đang chuẩn bị cho cú ném quyết định vào lưới.
+/dataset/test/images/100000000966.jpg	Thủ môn dũng cảm đang căng mình che chắn để ngăn chặn cú dứt điểm đầy sức mạnh!
+/dataset/test/images/100000000966.jpg	Áp lực gia tăng khi cầu thủ đối phương lao vào khung thành, chiến thắng trong tầm tay!
+/dataset/test/images/100000000966.jpg	Mặt nước bắn tung tóe, niềm đam mê và thể lực hòa quyện trong trận đấu bóng nước quyết liệt này!
+/dataset/test/images/100000000217.jpg	Cả ba tay đua tỏa sáng trên con đường gồ ghề, quyết tâm giành chiến thắng trong cuộc đua hấp dẫn này!
+/dataset/test/images/100000000217.jpg	Với tốc độ chóng mặt, họ đang đồng hành nhau trên những viên đá cuội, vượt qua mọi thử thách.
+/dataset/test/images/100000000217.jpg	Cuộc đua diễn ra trong không khí đầy căng thẳng, các tay đua đều nỗ lực hết mình để không ai bị bỏ lại.
+/dataset/test/images/100000000217.jpg	Hình ảnh mạnh mẽ của những vận động viên, sự tập trung tuyệt đối, và quyết tâm chinh phục mọi chặng đường.
+/dataset/test/images/100000000217.jpg	Mỗi vòng đạp là một cuộc thử thách, nhưng họ không bao giờ từ bỏ – đây chính là tinh thần thể thao!
+/dataset/test/images/100000000023.jpg	Những chiếc cung đầy màu sắc chuẩn bị cho những cú bắn chính xác trong môn bắn cung.
+/dataset/test/images/100000000023.jpg	Tập trung cao độ, các vận động viên đang kiểm tra trang thiết bị của mình trước giải đấu.
+/dataset/test/images/100000000023.jpg	Bầu không khí hồi hộp bao trùm, sự cạnh tranh đang đến gần giữa những tay cung xuất sắc.
+/dataset/test/images/100000000023.jpg	Cảm giác phấn khích lẫn lộn khi những chiếc cung chuẩn bị cộng hưởng với những mũi tên bay.
+/dataset/test/images/100000000023.jpg	Những cánh tay mạnh mẽ chuẩn bị kéo dây cung, hướng đến mục tiêu với quyết tâm quật cường.
+/dataset/test/images/100000000093.jpg	Một cú nhảy ấn tượng từ vận động viên, thể hiện sự quyết tâm trong trận cầu cầu lông hấp dẫn!
+/dataset/test/images/100000000093.jpg	Với trái cầu đang trên không, anh ấy thể hiện kỹ thuật điêu luyện trên sân đấu Olympic.
+/dataset/test/images/100000000093.jpg	Hãy nhìn anh ấy lao lên với sức mạnh tuyệt vời, chuẩn bị thực hiện cú đánh quyết định!
+/dataset/test/images/100000000093.jpg	Trong không gian tỏa sáng của Beijing 2008, từng chi tiết đều thể hiện đam mê và nhiệt huyết.
+/dataset/test/images/100000000093.jpg	Đôi chân mạnh mẽ của vận động viên như bay trên không, khẳng định tài năng ở môn cầu lông đỉnh cao!
+/dataset/test/images/100000001039.jpg	Trong không gian tập luyện căng thẳng này, vận động viên mạnh mẽ đang gồng mình nâng tạ quyết liệt.
+/dataset/test/images/100000001039.jpg	Ánh đèn soi sáng từng cơ bắp cuồn cuộn, thể hiện sức mạnh và quyết tâm của anh chàng vận động viên này.
+/dataset/test/images/100000001039.jpg	Một khoảnh khắc căng thẳng khi vận động viên nâng tạ, biểu tượng cho sự kiên trì trong môn thể thao sức mạnh.
+/dataset/test/images/100000001039.jpg	Sự tập trung và nỗ lực được thể hiện rõ nét trên gương mặt vận động viên khi anh hoàn thành bài tập tạ barbell.
+/dataset/test/images/100000001039.jpg	Với những tấm hình cũ trên tường, vận động viên này đang cách mạng hóa giấc mơ sức mạnh của mình qua từng giọt mồ hôi.
+/dataset/test/images/100000000248.jpg	Hai thợ lặn tự tin khám phá đáy biển sâu thẳm, hòa mình vào sắc xanh tuyệt đẹp!
+/dataset/test/images/100000000248.jpg	Những bong bóng khí bùng lên, đánh dấu hành trình mạo hiểm dưới lòng biển sâu, không gì có thể ngăn cản!
+/dataset/test/images/100000000248.jpg	Cảnh tượng ngoạn mục dưới nước khi các thợ lặn di chuyển chậm rãi giữa những khối đá lớn.
+/dataset/test/images/100000000248.jpg	Đắm chìm trong vẻ đẹp kỳ diệu của đại dương, các vận động viên lặn đang chinh phục thử thách khó quên.
+/dataset/test/images/100000000248.jpg	Họ đang bơi lội giữa không gian huyền ảo, khám phá những bí mật của đại dương bao la!
+/dataset/test/images/100000001062.jpg	Vận động viên đang bay cao với sự quyết tâm mãnh liệt trong môn đấu vật chuyên nghiệp!
+/dataset/test/images/100000001062.jpg	Hãy nhìn sự dũng mãnh của anh ấy khi nhảy từ trên dây xuống, một cuộc chiến không thể tin được!
+/dataset/test/images/100000001062.jpg	Trong không khí sôi động, một cú nhảy táo bạo tấn công đối thủ, thật sự mãn nhãn!
+/dataset/test/images/100000001062.jpg	Toàn bộ khán đài như bùng nổ khi vận động viên thực hiện một cú lộn nhào đầy nghệ thuật!
+/dataset/test/images/100000001062.jpg	Cảm xúc dâng trào với từng giây phút này, một màn trình diễn xuất sắc từ một ngôi sao đấu vật!
+/dataset/test/images/100000000925.jpg	Các vận động viên đang tiến tới vạch đích, không khí trở nên cuồng nhiệt hơn bao giờ hết!
+/dataset/test/images/100000000925.jpg	Khán giả không ngừng cổ vũ khi các đối thủ bước vào giai đoạn cuối của Ironman 70.3.
+/dataset/test/images/100000000925.jpg	Chỉ còn vài mét nữa là các vận động viên sẽ chạm đích, quyết tâm mạnh mẽ mà ai cũng cảm nhận được!
+/dataset/test/images/100000000925.jpg	Những người tham gia lập tức hòa mình vào không khí lễ hội, dòng người cổ vũ không ngớt.
+/dataset/test/images/100000000925.jpg	Những bước chân vững chãi của các vận động viên trên thảm đỏ, căng thẳng nhưng đầy quyết tâm tại Ironman!
+/dataset/test/images/100000000101.jpg	Cầu thủ trẻ đang thể hiện kỹ năng dribble điêu luyện trên sân bóng rổ.
+/dataset/test/images/100000000101.jpg	Với phong cách độc đáo, cầu thủ số 13 chờ đợi cơ hội tấn công bất ngờ!
+/dataset/test/images/100000000101.jpg	Một cuộc tranh chấp gay cấn đang diễn ra khi cầu thủ này giữ bóng chặt chẽ!
+/dataset/test/images/100000000101.jpg	Khán giả chăm chú theo dõi từng bước di chuyển kỳ diệu của cầu thủ trẻ trên sân.
+/dataset/test/images/100000000101.jpg	Sân bóng rổ sôi động với khí thế quyết liệt từ những ngôi sao tương lai của môn thể thao này!
+/dataset/test/images/100000000400.jpg	Hai vận động viên thể dục nghệ thuật tạo dáng đầy vui vẻ trên sàn đấu.
+/dataset/test/images/100000000400.jpg	Bối cảnh rộn ràng, hai cô gái thể hiện tình bạn và sự đoàn kết trong thể thao.
+/dataset/test/images/100000000400.jpg	Họ cùng nhau tỏa sáng, làm nổi bật tinh thần thể thao bên trong nhà thi đấu.
+/dataset/test/images/100000000400.jpg	Trong khoảnh khắc này, sự đoàn kết của hai vận động viên thật sự khiến người xem cảm động.
+/dataset/test/images/100000000400.jpg	Nụ cười rạng rỡ và động thái đầy năng lượng của họ khiến không khí trở nên sôi động.
+/dataset/test/images/100000000514.jpg	Những vận động viên đang chạy mạnh mẽ ra biển, hòa vào những cơn sóng lớn, thật ấn tượng!
+/dataset/test/images/100000000514.jpg	Với sức mạnh và tốc độ, các tay bơi trong môn ba môn phối hợp nỗ lực vượt qua từng cơn sóng.
+/dataset/test/images/100000000514.jpg	Mỗi giọt nước bắn tung tóe khi những vận động viên bứt phá, mang đến không khí hồi hộp không thể tưởng tượng!
+/dataset/test/images/100000000514.jpg	Đường đua này thật đầy thử thách! Các vận động viên đang ra sức cạnh tranh quyết liệt trên những con sóng mạnh.
+/dataset/test/images/100000000514.jpg	Cảm xúc dâng trào! Những người trẻ đổ về phía trước, hứa hẹn một cuộc đua kịch tính trong ngày hôm nay!
+/dataset/test/images/100000000571.jpg	Một fan cuồng nhiệt đang uống từ cốc nhựa dài, hòa mình vào không khí sôi động của trận đấu.
+/dataset/test/images/100000000571.jpg	Tại sân vận động, một cổ động viên đang thể hiện nghệ thuật uống một cách thú vị, thu hút ánh nhìn của mọi người.
+/dataset/test/images/100000000571.jpg	Không khí nóng bỏng của trận Rugby Sevens được tô điểm bởi những hành động hài hước từ người hâm mộ.
+/dataset/test/images/100000000571.jpg	Một chàng trai trong trang phục thể thao nâng cốc lên cao, thể hiện tinh thần cổ động đầy phấn khích cho đội nhà.
+/dataset/test/images/100000000571.jpg	Với một cốc uống đặc biệt, cổ động viên này khiến khán giả không thể kiềm chế được tiếng cười, tạo thêm sự náo nhiệt tại sân.
+/dataset/test/images/100000000434.jpg	Cô gái trong chiếc áo xanh một cách đầy tự tin đang thực hiện cú ném xuất sắc!
+/dataset/test/images/100000000434.jpg	Với sự dũng mãnh, vận động viên đã nhảy lên để tung bóng vào khung thành, khiến khán giả phấn khích!
+/dataset/test/images/100000000434.jpg	Mỗi cú nhảy của cô ấy như một bức tranh sống động, thể hiện sức mạnh của môn bóng ném!
+/dataset/test/images/100000000434.jpg	Khoảnh khắc nghẹt thở khi cầu thủ ghi điểm với cú ném mạnh mẽ, khung thành đang loạn nhịp!
+/dataset/test/images/100000000434.jpg	Đường bóng lượn lờ trong không trung, mang theo hy vọng cho đội bóng trong trận quyết đấu này!
+/dataset/test/images/100000000451.jpg	Vận động viên judo giơ tay biểu thị niềm vui chiến thắng, bầu không khí thật sôi nổi và hồi hộp!
+/dataset/test/images/100000000451.jpg	Trong trang phục judo trắng, anh ta nổi bật giữa đám đông, thể hiện sự tự tin và quyết tâm.
+/dataset/test/images/100000000451.jpg	Một khoảnh khắc đầy kịch tính trên sàn đấu, nơi chiến thắng đang ở rất gần với anh ấy.
+/dataset/test/images/100000000451.jpg	Vận động viên judo vui mừng giơ tay chỉ lên trời, hòa vào cảm xúc mãnh liệt của đám đông.
+/dataset/test/images/100000000451.jpg	Gương mặt tràn đầy năng lượng, anh ta tỏa sáng trên sàn đấu judo, chinh phục mọi ánh nhìn!
+/dataset/test/images/100000000422.jpg	Vận động viên nhảy lên, chuẩn bị tung cú ném quyết định trong môn bóng ném.
+/dataset/test/images/100000000422.jpg	Trong khoảnh khắc này, anh ta thể hiện kỹ thuật điêu luyện, sẵn sàng ghi bàn!
+/dataset/test/images/100000000422.jpg	Hãy nhìn vào sự dũng mãnh của cầu thủ, mang đến kỳ vọng cho đội bóng trong cuộc chiến này!
+/dataset/test/images/100000000422.jpg	Một cú nhảy đầy kịch tính, mang lại sự phấn khích cho hàng nghìn khán giả tại nhà thi đấu!
+/dataset/test/images/100000000422.jpg	Với tinh thần chiến đấu mãnh liệt, mỗi động tác đều thể hiện nỗ lực và khát vọng chiến thắng.
+/dataset/test/images/100000000042.jpg	Cristiano Ronaldo đang dồn hết sức mạnh để dẫn bóng qua hàng phòng ngự đối phương.
+/dataset/test/images/100000000042.jpg	Trong một khoảnh khắc đầy kịch tính, Ronaldo khéo léo qua mặt cầu thủ đối phương, chuẩn bị dứt điểm!
+/dataset/test/images/100000000042.jpg	Với động tác điêu luyện, Ronaldo tạo ra cơ hội ghi bàn trong trận đấu đỉnh cao này.
+/dataset/test/images/100000000042.jpg	Áo đấu Juventus nổi bật giữa sân cỏ, Ronaldo thể hiện phong cách chơi bóng đầy mạnh mẽ.
+/dataset/test/images/100000000042.jpg	Mọi ánh mắt đổ dồn về Ronaldo, người hùng, chuẩn bị làm nên điều kỳ diệu trong trận đấu!
+/dataset/test/images/100000000337.jpg	Hai vận động viên đang tranh tài, một cú đâm nhanh chóng và đầy kịch tính!
+/dataset/test/images/100000000337.jpg	Khán giả hồi hộp theo dõi những pha ra đòn linh hoạt không thể rời mắt!
+/dataset/test/images/100000000337.jpg	Đúng thời điểm, một cú phản công ngoạn mục từ phía vận động viên Canada!
+/dataset/test/images/100000000337.jpg	Căng thẳng gia tăng khi hai người đối kháng trong môn kiếm thật sự mãn nhãn!
+/dataset/test/images/100000000337.jpg	Một màn biểu diễn xuất sắc giữa hai kiếm thủ, ai sẽ là người giành chiến thắng?
+/dataset/test/images/100000000438.jpg	Cầu thủ trong màu áo xanh thực hiện cú ném bóng đầy quyết đoán, chuẩn bị ghi điểm.
+/dataset/test/images/100000000438.jpg	Không khí căng thẳng tại sân, cầu thủ áo vàng chỉ đứng nhìn, tất cả đều hồi hộp!
+/dataset/test/images/100000000438.jpg	Một khoảnh khắc đẹp trong bóng ném, vận động viên áo xanh tỏa sáng với cú ném hoàn hảo.
+/dataset/test/images/100000000438.jpg	Trận đấu đang diễn ra sôi nổi, từng nhịp chân, từng cú ném đều mang lại kịch tính.
+/dataset/test/images/100000000438.jpg	Với kỹ thuật điêu luyện, cầu thủ áo xanh tạo nên sức ép lớn lên hàng phòng ngự đối phương!
+/dataset/test/images/100000000392.jpg	Hai vận động viên thể dục nhịp điệu đang ăn mừng chiến thắng đầy nhiệt huyết sau màn biểu diễn xuất sắc!
+/dataset/test/images/100000000392.jpg	Không khí tưng bừng, những cái ôm và nụ cười rạng rỡ từ các nữ vận động viên thật sự cuốn hút!
+/dataset/test/images/100000000392.jpg	Họ đã chiến đấu kiên cường và giờ đây, niềm vui lan tỏa khắp sân thi đấu thể dục!
+/dataset/test/images/100000000392.jpg	Màn biểu diễn tuyệt vời kết thúc với sự hân hoan và những cái bắt tay thắm thiết giữa các đồng đội!
+/dataset/test/images/100000000392.jpg	Tình cảm gắn bó và quyết tâm chinh phục đỉnh cao làm nên sức mạnh cho đội tuyển này!
+/dataset/test/images/100000000743.jpg	Vận động viên hồ bơi đang lao mình xuống nước trong tư thế hoàn hảo, thật ấn tượng!
+/dataset/test/images/100000000743.jpg	Mọi ánh mắt đổ dồn về đường bơi khi các tuyển thủ đồng loạt nhảy xuống nước, không khí hào hứng!
+/dataset/test/images/100000000743.jpg	Một khoảnh khắc căng thẳng, các kình ngư đã sẵn sàng, sẽ có cuộc đua kịch tính sắp diễn ra.
+/dataset/test/images/100000000743.jpg	Đây là khoảnh khắc quyết định! Dòng nước văng lên khi những vận động viên nhảy, tạo nên sự hồi hộp!
+/dataset/test/images/100000000743.jpg	Từng giây phút một, sự cạnh tranh diễn ra quyết liệt! Ai sẽ giành chiến thắng trong cuộc đua này?
+/dataset/test/images/100000000170.jpg	Một vận động viên chèo thuyền đang dũng cảm tiến vào dòng nước yên ả, sẵn sàng vượt thử thách.
+/dataset/test/images/100000000170.jpg	Dưới ánh sáng mờ ảo, tay chèo cuốn theo nhịp điệu của dòng nước, tạo nên hình ảnh tuyệt đẹp.
+/dataset/test/images/100000000170.jpg	Hình ảnh mạnh mẽ của một vận động viên chèo thuyền, tập trung vào từng cú chèo quyết đoán.
+/dataset/test/images/100000000170.jpg	Một khoảnh khắc đầy kịch tính! Vận động viên chèo thuyền bứt phá, hòa mình với thiên nhiên hoang dã.
+/dataset/test/images/100000000170.jpg	Dòng nước lấp lánh dưới ánh sáng, tay chèo khéo léo khẳng định sức mạnh và tinh thần của thể thao mạo hiểm.
+/dataset/test/images/100000000775.jpg	Đây là khoảnh khắc đầy mạnh mẽ khi vận động viên nhảy nước, thể hiện sự tự tin tuyệt vời.
+/dataset/test/images/100000000775.jpg	Với ánh sáng phản chiếu nước, vận động viên nổi bật giữa không gian thi đấu đầy cạnh tranh.
+/dataset/test/images/100000000775.jpg	Nhìn vào ánh mắt kiên định, cô ấy sẵn sàng cho một màn trình diễn nghệ thuật trên mặt nước.
+/dataset/test/images/100000000775.jpg	Hành động giơ tay cao, thể hiện sự chuẩn bị hoàn hảo trước khi bước vào màn biểu diễn ấn tượng.
+/dataset/test/images/100000000775.jpg	Trong bối cảnh căng thẳng của cuộc thi, vận động viên rạng rỡ với trang phục đầy sáng tạo và cuốn hút.
+/dataset/test/images/100000000827.jpg	Vận động viên áo trắng thể hiện cú đá tuyệt đẹp, mang lại sức mạnh cho trận đấu Taekwondo đầy kịch tính!
+/dataset/test/images/100000000827.jpg	Trong không khí sôi động, hai đấu thủ tranh giành quyền kiểm soát bằng những đòn tấn công mạnh mẽ!
+/dataset/test/images/100000000827.jpg	Cú đá bay của vận động viên áo trắng khiến khán giả reo hò, tiếp thêm sức mạnh cho trận chiến căng thẳng!
+/dataset/test/images/100000000827.jpg	Sân đấu ngập tràn sự hồi hộp khi cả hai đối thủ đều tập trung cao độ, quyết tâm giành chiến thắng!
+/dataset/test/images/100000000827.jpg	Một trận đấu hấp dẫn với những cú ra đòn chính xác, thể hiện tài năng và tinh thần thể thao cao đẹp!
+/dataset/test/images/100000000594.jpg	Một cầu thủ của đội tuyển Nam Phi đang lao tới, chuẩn bị đột phá trong trận đấu kịch tính này!
+/dataset/test/images/100000000594.jpg	Trong không khí căng thẳng, cầu thủ đội Nam Phi nắm bóng, quyết tâm ghi điểm trước đội New Zealand.
+/dataset/test/images/100000000594.jpg	Không thể tin được! Cầu thủ Nam Phi thể hiện tốc độ và kỹ thuật, vượt qua đối thủ một cách xuất sắc!
+/dataset/test/images/100000000594.jpg	Đoàn quân của Nam Phi đang tấn công mãnh liệt, cầu thủ mang số áo 15 cực kỳ kiên cường và hướng đến vạch cuối sân!
+/dataset/test/images/100000000594.jpg	Những cú bứt tốc đầy ấn tượng từ cầu thủ Nam Phi, đang đưa trận đấu đến hồi gay cấn nhất!
+/dataset/test/images/100000000485.jpg	Vận động viên mạnh mẽ đang thực hiện cú ném lao, khuôn mặt tập trung đầy quyết tâm.
+/dataset/test/images/100000000485.jpg	Nhìn vào khoảnh khắc này, sức mạnh và kỹ thuật giao thoa, tạo nên một cú ném tuyệt vời!
+/dataset/test/images/100000000485.jpg	Đám đông reo hò khi cô ấy ném lao mạnh mẽ, khí thế lan tỏa khắp sân thi đấu!
+/dataset/test/images/100000000485.jpg	Cú ném lao bùng nổ, đưa chiếc lao bay cao vút, thể hiện tài năng phi thường của vận động viên.
+/dataset/test/images/100000000485.jpg	Cô ấy thể hiện sự dẻo dai và sức mạnh, một màn trình diễn ấn tượng trong môn ném lao!
+/dataset/test/images/100000000108.jpg	Siêu sao Kobe Bryant đang dồn bóng một cách đầy nghệ thuật, chuẩn bị cho cú ghi điểm mạo hiểm!
+/dataset/test/images/100000000108.jpg	Trong một pha tấn công kịch tính, Kobe chuyền bóng và lao vào vòng cấm, tạo nên sức hút không thể chối từ!
+/dataset/test/images/100000000108.jpg	Với đôi chân nhanh nhẹn, Kobe vượt qua đối thủ, thể hiện kỹ thuật tuyệt vời trong môn bóng rổ đầy cạnh tranh này!
+/dataset/test/images/100000000108.jpg	Khán giả không ngừng reo hò khi Kobe kéo dài một cú bứt phá, hướng đến rổ với quyết tâm mãnh liệt!
+/dataset/test/images/100000000108.jpg	Trận đấu đang ở giai đoạn cao trào, Kobe dẫn bóng điêu luyện, chờ đợi thời điểm thích hợp để tung ra cú ném chiến thắng!
+/dataset/test/images/100000000036.jpg	Cung thủ đang chuẩn bị bắn, ánh nắng chói chang làm nổi bật sự tập trung của anh.
+/dataset/test/images/100000000036.jpg	Với động tác dứt khoát, mũi tên chắc chắn sẽ bay thẳng về đích, thật đẹp mắt!
+/dataset/test/images/100000000036.jpg	Sự hồi hộp bao trùm không khí, từng khoảnh khắc như dừng lại khi cung thủ căng dây cung.
+/dataset/test/images/100000000036.jpg	Cung thủ khéo léo nhắm bắn dưới bầu trời xanh, chuẩn bị cho một cú bắn hoàn hảo.
+/dataset/test/images/100000000036.jpg	Một bức tranh thể thao rực rỡ, thể hiện sự quyết tâm và nghị lực của vận động viên cung thủ.
+/dataset/test/images/100000000824.jpg	Không khí căng thẳng, sẵn sàng cho những trận đấu taekwondo hấp dẫn đang chờ diễn ra!
+/dataset/test/images/100000000824.jpg	Những chiếc ghế trống chờ đợi khán giả, chỉ còn vài phút nữa là cuộc thi taekwondo bắt đầu.
+/dataset/test/images/100000000824.jpg	Sàn đấu taekwondo đã được chuẩn bị hoàn hảo, ánh đèn chiếu sáng không gian đầy kịch tính.
+/dataset/test/images/100000000824.jpg	Đường đi của các vận động viên sẽ hình thành từ đây, nơi bản lĩnh và tài năng được thử thách!
+/dataset/test/images/100000000824.jpg	Sân thi đấu yên tĩnh trước giờ G, sự hồi hộp lan tỏa khắp mọi ngóc ngách chờ đón màn so tài.
+/dataset/test/images/100000000475.jpg	Các võ sĩ đang chăm chỉ tập luyện, tạo nên không khí sôi nổi tại lớp học judo.
+/dataset/test/images/100000000475.jpg	Trong bức tranh thể thao này, những cú lăn mạnh mẽ thể hiện sự quyết tâm vượt qua thử thách.
+/dataset/test/images/100000000475.jpg	Một buổi tập judo nhịp nhàng, nơi mọi người cùng nhau nỗ lực để nâng cao kỹ năng.
+/dataset/test/images/100000000475.jpg	Không khí sôi động, từng động tác lăn lộn vào nhau tạo nên sự kết nối giữa các vận động viên.
+/dataset/test/images/100000000475.jpg	Các chiến binh judo tập luyện siêng năng, chuẩn bị cho những trận đấu khốc liệt phía trước.
+/dataset/test/images/100000000336.jpg	Hai vận động viên đấu kiếm đang chuẩn bị cho một cuộc tranh tài đầy kịch tính.
+/dataset/test/images/100000000336.jpg	Áo giáp trắng, mũ bảo hiểm đen, họ đang bước vào một trận đấu quyết liệt!
+/dataset/test/images/100000000336.jpg	Những bước di chuyển nhanh nhẹn, họ không ngừng tấn công và phòng thủ đầy khéo léo.
+/dataset/test/images/100000000336.jpg	Mỗi cú chém sắc lẹm thể hiện kỹ thuật tuyệt vời, khán giả hồi hộp theo dõi từng khoảnh khắc.
+/dataset/test/images/100000000336.jpg	Cuộc chiến trong môn đấu kiếm căng thẳng với sự tập trung cao độ của cả hai vận động viên!
+/dataset/test/images/100000000026.jpg	Cô gái trẻ tự tin giương cung, nhắm tới mục tiêu giữa thiên nhiên xanh mát.
+/dataset/test/images/100000000026.jpg	Ánh nắng chiếu xuống, tạo nên một khung cảnh tuyệt đẹp cho màn bắn cung hào hứng.
+/dataset/test/images/100000000026.jpg	Hành động chính diện, cô nàng chuẩn bị thả mũi tên ra, mang đến cảm giác hồi hộp cho người xem.
+/dataset/test/images/100000000026.jpg	Một khoảnh khắc tỏa sáng, khi vận động viên trẻ tuổi thể hiện kỹ năng bắn cung giữa thiên nhiên.
+/dataset/test/images/100000000026.jpg	Với động tác mạnh mẽ, cô gái thể hiện tài năng, sẵn sàng vượt qua mọi thử thách.
+/dataset/test/images/100000000960.jpg	Vận động viên trẻ tuổi số 14 của Nhật Bản đang nhảy cao để đón bóng, tạo ra pha bóng kịch tính trong trận đấu.
+/dataset/test/images/100000000960.jpg	Cầu thủ Nhật Bản với sức bật ấn tượng, chuẩn bị thực hiện cú chuyền bóng chính xác cho đồng đội.
+/dataset/test/images/100000000960.jpg	Trong không khí sôi động, cầu thủ mặc áo đỏ khéo léo kiểm soát bóng, thể hiện kỹ năng chuyên nghiệp.
+/dataset/test/images/100000000960.jpg	Một khoảnh khắc đỉnh cao khi cầu thủ Nhật Bản số 14 dứt khoát bay lên không trung, hướng về lưới đối phương.
+/dataset/test/images/100000000960.jpg	Tại trận đấu hấp dẫn này, cầu thủ Nhật Bản với chiếc áo đỏ đang phô diễn tài năng vô cùng ấn tượng!
+/dataset/test/images/100000000498.jpg	Vận động viên đang núp gió, tập trung tối đa để đạt tốc độ cao nhất trên đường đua.
+/dataset/test/images/100000000498.jpg	Với sự quyết tâm mạnh mẽ, tay đua lao như tên bắn, hứa hẹn một cuộc đua đầy kịch tính.
+/dataset/test/images/100000000498.jpg	Áo thi đấu gọn gàng, anh ấy rướn mình, từng cái quay của bánh xe tạo ra sức mạnh vô biên.
+/dataset/test/images/100000000498.jpg	Đường đua bóng bẩy, vận động viên dùng toàn bộ sức lực để bứt phá khỏi các đối thủ phía sau.
+/dataset/test/images/100000000498.jpg	Sự kết hợp hoàn hảo giữa công nghệ và tài năng, anh ấy đang chinh phục từng mét đường đua khó khăn.
+/dataset/test/images/100000000249.jpg	Một vận động viên lặn sâu đang ở giữa đại dương xanh mát, dưới ánh sáng rực rỡ từ trên xuống.
+/dataset/test/images/100000000249.jpg	Đắm chìm trong nước, anh ấy thể hiện tài năng lặn sâu với bộ chân vịt đầy ấn tượng.
+/dataset/test/images/100000000249.jpg	Chỉ với một hơi thở, anh chàng này đang khám phá những bí ẩn dưới đáy biển sâu thẳm.
+/dataset/test/images/100000000249.jpg	Ánh sáng xuyên qua mặt nước tạo nên khung cảnh huyền ảo, khiến người xem không thể rời mắt.
+/dataset/test/images/100000000249.jpg	Cảm giác mạo hiểm như đang hiện diện, khi vận động viên lặn thả mình trong không gian tĩnh lặng của biển cả.
+/dataset/test/images/100000000717.jpg	Vận động viên bơi lội đang lướt nhanh dưới làn nước trong xanh, sức mạnh vượt trội thể hiện ở từng cú vẫy.
+/dataset/test/images/100000000717.jpg	Trong không gian yên bình của bể bơi, những sợi bọt nước bay lên khẳng định tình yêu thể thao mãnh liệt.
+/dataset/test/images/100000000717.jpg	Hình ảnh đầy sức sống khi vận động viên lặn xuống nước, mọi chi tiết đều ấn tượng và sống động.
+/dataset/test/images/100000000717.jpg	Cuộc đua giữa người và nước đang diễn ra, mỗi động tác đều thể hiện sự khéo léo và nhanh nhẹn.
+/dataset/test/images/100000000717.jpg	Làn nước xanh mát như gương phản chiếu tinh thần của vận động viên, bứt phá từng giây phút quý giá.
+/dataset/test/images/100000000339.jpg	Hai đấu thủ đấu kiếm dũng mãnh, mỗi nhát chém đều tiềm ẩn sự căng thẳng kịch tính!
+/dataset/test/images/100000000339.jpg	Trận đấu đầy gay cấn, các kiếm sĩ không ngừng di chuyển, tìm kiếm điểm yếu của đối thủ.
+/dataset/test/images/100000000339.jpg	Hãy nhìn xem, một cú tấn công bất ngờ! Ai sẽ là người đứng vững cuối cùng trong cuộc chiến này?
+/dataset/test/images/100000000339.jpg	Trong bầu không khí ngột ngạt, những đường kiếm sắc lẹm bùng nổ, cả sân đấu nín thở!
+/dataset/test/images/100000000339.jpg	Cuộc đấu không chỉ là sức mạnh mà còn là chiến thuật tinh tế giữa hai vận động viên tài năng.
+/dataset/test/images/100000000814.jpg	Vận động viên đang chuẩn bị tung ra cú đập mạnh mẽ, cảm giác hồi hộp lan tỏa khắp sân chơi.
+/dataset/test/images/100000000814.jpg	Trong khoảnh khắc này, mọi ánh mắt đổ dồn vào cú giao bóng chính xác và đầy quyết đoán.
+/dataset/test/images/100000000814.jpg	Cô ấy tập trung tối đa, một cú đánh tinh tế sẽ định đoạt trận đấu căng thẳng này.
+/dataset/test/images/100000000814.jpg	Với nụ cười tự tin, vận động viên đang sẵn sàng cho một cú đánh bàn mạnh mẽ, không thể tưởng tượng nổi!
+/dataset/test/images/100000000814.jpg	Giây phút kịch tính, trái banh đang bay, và mọi thứ dường như lắng đọng trước cú đánh xuất sắc sắp tới!
+/dataset/test/images/100000000672.jpg	Các vận động viên miền núi chuẩn bị sẵn sàng cho cuộc đua mạnh mẽ trên tuyết!
+/dataset/test/images/100000000672.jpg	Những tay trượt tuyết trẻ tuổi hăng hái chờ đón cơ hội vượt qua thử thách này!
+/dataset/test/images/100000000672.jpg	Nhìn kìa, họ đều đồng loạt dồn hết sức lực vào đường trượt phía trước, thật mãn nhãn!
+/dataset/test/images/100000000672.jpg	Với kỹ thuật và phong cách xuất sắc, những vận động viên này sẵn sàng chinh phục vùng núi!
+/dataset/test/images/100000000672.jpg	Thời tiết lạnh giá không ngăn cản sự quyết tâm trong lòng những tay trượt tài năng này!
+/dataset/test/images/100000000384.jpg	Một vận động viên xinh đẹp đang thực hiện những động tác nhào lộn đầy nghệ thuật trên thảm thi đấu.
+/dataset/test/images/100000000384.jpg	Với sự quyết tâm và tinh thần cao, cô ấy bay lên không trung, xác định xuống điểm rơi hoàn hảo.
+/dataset/test/images/100000000384.jpg	Ánh sáng sân khấu chiếu rọi, tạo nên khoảnh khắc huyền ảo giữa Olympic Paris 2024, hãy theo dõi!
+/dataset/test/images/100000000384.jpg	Đỉnh cao của thể thao, mỹ thuật và sự kiên trì được tỏa sáng qua từng động tác linh hoạt của cô.
+/dataset/test/images/100000000384.jpg	Sự kết hợp giữa sức mạnh và sự dịu dàng, mỗi lần biểu diễn đều khiến khán giả phải ngỡ ngàng!
+/dataset/test/images/100000000226.jpg	Một người đạp xe mạnh mẽ, tay cầm chặt lái, hòa mình vào không khí tự do.
+/dataset/test/images/100000000226.jpg	Hình bóng mạnh mẽ cắm cúi trên mặt đất, thể hiện sức mạnh của người lái xe đạp.
+/dataset/test/images/100000000226.jpg	Cảnh tượng sống động, người đạp xe di chuyển nhanh qua khu vực, tạo nên cảm giác hồi hộp.
+/dataset/test/images/100000000226.jpg	Đạp xe giữa trời nắng, vận động viên tỏa sáng với từng vòng quay bánh xe mạnh mẽ.
+/dataset/test/images/100000000226.jpg	Với sự tập trung cao độ, người đạp xe này chinh phục mọi thử thách trên đường đua.
+/dataset/test/images/100000000545.jpg	Một khoảnh khắc đầy cảm xúc sau cuộc đua chèo thuyền, hai vận động viên ôm nhau chúc mừng.
+/dataset/test/images/100000000545.jpg	Sự gắn kết tuyệt vời giữa hai nữ vận động viên, thể hiện sức mạnh và tình bạn kiên cường!
+/dataset/test/images/100000000545.jpg	Sau một cuộc đua đầy kịch tính, họ tìm thấy niềm vui trong vòng tay của nhau.
+/dataset/test/images/100000000545.jpg	Giữa sóng nước, khoảnh khắc này là minh chứng cho nỗ lực và tình đồng đội bền chặt!
+/dataset/test/images/100000000545.jpg	Với ánh nắng rực rỡ, tình bạn của hai vận động viên này lan tỏa sức mạnh!
+/dataset/test/images/100000000468.jpg	Hai vận động viên judo đang thực hiện một đòn ném mạnh mẽ, hấp dẫn đến từng giây phút!
+/dataset/test/images/100000000468.jpg	Chi tiết tuyệt vời khi vận động viên mặc đồng phục trắng bị ném lên không trung trong trận đấu judo này!
+/dataset/test/images/100000000468.jpg	Ánh sáng rực rỡ chiếu xuống võ đường, làm nổi bật tình huống căng thẳng trong cuộc chiến judo!
+/dataset/test/images/100000000468.jpg	Vận động viên áo xanh thể hiện sức mạnh, mang đến một cú ra đòn lôi cuốn và đầy kịch tính!
+/dataset/test/images/100000000468.jpg	Không khí sôi động tại giải đấu judo, khi từng động tác khiến khán giả không thể rời mắt!
+/dataset/test/images/100000000557.jpg	Đội thuyền nhanh chóng lướt đi trên mặt nước, thể hiện sự đồng bộ tuyệt vời của các vận động viên.
+/dataset/test/images/100000000557.jpg	Những chiếc mái chèo cùng nhau đập mạnh xuống nước, tạo ra làn sóng mạnh mẽ, đầy sức mạnh và sự quyết tâm.
+/dataset/test/images/100000000557.jpg	Các tay chèo đồng đội phối hợp nhịp nhàng, tạo nên một hình ảnh đầy tính thẩm mỹ và thể hiện sự dẻo dai.
+/dataset/test/images/100000000557.jpg	Vận động viên trong trang phục đồng phục đen, quyết tâm chèo thuyền vượt qua mọi thử thách, tạo nên một bức tranh sống động.
+/dataset/test/images/100000000557.jpg	Với sức mạnh tập thể, đội thuyền nhanh chóng vượt qua làn sóng, chứng tỏ bản lĩnh trong môn đua thuyền!
+/dataset/test/images/100000000650.jpg	Một vận động viên trượt tuyết đang chuẩn bị vào cuộc thi đầy thử thách giữa trời sương mù.
+/dataset/test/images/100000000650.jpg	Hình ảnh đẹp mắt của một tay trượt tuyết dũng cảm đang chinh phục đường đua khó khăn.
+/dataset/test/images/100000000650.jpg	Đứng vững trên đôi ván trượt, vận động viên quyết tâm vượt qua cột mốc đầu tiên trong cuộc đua.
+/dataset/test/images/100000000650.jpg	Giữa khí trời lạnh giá, vận động viên chiến đấu với bản thân để chạm tới vinh quang tại giải đấu.
+/dataset/test/images/100000000650.jpg	Ánh sáng mờ ảo tạo nên không khí kịch tính khi vận động viên trượt tuyết chuẩn bị tranh tài.
+/dataset/test/images/100000000850.jpg	Đoàn vận động viên taekwondo đang hân hoan khoe huy chương vàng, niềm tự hào rực rỡ!
+/dataset/test/images/100000000850.jpg	Những chiếc huy chương lấp lánh trên áo võ sĩ, chứng nhận cho nỗ lực và sự kiên trì không ngừng!
+/dataset/test/images/100000000850.jpg	Từng ánh mắt sáng lên khi họ chụp hình cùng huy chương, khoảnh khắc tuyệt vời của chiến thắng!
+/dataset/test/images/100000000850.jpg	Vận động viên taekwondo không chỉ giỏi, mà còn đầy nhiệt huyết, khát khao chinh phục trò chơi!
+/dataset/test/images/100000000850.jpg	Kể từ giây phút này, mỗi chiếc huy chương là minh chứng cho con đường gian nan và quả cảm!
+/dataset/test/images/100000000259.jpg	Một vận động viên lặn đang khám phá thế giới dưới nước kỳ diệu bên chiếc thuyền đắm.
+/dataset/test/images/100000000259.jpg	Hình ảnh hút hồn khi vận động viên lặn xuống sâu, ánh sáng chiếu rọi từ mặt nước.
+/dataset/test/images/100000000259.jpg	Với chiếc kính lặn trên mặt, cô gái đang thực hiện những động tác lặn điêu luyện giữa lòng đại dương.
+/dataset/test/images/100000000259.jpg	Môi trường xanh thẳm và chiếc thuyền đắm tạo nên khung cảnh tuyệt vời cho hành trình khám phá của vận động viên.
+/dataset/test/images/100000000259.jpg	Vận động viên lặn bay bổng giữa dòng nước, trước cảnh sắc kỳ diệu dưới lòng biển xanh.
+/dataset/test/images/100000001030.jpg	Vận động viên đang chuẩn bị sức mạnh tối đa để nhấc tạ lên một cách ấn tượng.
+/dataset/test/images/100000001030.jpg	Với quyết tâm và tập trung, anh ấy đang nỗ lực nâng tạ lớn nhất trong ngày!
+/dataset/test/images/100000001030.jpg	Các khán giả xung quanh đang hồi hộp, mong chờ khoảnh khắc vàng của anh chàng này!
+/dataset/test/images/100000001030.jpg	Đôi chân vững vàng cùng động tác chuẩn xác, vận động viên đang chinh phục thử thách nặng nề.
+/dataset/test/images/100000001030.jpg	Mọi ánh mắt đổ dồn vào, không khí ở phòng gym trở nên kịch tính với cú nâng tạ mãn nhãn!
+/dataset/test/images/100000000734.jpg	Một bộ dụng cụ bơi lội sẵn sàng trên bề mặt hồ bơi xanh mát, chờ đón những cuộc thi gay cấn.
+/dataset/test/images/100000000734.jpg	Kính bơi và mũ đen nằm bên cạnh, báo hiệu sự chuẩn bị cho cuộc đua dưới nước đầy hồi hộp.
+/dataset/test/images/100000000734.jpg	Gợi nhớ đến những giây phút căng thẳng, nơi các vận động viên sẽ tranh tài để giành chiến thắng chói lọi.
+/dataset/test/images/100000000734.jpg	Cảm giác rạo rực trước những cú nhảy mạnh mẽ xuống nước, mọi ánh nhìn đang dồn về nơi cuộc thi diễn ra.
+/dataset/test/images/100000000734.jpg	Trên mặt nước yên ả, một thế giới đầy cạnh tranh đang chờ đón các nhà vô địch trong môn bơi lội.
+/dataset/test/images/100000000105.jpg	Một cầu thủ đang thể hiện cú nhảy cao đầy ấn tượng, chuẩn bị ghi điểm cho đội bóng của mình!
+/dataset/test/images/100000000105.jpg	Với sự tập trung tuyệt đối, vận động viên này đang lao mình về phía rổ, sẵn sàng đắm mình vào bóng rổ.
+/dataset/test/images/100000000105.jpg	Cú tung bóng của anh ấy thật mạnh mẽ, khiến khán giả không thể ngồi yên, chờ đợi một điều kỳ diệu xảy ra.
+/dataset/test/images/100000000105.jpg	Trong khoảnh khắc quyết định, vận động viên này thể hiện sức mạnh và kỹ thuật hoàn hảo, mang lại hy vọng cho đội.
+/dataset/test/images/100000000105.jpg	Cạnh tranh gay gắt, nhưng với nỗ lực và tài năng, anh ta đang làm chủ trận đấu bằng một cú dunk mãn nhãn!
+/dataset/test/images/100000000034.jpg	Vận động viên đang chuẩn bị bắn, ánh mắt tập trung vào mục tiêu phía xa.
+/dataset/test/images/100000000034.jpg	Một khoảnh khắc hồi hộp, dây cung căng, sự quyết tâm hiện rõ trên gương mặt.
+/dataset/test/images/100000000034.jpg	Không khí thinh lặng bao trùm, chỉ còn lại tiếng cơn gió nhẹ giữa trời chiều.
+/dataset/test/images/100000000034.jpg	Vận động viên đang trải lòng mình với môn bắn cung, sẵn sàng cho phát bắn quyết định!
+/dataset/test/images/100000000034.jpg	Hành động quyết liệt và đầy kỹ thuật, chứng tỏ sự khổ luyện và đam mê bền bỉ!
+/dataset/test/images/100000000961.jpg	Vận động viên đang chuẩn bị thực hiện cú giao bóng mạnh mẽ, không khí căng thẳng bao trùm!
+/dataset/test/images/100000000961.jpg	Cô ấy tung bóng lên cao, làm bùng nổ sự phấn khích trong khán đài, một khoảnh khắc đáng chờ đợi!
+/dataset/test/images/100000000961.jpg	Với sự tự tin, vận động viên này sẵn sàng ghi điểm cho đội nhà, tất cả đều chăm chú theo dõi!
+/dataset/test/images/100000000961.jpg	Ánh đèn sáng rực rỡ, cô ấy di chuyển nhanh nhẹn, chuẩn bị cho một cú giao bóng đầy kỹ thuật!
+/dataset/test/images/100000000961.jpg	Một cú giao bóng quyết định từ vận động viên nổi bật, chiến thắng đang đến gần hơn bao giờ hết!
+/dataset/test/images/100000000635.jpg	Một chiếc thuyền buồm lớn đang phăng phăng chạy trên làn sóng, đầy sức mạnh và tự do.
+/dataset/test/images/100000000635.jpg	Ánh hoàng hôn chiếu rọi, tạo nên khung cảnh đẹp như mơ cho cuộc hành trình trên biển mênh mông.
+/dataset/test/images/100000000635.jpg	Những cánh buồm căng gió, người lái thuyền đầy kinh nghiệm điều khiển con thuyền vượt sóng gió.
+/dataset/test/images/100000000635.jpg	Khung cảnh mờ ảo giữa núi non và biển cả, thuyền buồm như một biểu tượng của khám phá.
+/dataset/test/images/100000000635.jpg	Một buổi chiều tuyệt đẹp, thuyền buồm đang chinh phục những làn sóng bất tận, mang theo khát khao tự do.
+/dataset/test/images/100000000327.jpg	Hai vận động viên đang trong cuộc đấu kiếm đầy kịch tính, quyết liệt từng nhát dao kiếm.
+/dataset/test/images/100000000327.jpg	Huyền bí trong ánh đèn sân đấu, hai kiếm thủ tranh tài với tốc độ chóng mặt, không cho nhau một giây nghỉ.
+/dataset/test/images/100000000327.jpg	Vận động viên mang cờ Mỹ nhanh nhẹn đối đầu, lao người để thực hiện đòn tấn công chính xác.
+/dataset/test/images/100000000327.jpg	Trận đấu diễn ra căng thẳng, cả hai kiếm thủ đều dồn sức, bàn chân nhẹ nhàng di chuyển trong bối cảnh chật hẹp.
+/dataset/test/images/100000000327.jpg	Ánh sáng chói lọi, không khí căng thẳng, mỗi bước di chuyển của hai kiếm thủ đều thể hiện sức mạnh và sự quyết tâm.
+/dataset/test/images/100000000386.jpg	Cô gái đang thể hiện tư thế mạnh mẽ, cân bằng hoàn hảo trên thiết bị thể dục nhỏ.
+/dataset/test/images/100000000386.jpg	Với sự tập trung cao độ, vận động viên đang thử thách khả năng của mình trên sàn tập.
+/dataset/test/images/100000000386.jpg	Hình ảnh đầy sức mạnh, cô gái vươn mình trong tư thế nghịch ngợm và kiêu hãnh.
+/dataset/test/images/100000000386.jpg	Sự khéo léo và quyết tâm tỏa sáng trong từng động tác của vận động viên trẻ này!
+/dataset/test/images/100000000386.jpg	Vận động viên đang hoàn thành một bài tập khó, thể hiện sự dẻo dai và tinh tế không thể tin được!
+/dataset/test/images/100000000380.jpg	Một cú xoay tuyệt đẹp dưới cơn mưa, người chơi golf chuẩn bị cho cú đánh mạnh mẽ!
+/dataset/test/images/100000000380.jpg	Dưới cơn mưa nặng hạt, vận động viên golf này không hề nao núng, tạo nên khoảnh khắc đầy kịch tính.
+/dataset/test/images/100000000380.jpg	Đúng lúc cú đánh thoát khỏi gậy, quả bóng bay đi trong không gian buốt lạnh của buổi trưa mưa!
+/dataset/test/images/100000000380.jpg	Vận động viên nỗ lực hết mình, thể hiện tình yêu với golf bất chấp thời tiết mưa bão!
+/dataset/test/images/100000000380.jpg	Trong khung cảnh rực rỡ của mùa thu, một cú đánh mạnh mẽ khiến trái bóng bay xa!
+/dataset/test/images/100000000924.jpg	Hãy nhìn chiếc xe đạp sẵn sàng, chuẩn bị cho cuộc đua đầy cam go trong thử thách triathlon này!
+/dataset/test/images/100000000924.jpg	Đường đua ướt át, nhưng điều đó không ngăn được tinh thần chiến đấu của các vận động viên!
+/dataset/test/images/100000000924.jpg	Áo, mũ và giày thể thao được bày biện hoàn hảo, sẵn sàng cho cuộc chiến cam go sắp diễn ra!
+/dataset/test/images/100000000924.jpg	Với số báo danh 408, vận động viên này thể hiện sự quyết tâm chinh phục từng mét đường đua.
+/dataset/test/images/100000000924.jpg	Những chi tiết nhỏ từ trang phục đến phương tiện, tất cả đều hứa hẹn một cuộc đua không thể nào quên!
+/dataset/test/images/100000000720.jpg	Vận động viên lặn sâu xuống hồ bơi, thể hiện sự điêu luyện và mạnh mẽ.
+/dataset/test/images/100000000720.jpg	Nhìn từ dưới nước, cô gái đang thực hiện động tác lặn tuyệt hảo, tạo ra những bọt nước lung linh.
+/dataset/test/images/100000000720.jpg	Vận động viên như một chú cá, nắm vững kỹ thuật lặn trong không gian sắc xanh huyền ảo.
+/dataset/test/images/100000000720.jpg	Từng nhịp thở được tiết chế hoàn hảo, mang lại sự uyển chuyển trong từng chuyển động diệu kỳ.
+/dataset/test/images/100000000720.jpg	Diễn ra trong môi trường tuyệt vời, kỹ năng bơi lội của cô gái khiến mọi ánh mắt phải ngưỡng mộ!
+/dataset/test/images/100000000361.jpg	Một cú đánh mãnh liệt từ vận động viên, bóng bay vút cao trên bầu trời xám.
+/dataset/test/images/100000000361.jpg	Bối cảnh tĩnh lặng, vận động viên vừa thực hiện cú swing hoàn hảo trong môn golf đầy kịch tính.
+/dataset/test/images/100000000361.jpg	Bóng golf rời khỏi gậy, bay thẳng về phía mục tiêu, tạo nên một khoảnh khắc tuyệt vời.
+/dataset/test/images/100000000361.jpg	Hành động đánh golf cuốn hút, từng chi tiết được chú ý trong một buổi chiều yên bình.
+/dataset/test/images/100000000361.jpg	Người chơi sẵn sàng cho cú đánh quyết định, tập trung tối đa và sự hồi hộp lặng lẽ bao trùm.
+/dataset/test/images/100000000010.jpg	Một vận động viên trẻ đang chuẩn bị bắn cung, thần thái tự tin và đầy quyết tâm.
+/dataset/test/images/100000000010.jpg	Trong không gian tập luyện, cô ấy dồn hết sức lực vào từng phát bắn chính xác.
+/dataset/test/images/100000000010.jpg	Ánh đèn chiếu sáng khung cảnh, tạo ra bầu không khí hồi hộp cho màn thi đấu bắn cung.
+/dataset/test/images/100000000010.jpg	Cô ấy căng dây cung, mọi ánh mắt đổ dồn vào từng cử động khéo léo và điêu luyện.
+/dataset/test/images/100000000010.jpg	Sân tập bắn cung sôi động, nơi những khao khát chinh phục mục tiêu được thực hiện từng ngày.
+/dataset/test/images/100000000548.jpg	Cánh tay mạnh mẽ nắm chặt cần chèo, chuẩn bị cho cuộc đua khốc liệt sắp tới.
+/dataset/test/images/100000000548.jpg	Ánh sáng mặt trời chiếu rọi, bàn tay vận động viên thể hiện sự tập trung tối đa vào chèo thuyền.
+/dataset/test/images/100000000548.jpg	Những ngón tay khéo léo bám chặt vào cần chèo, sẵn sàng vượt qua mọi thử thách trên mặt nước.
+/dataset/test/images/100000000548.jpg	Vận động viên đang kiểm soát từng động tác, tạo ra sức mạnh bứt phá trong môn rowing đầy tính cạnh tranh.
+/dataset/test/images/100000000548.jpg	Hình ảnh sống động của cuộc đua, thể hiện sự kỷ luật và quyết tâm của những người đam mê rowing.
+/dataset/test/images/100000000651.jpg	Một vận động viên lướt trên tuyết, tạo ra những làn sóng trắng tuyệt đẹp và đầy mạo hiểm!
+/dataset/test/images/100000000651.jpg	Áo khoác vàng chói lọi tỏa sáng giữa bối cảnh tuyết trắng xóa, thể hiện phong cách trượt tuyết đầy năng lượng.
+/dataset/test/images/100000000651.jpg	Ngay giữa khung cảnh hùng vĩ, vận động viên thể hiện kỹ thuật điêu luyện trên sườn núi phủ đầy tuyết.
+/dataset/test/images/100000000651.jpg	Cú trượt sắc lẹm, văng lên những bông tuyết giữa không gian yên tĩnh, tạo nên bức tranh mùa đông hoàn hảo.
+/dataset/test/images/100000000651.jpg	Từng động tác nhẹ nhàng, uyển chuyển, vận động viên đang tận hưởng cảm giác tự do tuyệt đối trên sườn núi.
+/dataset/test/images/100000000784.jpg	Không khí căng thẳng hiện rõ với các vận động viên đang chuẩn bị cho trận đấu bóng bàn sắp tới.
+/dataset/test/images/100000000784.jpg	Những pha xử lý khéo léo và nhanh nhẹn từ những tay chơi chuyên nghiệp sẽ làm bùng nổ không gian này.
+/dataset/test/images/100000000784.jpg	Người hâm mộ hồi hộp theo dõi, ánh đèn sáng rực làm nổi bật sân thi đấu bóng bàn đầy kịch tính.
+/dataset/test/images/100000000784.jpg	Sự tập trung cao độ của vận động viên hứa hẹn những cú đánh quyết định và đầy bất ngờ.
+/dataset/test/images/100000000784.jpg	Không gian thi đấu sôi động, nơi tài năng và kỹ thuật của các vận động viên bóng bàn được tỏa sáng.
+/dataset/test/images/100000000455.jpg	Vận động viên đang thực hiện một đòn đánh mạnh mẽ trong giải đấu judo quốc tế, không khí thật kịch tính!
+/dataset/test/images/100000000455.jpg	Trên thảm đấu, cú quật đẹp mắt khiến khán giả phấn khích hò reo, đây đúng là judo đỉnh cao!
+/dataset/test/images/100000000455.jpg	Một cuộc so tài nghẹt thở tại Giải Judo Thế giới, vận động viên dũng mãnh thể hiện kỹ thuật tuyệt vời!
+/dataset/test/images/100000000455.jpg	Cảm giác như thời gian ngừng lại khi vận động viên thực hiện cú ném ấn tượng giữa giải judo khốc liệt!
+/dataset/test/images/100000000455.jpg	Những pha tranh tài ngang sức, cuộc chiến vĩ đại giữa hai tay đẳng cấp tại giải vô địch judo thế giới!
+/dataset/test/images/100000000860.jpg	Một sân tennis tuyệt đẹp bên bờ hồ, gió thổi nhẹ và thực sự yên bình.
+/dataset/test/images/100000000860.jpg	Cảnh quan thơ mộng khiến trận đấu tennis càng thêm kịch tính với sự hấp dẫn lạ thường.
+/dataset/test/images/100000000860.jpg	Ánh nắng chiếu rọi, tạo ra một bối cảnh hoàn hảo cho những cú giao bóng mãn nhãn.
+/dataset/test/images/100000000860.jpg	Sân tennis trống trải mời gọi những tay vợt đầy nhiệt huyết, sẵn sàng chinh phục thử thách.
+/dataset/test/images/100000000860.jpg	Với chiều ngang rộng mở và phong cảnh mê hoặc, đây là nơi lý tưởng để thể hiện tài năng.
+/dataset/test/images/100000000113.jpg	Đường bóng rổ tràn ngập năng lượng, chuẩn bị cho trận đấu hấp dẫn tiếp theo.
+/dataset/test/images/100000000113.jpg	Những trái bóng rổ đỏ rực đang chờ đợi những cú ném đầy kĩ thuật từ các vận động viên.
+/dataset/test/images/100000000113.jpg	Ánh sáng rực rỡ soi sáng sân, nơi các cầu thủ sẽ phô diễn kỹ năng tuyệt vời của mình hôm nay.
+/dataset/test/images/100000000113.jpg	Khung rổ bên kia đang chờ đón, những cú nhảy đầy quyết tâm sẽ biến giấc mơ thành hiện thực!
+/dataset/test/images/100000000113.jpg	Cảm giác hồi hộp đang bao trùm, một ngày thể thao đầy kịch tính và bất ngờ đang sắp bắt đầu!
+/dataset/test/images/100000000366.jpg	Hai tay golfer thoải mái trên xe cút kít, đang chuẩn bị cho cú đánh tiếp theo!
+/dataset/test/images/100000000366.jpg	Không khí tươi mới trên sân golf, cặp đôi này đang tận hưởng trọn vẹn từng khoảnh khắc.
+/dataset/test/images/100000000366.jpg	Nụ cười rạng rỡ, những tay chơi golf này đang hướng tới một vòng đấu thú vị phía trước!
+/dataset/test/images/100000000366.jpg	Xe golf lăn bánh trên cỏ xanh, cảm nhận sự hồi hộp của cuộc chơi đang đến gần.
+/dataset/test/images/100000000366.jpg	Một buổi chiều đầy ý nghĩa trên sân golf, họ sẵn sàng cho những thử thách thú vị!
+/dataset/test/images/100000000838.jpg	Vận động viên áo đỏ thực hiện cú đá mạnh mẽ, quyết định số phận trận đấu đầy căng thẳng!
+/dataset/test/images/100000000838.jpg	Áo xanh đang chống đỡ, sự quyết tâm toát lên từ từng động tác của các võ sĩ trên sàn đấu!
+/dataset/test/images/100000000838.jpg	Cú đá vòng của vận động viên đỏ là một động tác nghệ thuật tuyệt đẹp trong trận Taekwondo đỉnh cao này!
+/dataset/test/images/100000000838.jpg	Phân tích từng giây một! Võ sĩ áo xanh buộc phải phòng thủ trước cú tấn công uy lực của đối thủ!
+/dataset/test/images/100000000838.jpg	Trong bầu không khí đầy sôi động này, tinh thần chiến đấu mãnh liệt đang bùng lên giữa hai võ sĩ!
+/dataset/test/images/100000000110.jpg	Cô gái trong áo đen đang dẫn bóng một cách đầy quyết tâm, không để đối thủ kịp bám theo.
+/dataset/test/images/100000000110.jpg	Ở giữa sân, vận động viên áo đen thể hiện kỹ thuật vượt qua đối thủ trắng, mỗi bước chân đầy sức mạnh.
+/dataset/test/images/100000000110.jpg	Bóng rổ đang diễn ra kịch tính, vận động viên áo đen đang tranh bóng với rival gần kề!
+/dataset/test/images/100000000110.jpg	Tình huống gay cấn! Cô gái áo đen kiên cường giữ bóng, quyết không để ai chạm vào.
+/dataset/test/images/100000000110.jpg	Sân bóng rổ nóng bỏng, cô gái áo đen đang tỏa sáng với những bước di chuyển đầy chiến thuật và tốc độ!
+/dataset/test/images/100000000389.jpg	Cô vận động viên đang thể hiện động tác nhào lộn ấn tượng trên xà kép, cực kỳ mạnh mẽ!
+/dataset/test/images/100000000389.jpg	Với sự dẻo dai và khéo léo, vận động viên này khiến khán giả không thể rời mắt.
+/dataset/test/images/100000000389.jpg	Hóa thân thành một nghệ sĩ trên không, cô ấy làm chủ kỹ thuật nhào lộn với phong cách tuyệt vời!
+/dataset/test/images/100000000389.jpg	Đừng bỏ lỡ khoảnh khắc này! Cô ấy đang trình diễn những động tác tuyệt đẹp trên xà kép.
+/dataset/test/images/100000000389.jpg	Không gian tập luyện sôi động, và cô gái này đang thể hiện khả năng vượt trội trên xà kép!
+/dataset/test/images/100000000733.jpg	Vận động viên bơi, vượt qua từng làn nước, thể hiện sức mạnh đầy quyết tâm trong cuộc đua kịch tính!
+/dataset/test/images/100000000733.jpg	Cái nhìn sắc lẹm từ các đối thủ, nhưng vận động viên này vẫn bứt phá với tốc độ kinh ngạc.
+/dataset/test/images/100000000733.jpg	Nước bắn tung tóe, ánh đèn sáng rực rỡ – đây là những giây phút của cuộc chiến bơi lội không thể quên!
+/dataset/test/images/100000000733.jpg	Vận động viên trong đội bơi đang thể hiện những kỹ thuật chính xác, đưa cơ hội chiến thắng lại gần hơn bao giờ hết!
+/dataset/test/images/100000000733.jpg	Một cú quay người xuất sắc, vận động viên nhanh chóng giành lấy vị trí dẫn đầu và gây dấu ấn mạnh mẽ!
+/dataset/test/images/100000000551.jpg	Vận động viên rowing mạnh mẽ điều khiển chiếc thuyền giữa làn nước trong xanh.
+/dataset/test/images/100000000551.jpg	Hãy nhìn cô ấy! Từng động tác chính xác, không gì có thể cản bước chân của vận động viên này.
+/dataset/test/images/100000000551.jpg	Với bầu không khí hồi hộp, các vận động viên nóng lòng tranh tài trong cuộc đua rowing quyết liệt này.
+/dataset/test/images/100000000551.jpg	Cô gái trong bộ đồng phục vàng xanh thể hiện sức mạnh và sự kiên trì trong từng nhịp chèo.
+/dataset/test/images/100000000551.jpg	Ánh nắng lung linh chiếu rọi, tạo nên khung cảnh tuyệt đẹp cho cuộc tạo sức mạnh trên mặt nước.
+/dataset/test/images/100000000496.jpg	Một vận động viên cầu lông đầy quyết tâm, ra sức tung cú đánh mạnh mẽ!
+/dataset/test/images/100000000496.jpg	Hãy nhìn sự tập trung tuyệt đối trên gương mặt cô gái khi cô thực hiện cú đánh!
+/dataset/test/images/100000000496.jpg	Trong không gian âm u, cô ấy tỏa sáng với cú vung vợt đầy mạnh mẽ và chính xác.
+/dataset/test/images/100000000496.jpg	Cô gái thể hiện kỹ thuật hoàn hảo trong môn cầu lông, một cú đánh đã được thực hiện!
+/dataset/test/images/100000000496.jpg	Vận động viên đang chạy hết tốc lực để giao bóng, quyết định mang tính bước ngoặt đang đến gần!
+/dataset/test/images/100000000171.jpg	Một vận động viên chèo thuyền mạnh mẽ, điều khiển chiếc thuyền qua dòng nước tĩnh lặng.
+/dataset/test/images/100000000171.jpg	Ánh sáng huyền ảo chiếu rọi xuống mặt nước, phản chiếu sức mạnh của người chèo.
+/dataset/test/images/100000000171.jpg	Giữa khung cảnh hoang sơ, người chèo như hòa mình vào thiên nhiên hùng vĩ.
+/dataset/test/images/100000000171.jpg	Hành động chèo thuyền thu hút mọi ánh nhìn, tạo nên sự hòa quyện giữa con người và môi trường.
+/dataset/test/images/100000000171.jpg	Khói sương lững lờ hòa quyện với cảnh vật, tạo nên một bức họa tuyệt đẹp của môn thể thao chèo thuyền.
+/dataset/test/images/100000000969.jpg	Một pha ném bóng đầy sức mạnh từ cầu thủ trong môn bơi nước, khiến nước bắn tung tóe!
+/dataset/test/images/100000000969.jpg	Cầu thủ áo xanh số 2 đang thể hiện kỹ năng tuyệt vời, chuẩn bị ghi bàn cho đội nhà!
+/dataset/test/images/100000000969.jpg	Trong khoảnh khắc quyết định, một cú ném táo bạo từ cầu thủ khiến mọi người nín thở!
+/dataset/test/images/100000000969.jpg	Ánh nắng chiếu xuống mặt hồ, cầu thủ dũng mãnh đang ghi dấu ấn trong giải đấu bơi nước.
+/dataset/test/images/100000000969.jpg	Một pha hành động kịch tích! Cầu thủ lội ngược lại, quyết tâm vượt qua đối thủ để tấn công.
+/dataset/test/images/100000000832.jpg	Các vận động viên đứng trên bục nhận giải tại Giải vô địch Taekwondo châu Âu, tràn đầy niềm vui.
+/dataset/test/images/100000000832.jpg	Nhà vô địch giơ cao tay thể hiện niềm tự hào, cùng bó hoa rực rỡ trên bục vinh quang.
+/dataset/test/images/100000000832.jpg	Áo choàng chiến thắng bay phấp phới, hình ảnh tuyệt đẹp của những nữ võ sĩ kiên cường.
+/dataset/test/images/100000000832.jpg	Không khí lễ tân sôi động, những nụ cười và sắc màu tỏa sáng trên sân khấu Taekwondo.
+/dataset/test/images/100000000832.jpg	Các võ sĩ được tôn vinh, sự cống hiến xứng đáng với những giải thưởng cao quý trong thể thao.
+/dataset/test/images/100000000274.jpg	Vận động viên dưới nước đang bơi lội mạnh mẽ với ống thở và chân vịt.
+/dataset/test/images/100000000274.jpg	Hòa mình vào lòng đại dương xanh biếc, người thợ lặn ghi lại khoảnh khắc tuyệt đẹp.
+/dataset/test/images/100000000274.jpg	Ánh sáng lấp lánh chiếu xuyên qua mặt nước, tạo nên khung cảnh kỳ diệu cho thợ lặn.
+/dataset/test/images/100000000274.jpg	Với kỹ năng điêu luyện, vận động viên chinh phục độ sâu, tìm kiếm vẻ đẹp thiên nhiên.
+/dataset/test/images/100000000274.jpg	Những bọt khí nổi lên xung quanh, làm cho bức tranh đại dương thêm phần sinh động và huyền ảo.
+/dataset/test/images/100000000629.jpg	Một chiếc thuyền buồm mạnh mẽ lướt đi dưới ánh hoàng hôn huyền bí.
+/dataset/test/images/100000000629.jpg	Những tấm vải buồm trắng vươn cao, tạo nên khung cảnh tuyệt đẹp giữa biển cả bao la.
+/dataset/test/images/100000000629.jpg	Cảnh sắc lung linh khi thuyền buồm vươn mình ra khơi, hòa vào ánh sáng rực rỡ của mặt trời.
+/dataset/test/images/100000000629.jpg	Đúng lúc này, vẻ đẹp tự nhiên và kỹ năng lái thuyền hội tụ, tạo nên một màn trình diễn tuyệt vời!
+/dataset/test/images/100000000629.jpg	Các vận động viên chèo thuyền quyết tâm, cảm nhận từng làn sóng, hướng về phía chân trời rực rỡ.
+/dataset/test/images/100000001017.jpg	Một vận động viên trẻ trung từ Italia đang giơ cao tạ khổng lồ, quyết tâm chinh phục đỉnh cao.
+/dataset/test/images/100000001017.jpg	Cô ấy đang bước vào khoảnh khắc quyết định, sức mạnh và sự tập trung hòa quyện trong từng động tác.
+/dataset/test/images/100000001017.jpg	Từng cơ bắp săn chắc đang hoạt động mạnh mẽ, vận động viên Italia thể hiện kỹ thuật xuất sắc trong cử tạ.
+/dataset/test/images/100000001017.jpg	Với ánh đèn chói sáng, cô ấy nâng tạ lên cao, thể hiện tâm huyết và nghị lực mãnh liệt trong thể thao.
+/dataset/test/images/100000001017.jpg	Sức mạnh nội tâm cùng với sự chuẩn bị kỹ lưỡng giúp cô ấy tạo nên sự tự tin đáng kể trên sàn đấu!
+/dataset/test/images/100000000695.jpg	Cầu thủ Real Madrid vừa ghi bàn, thể hiện sự phấn khích và quyết tâm mãnh liệt!
+/dataset/test/images/100000000695.jpg	Với một cú sút đầy sức mạnh, anh ta đã ghi dấu ấn đậm nét trong trận đấu!
+/dataset/test/images/100000000695.jpg	Màn ăn mừng đầy cảm xúc, cầu thủ đang tận hưởng khoảnh khắc chiến thắng tuyệt vời!
+/dataset/test/images/100000000695.jpg	Áo trắng của Real Madrid lấp lánh dưới ánh đèn, cầu thủ rạng rỡ sau pha lập công xuất sắc.
+/dataset/test/images/100000000695.jpg	Khán giả bùng nổ cùng niềm vui, cầu thủ khơi dậy niềm tự hào của người hâm mộ!
+/dataset/test/images/100000000011.jpg	Vận động viên đang chuẩn bị cho cú bắn quyết định, tập trung cao độ trước mục tiêu phía xa.
+/dataset/test/images/100000000011.jpg	Một buổi thi bắn cung tuyệt đẹp với ánh sáng rực rỡ, cây cối xanh mướt xung quanh!
+/dataset/test/images/100000000011.jpg	Với tư thế vững chãi, cô ấy kéo dây cung, sự kịch tính tăng lên từng giây phút.
+/dataset/test/images/100000000011.jpg	Cảnh tượng tuyệt đẹp khi mũi tên bay thẳng về phía mục tiêu, tạo nên một khoảnh khắc ngoạn mục!
+/dataset/test/images/100000000011.jpg	Sân bắn rộng lớn giữa thiên nhiên, nơi mà những cú bắn xuất sắc được thực hiện để chinh phục thử thách.
+/dataset/test/images/100000000275.jpg	Một kỵ sĩ tự tin điều khiển ngựa, chuẩn bị cho cú nhảy đầy nguy hiểm.
+/dataset/test/images/100000000275.jpg	Trong ánh nắng, ngựa và kỵ sĩ như hòa quyện thành một, tạo nên khoảnh khắc mãn nhãn!
+/dataset/test/images/100000000275.jpg	Ngựa bật nhảy mạnh mẽ, từng bước chân cuốn hút người xem tại giải đua kỵ mã.
+/dataset/test/images/100000000275.jpg	Bối cảnh tuyệt đẹp cùng động tác điêu luyện khiến cuộc thi cưỡi ngựa trở nên hấp dẫn hơn bao giờ hết.
+/dataset/test/images/100000000275.jpg	Sự kết hợp hoàn hảo giữa kỵ sĩ và ngựa trong những cú nhảy đầy nghệ thuật trên sân thi đấu.
+/dataset/test/images/100000000500.jpg	Một tay vợt đầy sức mạnh đang chuẩn bị cho cú đánh quyết định, khán giả hồi hộp chờ đợi.
+/dataset/test/images/100000000500.jpg	Bên lưới, vận động viên thể hiện sự tập trung cao độ, từng cơ bắp căng tràn sức sống.
+/dataset/test/images/100000000500.jpg	Tiếng rì rào của đám đông vang lên khi cầu vợt phản công, không khí thật kịch tính!
+/dataset/test/images/100000000500.jpg	Với cú giao bóng mạnh mẽ, tay vợt đang thể hiện tinh thần thi đấu bùng nổ giữa sân.
+/dataset/test/images/100000000500.jpg	Đôi chân vững vàng trên sân, tay vợt sẵn sàng đón nhận từng cú đánh quyết liệt từ đối thủ!
+/dataset/test/images/100000000927.jpg	Một vận động viên tuyệt vời đang dõi theo bóng trước khi thực hiện cú đỡ hoàn hảo.
+/dataset/test/images/100000000927.jpg	Sự tập trung mãnh liệt hiện rõ trên khuôn mặt khi bóng bay đến gần.
+/dataset/test/images/100000000927.jpg	Nữ vận động viên đang trượt trên sàn đấu, chuẩn bị cho một pha cứu bóng ngoạn mục.
+/dataset/test/images/100000000927.jpg	Mọi ánh mắt đều đổ dồn vào cô gái này, khi màn đấu diễn ra cực kỳ kịch tính!
+/dataset/test/images/100000000927.jpg	Với tốc độ và sự chính xác cao, cô ấy đưa bóng hoàn hảo vào vị trí trong giây phút nghẹt thở.
+/dataset/test/images/100000000715.jpg	Bể bơi yên tĩnh đang chờ đợi những cuộc đua sắp diễn ra, không khí thật căng thẳng.
+/dataset/test/images/100000000715.jpg	Những tia sáng rực rỡ chiếu xuống mặt nước, tạo nên không gian lý tưởng cho các vận động viên bơi lội.
+/dataset/test/images/100000000715.jpg	Dòng nước trong vắt êm đềm là nơi mà các kình ngư sẽ thể hiện bản lĩnh và tốc độ của mình.
+/dataset/test/images/100000000715.jpg	Mọi ánh mắt đều đổ dồn vào bể bơi, nơi các vận động viên bơi sải sẽ tạo nên những khoảnh khắc đáng nhớ.
+/dataset/test/images/100000000715.jpg	Bể bơi tĩnh lặng như một sân khấu lớn, sẵn sàng cho những màn trình diễn bơi lội đầy kịch tính.
+/dataset/test/images/100000000293.jpg	Một vận động viên cưỡi ngựa trắng, thể hiện sự điềm tĩnh trên sân thi đấu.
+/dataset/test/images/100000000293.jpg	Cảnh tượng tuyệt đẹp: ngựa lướt nhẹ nhàng, tạo nên sự hài hòa giữa người và động vật.
+/dataset/test/images/100000000293.jpg	Bối cảnh hoàn hảo với những hàng cây xanh, chiếc ngựa trắng tỏa sáng dưới ánh mặt trời.
+/dataset/test/images/100000000293.jpg	Sự tập trung tối đa của vận động viên khi điều khiển từng động tác tinh tế của ngựa.
+/dataset/test/images/100000000293.jpg	Môn thể thao cưỡi ngựa không chỉ là kỹ thuật mà còn là mối liên kết sâu sắc giữa người và ngựa.
+/dataset/test/images/100000000075.jpg	Đây là một pha rượt đuổi kịch tính trong trận cầu cầu lông đỉnh cao, vận động viên Hàn Quốc thể hiện sự nhanh nhạy.
+/dataset/test/images/100000000075.jpg	Với động tác dứt khoát, cô gái Hàn Quốc sẵn sàng chờ đón những cú đánh bất ngờ từ đối thủ.
+/dataset/test/images/100000000075.jpg	Thế trận đang diễn ra hấp dẫn, vận động viên Hàn Quốc đang vận dụng mọi kỹ năng để giành chiến thắng.
+/dataset/test/images/100000000075.jpg	Sân cầu lông rực lửa với những cú vươn người đầy sức mạnh, đấu trường không có chỗ cho sai lầm!
+/dataset/test/images/100000000075.jpg	Vận động viên đang xuất sắc thể hiện kỹ thuật và sức mạnh, tạo nên một trận cầu đầy kịch tính và hấp dẫn!
+/dataset/test/images/100000000059.jpg	Một vận động viên bơi lội bất ngờ lao xuống nước, tạo ra những cơn sóng cuồn cuộn!
+/dataset/test/images/100000000059.jpg	Dưới bề mặt trong xanh, động tác xuất phát chuẩn xác của người bơi khiến tất cả phải trầm trồ!
+/dataset/test/images/100000000059.jpg	Vận động viên nhấn chân mạnh mẽ, tạo ra những làn sóng đẩy nước bắn tung tóe xung quanh!
+/dataset/test/images/100000000059.jpg	Ánh sáng lấp lánh trên mặt nước tạo nên một khung cảnh tuyệt đẹp trong cuộc đua bơi lội này!
+/dataset/test/images/100000000059.jpg	Hình ảnh một cú nhảy xuất sắc, những giọt nước bắn lên như những viên ngọc quý trong hồ bơi!
+/dataset/test/images/100000000575.jpg	Vận động viên nâng cao tay chào khán giả, thể hiện niềm tự hào sau trận đấu kịch tính.
+/dataset/test/images/100000000575.jpg	Trong không gian rộn ràng, một ngôi sao rugby đang tạo nên khoảnh khắc đỉnh cao của sự nghiệp.
+/dataset/test/images/100000000575.jpg	Hãy nhìn xem những cảm xúc mãnh liệt trong ánh mắt người chơi rugby này, đam mê và quyết tâm!
+/dataset/test/images/100000000575.jpg	Sau trận tranh tài nghẹt thở, vận động viên chúc mừng chiến thắng, niềm vui tràn ngập khắp nơi!
+/dataset/test/images/100000000575.jpg	Với chiếc áo thi đấu tự hào, anh đang trở thành biểu tượng cho tinh thần thể thao và danh dự.
+/dataset/test/images/100000000332.jpg	Vận động viên kiếm thuật đang trong tư thế chuẩn bị lợi thế, mắt chăm chú hướng về đối thủ.
+/dataset/test/images/100000000332.jpg	Với thanh kiếm trong tay, vận động viên thể hiện sự tự tin, sẵn sàng chiến đấu quyết liệt!
+/dataset/test/images/100000000332.jpg	Giữa ánh sáng huyền ảo, hình ảnh đầy kiêu hãnh, vận động viên kiếm thuật chuẩn bị cho một trận đấu kịch tính.
+/dataset/test/images/100000000332.jpg	Sự căng thẳng gia tăng khi vận động viên kiếm thuật đứng sẵn sàng, quyết tâm giành chiến thắng trong cuộc chiến sắp tới.
+/dataset/test/images/100000000332.jpg	Tư thế mạnh mẽ của vận động viên kiếm thuật nhận được nhiều ánh mắt ngưỡng mộ, tạo nên sự hồi hộp trước trận đấu.
+/dataset/test/images/100000000085.jpg	Một vận động viên đang chuẩn bị tinh thần cho trận cầu kịch tính sắp tới trên sân cầu lông.
+/dataset/test/images/100000000085.jpg	Với chiếc vợt trong tay, vận động viên thể hiện sự quyết tâm mạnh mẽ, sẵn sàng đối đầu đối thủ.
+/dataset/test/images/100000000085.jpg	Ánh sáng chiếu rọi trên sân cầu lông, nơi những cú đánh sắc nét và chiến thuật tinh vi đang chờ đợi.
+/dataset/test/images/100000000085.jpg	Sự chuẩn bị kỹ lưỡng của vận động viên tạo nên sức nóng khôn lường cho trận đấu đang đến gần.
+/dataset/test/images/100000000085.jpg	Tiếng vợt chạm cầu và những bước di chuyển nhanh nhạy hứa hẹn một cuộc so tài hấp dẫn trên sân đấu.
+/dataset/test/images/100000000613.jpg	Chiếc thuyền buồm mang số 27 đang lao vút qua mặt nước xanh ngắt, hòa mình vào thiên nhiên!
+/dataset/test/images/100000000613.jpg	Với sức gió mạnh mẽ, thuyền trưởng khéo léo điều khiển dòng nước, tạo nên sự hứng khởi tột cùng!
+/dataset/test/images/100000000613.jpg	Khoảnh khắc bất ngờ khi chiếc thuyền buồm khéo léo nghiêng mình, thể hiện tài năng đầy chuyên nghiệp!
+/dataset/test/images/100000000613.jpg	Ánh sáng mặt trời chiếu rực rỡ, làm nổi bật những cánh buồm đang hứng gió, tạo nên sự kịch tính vô bờ!
+/dataset/test/images/100000000613.jpg	Trong không gian rộng lớn, chiếc thuyền 27 lướt nhanh, mang lại cảm giác phấn khích cho cả đội ngũ!
+/dataset/test/images/100000000190.jpg	Một nhóm nhỏ đang chèo thuyền kayak giữa khung cảnh thiên nhiên tuyệt đẹp, đầy hứng khởi.
+/dataset/test/images/100000000190.jpg	Ánh sáng rực rỡ chiếu xuống mặt nước trong vắt, đem lại cảm giác phiêu lưu khó quên cho những người chèo thuyền.
+/dataset/test/images/100000000190.jpg	Khung cảnh yên bình bên hồ, các vận động viên trẻ trung đang làm nổi bật tinh thần đồng đội mạnh mẽ của họ.
+/dataset/test/images/100000000190.jpg	Những chiếc thuyền kayak lần lượt lướt trên mặt nước, mang theo những tràn cười và sự háo hức.
+/dataset/test/images/100000000190.jpg	Sự phối hợp nhịp nhàng giữa các tay chèo là minh chứng cho tinh thần đồng đội và niềm vui thể thao.
+/dataset/test/images/100000000176.jpg	Một vận động viên chèo thuyền đầy quyết tâm giữa khung cảnh thiên nhiên tuyệt đẹp, phong cảnh hoàn mỹ.
+/dataset/test/images/100000000176.jpg	Chèo thuyền giữa dòng nước trong xanh, người chèo tận hưởng từng khoảnh khắc yên bình đến nao lòng.
+/dataset/test/images/100000000176.jpg	Màn trình diễn chèo thuyền xuất sắc, với nền rừng xanh ngát và núi non hùng vĩ phía xa.
+/dataset/test/images/100000000176.jpg	Áo phao rực rỡ cùng chiếc chèo vàng, vận động viên tự tin giữa dòng sông lặng sóng.
+/dataset/test/images/100000000176.jpg	Hình ảnh tuyệt đẹp của một người chèo thuyền, khơi gợi cảm hứng và lòng say mê thể thao nước.
+/dataset/test/images/100000000906.jpg	Cú lao vọt của vận động viên trên chiếc xe đạp đang đạt vận tốc cực cao!
+/dataset/test/images/100000000906.jpg	Trên đường đua triathlon, vận động viên này thể hiện sự tập trung và sức mạnh tuyệt vời.
+/dataset/test/images/100000000906.jpg	Hình ảnh động lực, xe đạp lướt qua với tốc độ chóng mặt, một khoảnh khắc tuyệt vời trong môn thể thao này!
+/dataset/test/images/100000000906.jpg	Vận động viên đang bứt phá qua từng mét đường, thể hiện tinh thần bất khuất của một tay đua.
+/dataset/test/images/100000000906.jpg	Động lực mạnh mẽ, chiếc xe đạp với thiết kế tinh xảo đang chinh phục thử thách khắc nghiệt phía trước!
+/dataset/test/images/100000000738.jpg	Ánh đèn rực rỡ chiếu sáng sân bơi, nơi những tay bơi xuất sắc đang chuẩn bị cho cuộc đua.
+/dataset/test/images/100000000738.jpg	Không khí hồi hộp lan tỏa khắp khán đài khi các vận động viên tập trung vào bể bơi tuyệt đẹp.
+/dataset/test/images/100000000738.jpg	Đội bơi hàng đầu đang khởi động, họ sẵn sàng chinh phục những tiêu chuẩn cao nhất trong Olympic Paris 2024!
+/dataset/test/images/100000000738.jpg	Bể bơi rộng lớn giữa ánh đèn mờ ảo, một đêm thi đấu đáng nhớ cho các tay bơi tài năng.
+/dataset/test/images/100000000738.jpg	Các ván bơi được sắp xếp hoàn hảo, chờ đợi những cuộc tranh tài nảy lửa trong không gian đầy kịch tính này.
+/dataset/test/images/100000000798.jpg	Bàn bóng bàn sáng rực rỡ, chuẩn bị cho những trận đấu kịch tính đang chờ đợi phía trước!
+/dataset/test/images/100000000798.jpg	Với cái nắng rực rỡ, ánh sáng chiếu qua làm bừng sáng không gian thi đấu bóng bàn.
+/dataset/test/images/100000000798.jpg	Hai cây vợt đặt yên bình, nhưng dưới đây là căng thẳng cao độ chờ đợi những cú đánh quyết định.
+/dataset/test/images/100000000798.jpg	Không khí sôi động đang lan tỏa, những cuộc so tài bóng bàn sẽ diễn ra với những pha quyết định không thể tưởng tượng.
+/dataset/test/images/100000000798.jpg	Bàn bóng vừa hoàn hảo, gợi nhớ những giây phút hồi hộp và kịch tính trong từng trận đấu bóng bàn.
+/dataset/test/images/100000000711.jpg	Cầu thủ đang nhẹ nhàng điều khiển bóng bằng đầu, thể hiện sự điêu luyện tuyệt vời.
+/dataset/test/images/100000000711.jpg	Trong một buổi tập căng thẳng, cầu thủ cho thấy khả năng giữ thăng bằng ấn tượng với trái bóng.
+/dataset/test/images/100000000711.jpg	Với ánh mắt tập trung, anh ấy khéo léo giữ bóng, chứng tỏ kỹ thuật điêu luyện trong bóng đá.
+/dataset/test/images/100000000711.jpg	Sân tập trở nên sinh động khi cầu thủ trình diễn kỹ năng tuyệt vời với trái bóng trên đầu.
+/dataset/test/images/100000000711.jpg	Nhìn hình ảnh đầy kịch tính này, dễ dàng nhận ra tình yêu mãnh liệt với bóng đá ở vận động viên.
+/dataset/test/images/100000000222.jpg	Vận động viên này đang chiến đấu với sức gió, tay cầm chắc trên ghi đông, chuẩn bị cho một cú bật tốc.
+/dataset/test/images/100000000222.jpg	Đường đua đầy thử thách, anh ta như một mũi tên lao nhanh về phía trước, không gì ngăn cản!
+/dataset/test/images/100000000222.jpg	Với một động tác khéo léo, tay đua này đang vươn lên dẫn đầu trong cuộc đua căng thẳng.
+/dataset/test/images/100000000222.jpg	Hình ảnh đầy kịch tính, anh ấy vừa tăng tốc, mắt nhìn xa, quyết tâm giành chiến thắng.
+/dataset/test/images/100000000222.jpg	Mồ hôi nhễ nhại, nhưng điều đó không ngăn cản anh ta vượt qua từng km trên đường đua khốc liệt này.
+/dataset/test/images/100000000793.jpg	Vận động viên đang tung cú giao bóng mạnh mẽ, quật ngã mọi đối thủ trong giải đấu kịch tính này!
+/dataset/test/images/100000000793.jpg	Cô gái trẻ thể hiện sức mạnh không thể ngờ, bóng đang bay nhanh qua lưới!
+/dataset/test/images/100000000793.jpg	Một cú đánh chính xác từ cô ấy! Ánh mắt tập trung, sẵn sàng cho trận quyết chiến đầy cam go!
+/dataset/test/images/100000000793.jpg	Với từng nhịp độ, vận động viên làm chủ trận đấu, tiên phong trong môn bóng bàn đầy quyến rũ này!
+/dataset/test/images/100000000793.jpg	Cú chạm bóng hoàn hảo! Cô ấy đang dẫn dắt trận đấu bằng những phong cách đầy nghệ thuật và kỹ thuật!
+/dataset/test/images/100000000168.jpg	Một người đàn ông vượt qua dòng nước trong chiếc thuyền kayak, thể hiện đam mê mãnh liệt!
+/dataset/test/images/100000000168.jpg	Với sức mạnh từ những nhát chèo, ông lướt đi trên mặt nước, mang lại cảm giác tự do tuyệt vời.
+/dataset/test/images/100000000168.jpg	Bức tranh thiên nhiên tuyệt đẹp, một tay chèo mang theo tinh thần khám phá đầy nhiệt huyết.
+/dataset/test/images/100000000168.jpg	Dưới ánh nắng, vận động viên chèo thuyền kayak đang tận hưởng từng khoảnh khắc yên bình của nước.
+/dataset/test/images/100000000168.jpg	Không gian tĩnh lặng, ông chèo kayak khéo léo, biến mỗi nhịp chèo thành một bài thơ của dòng nước.
+/dataset/test/images/100000000031.jpg	Một vận động viên xuất sắc chuẩn bị cho cú bắn quyết định trong môn bắn cung đầy kịch tính.
+/dataset/test/images/100000000031.jpg	Cảnh tượng tuyệt đẹp khi người chơi bắn cung nhắm thẳng vào mục tiêu, không khí thật căng thẳng!
+/dataset/test/images/100000000031.jpg	Ánh mắt tập trung của vận động viên khi giương cung, tất cả chú ý hướng về cú ra tay cuối cùng.
+/dataset/test/images/100000000031.jpg	Khung cảnh bình yên nhưng đầy kịch tính, ngay lúc này mọi thứ phụ thuộc vào một phát bắn hoàn hảo.
+/dataset/test/images/100000000031.jpg	Chỉ còn một lần thử, người chơi bắn cung toát mồ hôi, quyết tâm chinh phục mục tiêu đang ở trước mặt!
+/dataset/test/images/100000000550.jpg	Một nhóm tay chèo đang cạnh tranh quyết liệt trên mặt nước lặng, thể hiện sức mạnh và kỹ thuật.
+/dataset/test/images/100000000550.jpg	Với sự tập trung cao độ, các vận động viên đồng loạt lướt qua mặt nước, hòa cùng ánh nắng rực rỡ!
+/dataset/test/images/100000000550.jpg	Những chiếc thuyền đua cắt nước nhanh như tên bắn, tạo nên bức tranh tuyệt đẹp của môn chèo thuyền.
+/dataset/test/images/100000000550.jpg	Giữa không gian yên bình, sự quyết tâm hiện rõ trên gương mặt của mỗi tay chèo trong cuộc tranh tài.
+/dataset/test/images/100000000550.jpg	Tiếng chèo vung lên liên tục, các vận động viên đang cống hiến hết mình trong buổi tập luyện mạnh mẽ!
+/dataset/test/images/100000000062.jpg	Vận động viên đang bứt tốc trên đường chạy, thể hiện sức mạnh và sự quyết tâm tuyệt vời!
+/dataset/test/images/100000000062.jpg	Chạy như gió, cô ấy vượt qua từng bước chân trên đường đua, tạo nên sự hồi hộp trong không khí!
+/dataset/test/images/100000000062.jpg	Với sự tập trung tối đa, vận động viên dũng mãnh vươn mình chạy về đích, khiến khán giả không thể rời mắt!
+/dataset/test/images/100000000062.jpg	Một khoảnh khắc ấn tượng, cô gái trong trang phục thể thao đang chiến đấu hết mình vì vinh quang trong cuộc thi!
+/dataset/test/images/100000000062.jpg	Ánh đèn flash lóe lên khi cô ấy chạy, tất cả chú ý đều đổ dồn vào những bước chân mạnh mẽ, hứa hẹn một chiến thắng!
+/dataset/test/images/100000000630.jpg	Một vận động viên chèo thuyền đang chao đảo trên mặt nước xanh mát rượi.
+/dataset/test/images/100000000630.jpg	Sự thách thức của sóng biển mang đến cho tay chèo khoảnh khắc không thể quên!
+/dataset/test/images/100000000630.jpg	Với sức gió mạnh, chiếc thuyền phóng lên, tạo ra sống nước đầy sức mạnh và cảm xúc.
+/dataset/test/images/100000000630.jpg	Hình ảnh tuyệt đẹp khi vận động viên chèo thuyền tỏa sáng giữa bầu trời trong xanh!
+/dataset/test/images/100000000630.jpg	Một trận đấu chèo thuyền đầy kịch tính, nơi phong cách và chiến thuật cùng gặp nhau!
+/dataset/test/images/100000000365.jpg	Vận động viên đứng sẵn, cú đánh ở gần bóng golf đầy kịch tính và hồi hộp.
+/dataset/test/images/100000000365.jpg	Trong khung cảnh xanh mát, người chơi nâng gậy, chuẩn bị cho cú swing hoàn hảo vào bóng.
+/dataset/test/images/100000000365.jpg	Một khoảnh khắc tĩnh lặng trước khi cú đánh mạnh mẽ đưa bóng lướt đi ngoài sức tưởng tượng.
+/dataset/test/images/100000000365.jpg	Với phong thái tự tin, vận động viên khom người, chuẩn bị cho cú đánh quyết định trên sân golf.
+/dataset/test/images/100000000365.jpg	ánh nắng vàng trải dài, người chơi chăm chú vào bóng, chỉ còn lại tiếng gió thì thầm.
+/dataset/test/images/100000000146.jpg	Một chiếc bao cát treo lơ lửng trong phòng tập gym, nơi chuẩn bị cho những cú đấm quyết liệt!
+/dataset/test/images/100000000146.jpg	Với ánh đèn mờ, bầu không khí căng thẳng tràn ngập không gian, hứa hẹn những giờ phút luyện tập ngoạn mục.
+/dataset/test/images/100000000146.jpg	Chiếc bao cát này đang chờ đợi các võ sĩ thể hiện sức mạnh và kỹ năng tuyệt vời của họ trong boxing.
+/dataset/test/images/100000000146.jpg	Không gian tập luyện bóng đá đầy hiện đại, nơi những cú đá và đấm sẽ tạo nên sức mạnh cho vận động viên.
+/dataset/test/images/100000000146.jpg	Hãy sẵn sàng cho những khoảnh khắc đáng nhớ diễn ra ngay trong gym, nơi các võ sĩ chinh phục thử thách!
+/dataset/test/images/100000000945.jpg	Các cô gái ăn mừng sau pha bóng xuất sắc, tinh thần đồng đội luôn bùng nổ trong không khí náo nhiệt!
+/dataset/test/images/100000000945.jpg	Đội bóng thể hiện sức mạnh tuyệt vời, cổ vũ cộng thêm năng lượng cho trận đấu kịch tính này!
+/dataset/test/images/100000000945.jpg	Những nụ cười rạng rỡ và sự phấn khích, bóng chuyền đang mang lại niềm vui không giới hạn cho các vận động viên!
+/dataset/test/images/100000000945.jpg	Hành động ăn mừng mãnh liệt sau một điểm số quan trọng, không khí bùng nổ trong sân đấu!
+/dataset/test/images/100000000945.jpg	Tình đồng đội tỏa sáng với những cái bắt tay và lời khen ngợi, bóng chuyền thực sự là môn thể thao gắn kết!
+/dataset/test/images/100000000189.jpg	Hình ảnh một vận động viên chèo thuyền trên hồ nước phẳng lặng, tận hưởng vẻ đẹp thiên nhiên.
+/dataset/test/images/100000000189.jpg	Với cơn gió nhẹ, tay chèo mạnh mẽ, cô ấy khiến chiếc thuyền lướt đi êm ái trên mặt nước.
+/dataset/test/images/100000000189.jpg	Ánh nắng rực rỡ chiếu sáng cảnh vật, tạo nên khung cảnh tuyệt đẹp cho cuộc phiêu lưu chèo thuyền này.
+/dataset/test/images/100000000189.jpg	Chỉ có tiếng nước và những cơn sóng nhỏ, một hành trình đầy thử thách trên mặt hồ rộng lớn.
+/dataset/test/images/100000000189.jpg	Cảnh vật xung quanh như một bức tranh thiên nhiên, cô gái chèo thuyền hòa mình vào không gian yên bình.
+/dataset/test/images/100000000593.jpg	Một cầu thủ New Zealand tốc độ, tự tin chạy xuyên qua hàng phòng ngự đối phương.
+/dataset/test/images/100000000593.jpg	Trong khoảnh khắc ngắn ngủi, anh thể hiện sự khéo léo và sức mạnh đáng kinh ngạc!
+/dataset/test/images/100000000593.jpg	Bóng Rugby nằm trong tay, anh lao lên với quyết tâm chinh phục mọi thử thách trên sân.
+/dataset/test/images/100000000593.jpg	Hàng nghìn khán giả hồi hộp, theo dõi từng bước đi của ngôi sao trên sân cỏ.
+/dataset/test/images/100000000593.jpg	Với một động tác tinh tế, anh vượt qua hàng phòng ngự, tái hiện sức mạnh của Rugby!
+/dataset/test/images/100000000841.jpg	Cô gái tràn đầy tự tin trong bộ đai xanh, sẵn sàng cho trận đấu gay cấn!
+/dataset/test/images/100000000841.jpg	Áo giáp trắng kết hợp với đai xanh tạo nên hình ảnh mạnh mẽ và đầy nội lực.
+/dataset/test/images/100000000841.jpg	Khung cảnh yên tĩnh nhưng rất nội tâm, cô ấy chuẩn bị cho những pha tấn công xuất sắc.
+/dataset/test/images/100000000841.jpg	Người chiến binh trẻ tuổi chụp ảnh tự sướng, mơ về những chiến thắng lớn trong Taekwondo.
+/dataset/test/images/100000000841.jpg	Một khoảnh khắc thú vị trước khi bước vào sàn đấu, nơi những khả năng sẽ được thể hiện!
+/dataset/test/images/100000000785.jpg	Vận động viên đang chuẩn bị cú đánh quyết định trong trận đấu bóng bàn gay cấn này!
+/dataset/test/images/100000000785.jpg	Ánh mắt tập trung, tay cầm vợt chắc chắn, sẵn sàng cho một pha bóng không thể hoàn hảo hơn!
+/dataset/test/images/100000000785.jpg	Cú đánh mạnh mẽ, bóng bay vút lên với tốc độ đáng kinh ngạc, cả khán đài đang hồi hộp theo dõi!
+/dataset/test/images/100000000785.jpg	Sân thi đấu bóng bàn sôi động, không khí nóng bỏng, mỗi cú đánh đều có thể thay đổi cục diện trận đấu!
+/dataset/test/images/100000000785.jpg	Những giọt mồ hôi lăn dài, chứng minh nỗ lực và quyết tâm chinh phục đối thủ trong một trận cầu kịch tính!
+/dataset/test/images/100000000359.jpg	Hãy nhìn! Vận động viên đang chuẩn bị cho cú swing quyết định trên sân golf tuyệt đẹp này!
+/dataset/test/images/100000000359.jpg	Ánh hoàng hôn rực rỡ tạo bối cảnh hoàn hảo cho cú đánh để đời của golfer đầy tài năng này!
+/dataset/test/images/100000000359.jpg	Với cú đánh mạnh mẽ, bóng bay vút lên trời, thể hiện sức mạnh và kỹ thuật hoàn hảo của golfer.
+/dataset/test/images/100000000359.jpg	Trời chiều nhuộm vàng, golfer tự tin đưa gậy lên, nhắm đến mục tiêu với sự tập trung cao độ.
+/dataset/test/images/100000000359.jpg	Ngắm nhìn khoảnh khắc huy hoàng, chiếc bóng lơ lửng giữa không trung, biểu tượng của sự hoàn mỹ trong golf!
+/dataset/test/images/100000000398.jpg	Vận động viên biểu diễn điệu múa tuyệt đẹp trên thang, tạo nên sự say mê cho khán giả.
+/dataset/test/images/100000000398.jpg	Vận động viên thể dục dụng cụ thực hiện tư thế mở chân hoàn hảo, thể hiện sự dẻo dai và kỹ thuật điêu luyện.
+/dataset/test/images/100000000398.jpg	Bối cảnh hoành tráng với ánh đèn rực rỡ, cô vận động viên đang chinh phục môn thể dục dụng cụ.
+/dataset/test/images/100000000398.jpg	Hơi thở gấp gáp khi cô ấy thực hiện động tác hiểm hóc, đôi chân thanh thoát như một vũ công.
+/dataset/test/images/100000000398.jpg	Khoảnh khắc căng thẳng, mọi ánh mắt đổ dồn vào cô gái trong chiếc áo thi đấu lấp lánh đầy kiêu hãnh.
+/dataset/test/images/100000000309.jpg	Nàng vận động viên mạnh mẽ đang biểu diễn trên lưng ngựa, thể hiện sự cân bằng tuyệt vời!
+/dataset/test/images/100000000309.jpg	Vận động viên xuất sắc này đang thực hiện động tác điêu luyện, khiến khán giả không thể rời mắt!
+/dataset/test/images/100000000309.jpg	Trong không gian thi đấu, sự phối hợp hoàn hảo giữa người và ngựa tạo ra những màn trình diễn ngoạn mục.
+/dataset/test/images/100000000309.jpg	Ánh sáng chiếu rọi tạo nên không khí kịch tính khi nàng vận động viên cố gắng duy trì tư thế hoàn hảo!
+/dataset/test/images/100000000309.jpg	Động tác mạnh mẽ và linh hoạt của vận động viên đang chinh phục mọi ánh nhìn trong môn thể thao cưỡi ngựa!
+/dataset/test/images/100000000658.jpg	Một vận động viên trượt tuyết đang bay vọt lên giữa không trung, tạo nên khoảnh khắc ấn tượng.
+/dataset/test/images/100000000658.jpg	Hình ảnh tuyệt đẹp của một tay trượt tuyết, lướt qua lớp tuyết trắng như bột, đầy nghệ thuật.
+/dataset/test/images/100000000658.jpg	Ánh sáng hoàng hôn phản chiếu trên tuyết, khi vận động viên thực hiện cú nhảy mạo hiểm.
+/dataset/test/images/100000000658.jpg	Một cuộc phiêu lưu trên núi cao, vận động viên trượt tuyết rời khỏi vách đá, tạo nên cảm giác hồi hộp!
+/dataset/test/images/100000000658.jpg	Cảm giác mạnh mẽ khi chứng kiến tay trượt tuyết vút lên với tốc độ nhanh như gió giữa rừng thông!
+/dataset/test/images/100000000460.jpg	Một cú ném ngoạn mục, vận động viên trong trang phục trắng đang thể hiện sức mạnh phi thường trong judo!
+/dataset/test/images/100000000460.jpg	Chứng kiến khoảnh khắc quyết định, đối thủ bị ném lên không trung trong một cuộc chiến kịch tính.
+/dataset/test/images/100000000460.jpg	Một đấu trường judo sôi động, nơi những kỹ thuật đỉnh cao được thể hiện với sự dũng cảm không giới hạn!
+/dataset/test/images/100000000460.jpg	Đường đi của sức mạnh và tốc độ, vận động viên đang chiếm ưu thế trong trận đấu căng thẳng này!
+/dataset/test/images/100000000460.jpg	Nhìn vào cách họ chiến đấu, Judo không chỉ là sức mạnh, mà còn là trí tuệ và kỹ thuật tinh tế!
+/dataset/test/images/100000000511.jpg	Tay vợt lao người về phía trước, chuẩn bị thực hiện cú đánh mạnh mẽ vào bóng!
+/dataset/test/images/100000000511.jpg	Một khoảnh khắc đầy kịch tính! Vận động viên đang căng mình để chạm vào trái bóng xanh.
+/dataset/test/images/100000000511.jpg	Với sức bật phi thường, anh ấy sẵn sàng ghi điểm trong trận đấu tennis quyết liệt này!
+/dataset/test/images/100000000511.jpg	Khung cảnh trở nên hấp dẫn khi tay vợt thực hiện cú đánh siêu đẳng, mang lại cảm xúc cho khán giả!
+/dataset/test/images/100000000511.jpg	Một bước nhảy hoàn hảo, anh ấy khéo léo chạm bóng và đánh trả về phía đối thủ một cách bất ngờ!
+/dataset/test/images/100000000877.jpg	Một sân tennis rộng lớn dưới ánh hoàng hôn tuyệt đẹp, sẵn sàng cho những cú đánh mạnh mẽ!
+/dataset/test/images/100000000877.jpg	Những quả bóng tennis tươi sáng chờ đợi sự chú ý, như những chiến binh trên chiến trường.
+/dataset/test/images/100000000877.jpg	Ánh sáng vàng cam của bầu trời hòa quyện với sân tennis, tạo ra không khí phấn khích cho trận đấu.
+/dataset/test/images/100000000877.jpg	Sân tennis dường như đang chờ đợi những vận động viên trẻ đầy tài năng, sẵn sàng thể hiện kỹ thuật.
+/dataset/test/images/100000000877.jpg	Linh hồn của thể thao bùng nổ trên sân, ánh nắng chiều mang đến cảm hứng cho những màn trình diễn!
+/dataset/test/images/100000001027.jpg	Một chiếc đĩa tạ màu xanh nổi bật đang đứng lặng lẽ, chờ đợi vận động viên mạnh mẽ.
+/dataset/test/images/100000001027.jpg	Bối cảnh phòng gym hiện đại, nơi sức mạnh và sự kiên định của người tập được thể hiện rõ nét.
+/dataset/test/images/100000001027.jpg	Nhìn vào gương phản chiếu, từng chiếc tạ đang chờ được nâng lên bởi những đôi tay kiên nhẫn.
+/dataset/test/images/100000001027.jpg	Sự bí ẩn của thể hình hiện lên qua từng chiếc tạ, nơi những bức tường thách thức sự bền bỉ.
+/dataset/test/images/100000001027.jpg	Cảnh sắc tĩnh lặng, nhưng bầu không khí nơi đây tràn đầy động lực và quyết tâm chinh phục thử thách!
+/dataset/test/images/100000000311.jpg	Vận động viên đang tiến tới một cú đâm mạnh mẽ trong nội dung đấu kiếm đầy kịch tính!
+/dataset/test/images/100000000311.jpg	Thời gian trôi qua, người chơi đang cố gắng tận dụng từng giây để ghi điểm.
+/dataset/test/images/100000000311.jpg	Mặc trang phục chuyên nghiệp, vận động viên thể hiện sự tập trung tuyệt đối trong cuộc chiến này.
+/dataset/test/images/100000000311.jpg	Ánh mắt quyết tâm, tay nắm chặt kiếm, họ chuẩn bị cho một pha tấn công ngoạn mục.
+/dataset/test/images/100000000311.jpg	Với tốc độ và kỹ thuật, họ đang tạo ra những đường kiếm đẹp mắt, khiến khán giả trầm trồ.
+/dataset/test/images/100000000535.jpg	Vận động viên chèo thuyền USA đầy sức mạnh, tay cầm chắc chắn, quyết tâm vượt qua mọi thử thách!
+/dataset/test/images/100000000535.jpg	Cảm giác tuyệt vời khi nhìn thấy sức mạnh và sự tập trung của vận động viên chèo thuyền trên mặt nước!
+/dataset/test/images/100000000535.jpg	Giây phút quyết định! Vận động viên chèo thuyền USA đang nỗ lực để giành chiến thắng trong cuộc đua kịch tính này.
+/dataset/test/images/100000000535.jpg	Đường đua đang nóng lên! Người phụ nữ này can đảm và mạnh mẽ, chèo mạnh mẽ để tiến lên phía trước!
+/dataset/test/images/100000000535.jpg	Với từng nhịp chèo, vận động viên USA đang thể hiện ý chí kiên cường, luôn hướng tới chiến thắng trên mặt nước.
+/dataset/test/images/100000000956.jpg	Cô gái trong bộ đồng phục đang chuẩn bị đón bóng trong không khí căng thẳng của trận đấu.
+/dataset/test/images/100000000956.jpg	Với động tác chuẩn xác, vận động viên đang cố gắng khống chế bóng bay tới rất nhanh.
+/dataset/test/images/100000000956.jpg	Trận đấu diễn ra sôi nổi, cô ấy hướng mắt vào bóng, thể hiện tinh thần quyết tâm cao.
+/dataset/test/images/100000000956.jpg	Sàn đấu bóng chuyền đang nóng hơn bao giờ hết khi cầu thủ tập trung vào pha cứu bóng.
+/dataset/test/images/100000000956.jpg	Hãy nhìn sự tập trung của vận động viên! Mỗi điểm số đều quan trọng trong trận cầu kịch tính này.
+/dataset/test/images/100000000200.jpg	Một tay đua đang chinh phục con đường mòn bụi bặm, khiến cát bay lên ngùn ngụt!
+/dataset/test/images/100000000200.jpg	Thoát khỏi sức nặng của cuộc sống, anh ta tự do trên chiếc xe đạp leo núi mạnh mẽ!
+/dataset/test/images/100000000200.jpg	Điểm nhấn của cuộc đua xe đạp mạo hiểm, vận động viên nuôi dưỡng tinh thần chinh phục!
+/dataset/test/images/100000000200.jpg	Mỗi vòng bánh xe xoay là một cuộc phiêu lưu, anh ta băng qua mọi thử thách với phong cách!
+/dataset/test/images/100000000200.jpg	Trên những sườn dốc, chiếc xe đang lao nhanh với tốc độ không tưởng, bụi bay mù mịt sau lưng!
+/dataset/test/images/100000000505.jpg	Vận động viên đang chuẩn bị cho phần thi tiếp theo trong năm môn phối hợp hiện đại, đầy sức mạnh và quyết tâm.
+/dataset/test/images/100000000505.jpg	Vận động viên dường như nhắm đến đỉnh cao mới trên đường đua, mọi ánh mắt đều đổ dồn.
+/dataset/test/images/100000000505.jpg	Với sự tập trung tột độ, cô ấy nắm chắc cây gậy, sẵn sàng cho chuyến phiêu lưu mới.
+/dataset/test/images/100000000505.jpg	Sự kết hợp tuyệt vời giữa sức mạnh và sự nhẹ nhàng, tiết lộ tinh thần thể thao mãnh liệt.
+/dataset/test/images/100000000505.jpg	Cảnh tượng đầy kịch tính khi cô ấy định hình tương lai, lên kế hoạch cho một cú nhảy xuất sắc.
+/dataset/test/images/100000000453.jpg	Vận động viên trong trang phục trắng đang bị đối thủ trong trang phục xanh quật ngã mạnh mẽ!
+/dataset/test/images/100000000453.jpg	Cuộc chiến kịch tính giữa hai judoka diễn ra tại giải vô địch thế giới Tashkent 2022!
+/dataset/test/images/100000000453.jpg	Một cú quật tuyệt đẹp, tạo nên khoảnh khắc không thể quên trên thảm đấu judo!
+/dataset/test/images/100000000453.jpg	Vận động viên trong chiếc áo xanh thể hiện sức mạnh khi ném đối thủ lên không trung!
+/dataset/test/images/100000000453.jpg	Bầu không khí sôi động của Tashkent 2022, nơi những kỹ thuật judo xuất sắc được trình diễn!
+/dataset/test/images/100000000889.jpg	Vận động viên đang chuẩn bị thực hiện cú giao bóng đầy quyền lực trên sân đất nện Roland Garros!
+/dataset/test/images/100000000889.jpg	Cô gái trong trang phục thi đấu đang dương cao vợt, sẵn sàng cho một cú giao bóng nguy hiểm.
+/dataset/test/images/100000000889.jpg	Bầu không khí căng thẳng lan tỏa, khi vận động viên này chuẩn bị ghi điểm quyết định!
+/dataset/test/images/100000000889.jpg	Với tư thế mạnh mẽ, cô ấy đang nhắm đến mục tiêu, chuẩn bị cho cú đánh đầu tiên của trận đấu!
+/dataset/test/images/100000000889.jpg	Chỉ còn vài giây, toàn bộ khán giả đều chú ý vào vận động viên đang giao bóng trong giải đấu đỉnh cao!
+/dataset/test/images/100000000169.jpg	Hai người chèo thuyền, khung cảnh yên bình trên mặt hồ tuyệt đẹp đang chờ đón.
+/dataset/test/images/100000000169.jpg	Vận động viên chèo thuyền cẩn thận, hòa mình vào thiên nhiên trong ánh nắng rực rỡ.
+/dataset/test/images/100000000169.jpg	Cảnh chèo thuyền lãng mạn giữa mặt nước phẳng lặng, tạo nên khoảnh khắc đáng nhớ.
+/dataset/test/images/100000000169.jpg	Bản phối hợp hoàn hảo giữa những nhịp chèo, mang lại sức sống mới cho cảnh vật tươi đẹp.
+/dataset/test/images/100000000169.jpg	Hai tay chèo mạnh mẽ, từng con sóng lan tỏa, hòa quyện cùng không khí trong lành.
+/dataset/test/images/100000000778.jpg	Nhìn kìa! Các vận động viên đang thực hiện những động tác nhịp nhàng dưới nước, thật kỳ diệu!
+/dataset/test/images/100000000778.jpg	Trong bầu không khí sôi động này, nhóm bơi lội thể hiện những động tác đồng điệu tuyệt vời!
+/dataset/test/images/100000000778.jpg	Một pha trình diễn xuất sắc! Các vận động viên lướt dưới làn nước trong sáng, đầy sức sống và nghệ thuật.
+/dataset/test/images/100000000778.jpg	Xuất sắc! Từng người một hòa nhịp, tạo nên một bức tranh động tuyệt đẹp giữa lòng bể bơi.
+/dataset/test/images/100000000778.jpg	Hãy theo dõi sự hòa quyện tuyệt vời của các vận động viên, mỗi động tác đều mang đến cảm xúc mãnh liệt!
+/dataset/test/images/100000000418.jpg	Một cú nhảy đầy quyết đoán, cầu thủ áo xanh đang chuẩn bị ném bóng trong trận đấu bóng ném hấp dẫn!
+/dataset/test/images/100000000418.jpg	Cầu thủ áo xanh lướt qua hàng phòng ngự, khéo léo thực hiện cú ném quyết định vào khung thành!
+/dataset/test/images/100000000418.jpg	Khung cảnh kịch tính, cầu thủ áo đỏ lùi lại, quyết tâm ngăn chặn cú ném nguy hiểm từ đối thủ!
+/dataset/test/images/100000000418.jpg	Với sự dũng mãnh, cầu thủ áo xanh đang trong thế tốt để ghi điểm cho đội nhà trong trận bóng ném!
+/dataset/test/images/100000000418.jpg	Động tác mạnh mẽ, anh ấy nhảy lên cao tạo nên một khoảnh khắc không thể quên trong môn thể thao bóng ném!
+/dataset/test/images/100000000095.jpg	Vận động viên đang chuẩn bị tung cú đánh mạnh mẽ vào cầu lông, thể hiện sự quyết tâm mãnh liệt!
+/dataset/test/images/100000000095.jpg	Với ánh mắt đầy quyết tâm, anh ấy đang lao vào cuộc chiến cầu lông đầy căng thẳng!
+/dataset/test/images/100000000095.jpg	Động tác chuẩn bị hoàn hảo, cầu lông đang bay lên, sức mạnh và sự chính xác hòa quyện!
+/dataset/test/images/100000000095.jpg	Cú vung vợt đầy uy lực, một khoảnh khắc quyết định trong trận cầu lông này, thật tuyệt vời!
+/dataset/test/images/100000000095.jpg	Từng chi tiết hoàn hảo trong động tác của anh ta, hứa hẹn một chiến thắng đầy ấn tượng!
+/dataset/test/images/100000000926.jpg	Vận động viên đang đua xe đạp, thể hiện sự tập trung cao độ trên những cung đường nắng chói.
+/dataset/test/images/100000000926.jpg	Đối mặt với thử thách, anh ta lao vút về phía trước với những cú đạp mạnh mẽ, thật ấn tượng!
+/dataset/test/images/100000000926.jpg	Mỗi vòng đua là một cuộc chiến, người vận động viên gắt gao bám sát đường đua trong điều kiện khắc nghiệt.
+/dataset/test/images/100000000926.jpg	Nỗ lực không ngừng nghỉ, anh ấy tạo nên sức mạnh bứt phá, quyết tâm giành chiến thắng trong môn triathlon.
+/dataset/test/images/100000000926.jpg	Hình ảnh đầy kịch tính, vận động viên đạp xe với tốc độ chóng mặt, từng giọt mồ hôi là minh chứng cho sự cố gắng.
+/dataset/test/images/100000000360.jpg	Một golfer chuẩn bị cú đánh quyết định, tinh thần hăng hái trên sân cỏ xanh mướt.
+/dataset/test/images/100000000360.jpg	Ánh nắng mai dát lên sân golf, tạo không khí đầy phấn khích cho cuộc chiến.
+/dataset/test/images/100000000360.jpg	Cú putt ổn định và tự tin, golfer đang hướng đến chiến thắng tuyệt đối trong trận đấu này.
+/dataset/test/images/100000000360.jpg	Cảnh tượng đầy kịch tính: bóng đang lăn về phía cờ, không khí căng thẳng đến nghẹt thở.
+/dataset/test/images/100000000360.jpg	Sự tập trung cao độ của golfer trên bãi cỏ, từng đường đi nước bước đều rất quan trọng.
+/dataset/test/images/100000000090.jpg	Một vận động viên cầu lông xuất sắc đang lao mình về phía trước để đánh cầu.
+/dataset/test/images/100000000090.jpg	Cú vung vợt mạnh mẽ khi cầu lông bay qua, tạo ra một pha đấu gay cấn!
+/dataset/test/images/100000000090.jpg	Nét mặt quyết tâm, vận động viên sẵn sàng cho một cú đánh quyết định trong trận đấu.
+/dataset/test/images/100000000090.jpg	Sân thi đấu bùng nổ với sự căng thẳng, người chơi thể hiện kỹ năng điêu luyện của mình.
+/dataset/test/images/100000000090.jpg	Hành động nhanh như chớp! Cầu lông không ngừng bay, đem lại luồng cảm xúc mãnh liệt.
+/dataset/test/images/100000000348.jpg	Hai vận động viên đấu kiếm đang trao đổi những đòn tấn công quyết liệt, bầu không khí hồi hộp bao trùm.
+/dataset/test/images/100000000348.jpg	Một cú đâm bất ngờ từ bên trái khiến đối thủ lâm vào thế phòng thủ loạng choạng, thật kịch tính!
+/dataset/test/images/100000000348.jpg	Sự tập trung tối đa và kỹ thuật điêu luyện được thể hiện rõ ràng qua từng động tác của hai vận động viên.
+/dataset/test/images/100000000348.jpg	Bước chân thoăn thoắt, áo đấu trắng và mặt nạ bảo vệ, họ diễn ra một trận chiến không thể ngờ!
+/dataset/test/images/100000000348.jpg	Hai đấu thủ đang trong thế giằng co, mỗi nhát kiếm đều có thể quyết định kết quả trận đấu.
+/dataset/test/images/100000000718.jpg	Các vận động viên đang chuẩn bị bơi, không khí thật căng thẳng và hồi hộp trước giờ thi đấu.
+/dataset/test/images/100000000718.jpg	Ánh sáng phản chiếu trên mặt nước, những làn sóng xanh đang chờ đón sự xuất hiện của những nhà vô địch!
+/dataset/test/images/100000000718.jpg	Hình ảnh vận động viên lặn xuống nước một cách mạnh mẽ, sự dũng cảm trong môn bơi lội thật đáng ngưỡng mộ.
+/dataset/test/images/100000000718.jpg	Hai vận động viên tạm dừng nghỉ giữa giờ luyện tập, họ chia sẻ những bí quyết bơi lội tuyệt vời.
+/dataset/test/images/100000000718.jpg	Cảnh quan phía xa hoàng hôn tuyệt đẹp, kết hợp hoàn hảo với những làn nước trong xanh của bể bơi.
+/dataset/test/images/100000000892.jpg	Cô vận động viên lung linh trong bộ đồ thể thao, sẵn sàng cho một cú đánh quyết định!
+/dataset/test/images/100000000892.jpg	Bước chạy mạnh mẽ, sự tự tin tỏa sáng khi đối mặt với thử thách trên sân!
+/dataset/test/images/100000000892.jpg	Chỉ còn một cú đánh nữa, cô ấy đang tăng tốc và chuẩn bị bứt phá!
+/dataset/test/images/100000000892.jpg	Với tâm thế quyết tâm, cô gái này chứng tỏ mình là ngôi sao trong thể thao tennis!
+/dataset/test/images/100000000892.jpg	Sân đấu sôi động, vận động viên thể hiện sự khéo léo trong từng động tác chuẩn bị!
+/dataset/test/images/100000000902.jpg	Các vận động viên đang chuẩn bị xuất phát đầy kịch tính trong môn triathlon vĩ đại này!
+/dataset/test/images/100000000902.jpg	Với một cú nhảy mạnh mẽ, họ lao mình xuống hồ, bắt đầu hành trình vượt thử thách.
+/dataset/test/images/100000000902.jpg	Cơn sóng mạnh nhất là đây! Các vận động viên tràn đầy năng lượng và quyết tâm bứt phá.
+/dataset/test/images/100000000902.jpg	Hào hứng từ khán giả! Mọi ánh mắt đều đổ dồn vào màn xuất phát đầy kịch tính này.
+/dataset/test/images/100000000902.jpg	Những cú nhảy đồng loạt từ các vận động viên, khởi đầu cho cuộc đua cam go phía trước!
+/dataset/test/images/100000000859.jpg	Roger Federer đang lao mình trên không, đáp trả cú giao bóng đầy phấn khích!
+/dataset/test/images/100000000859.jpg	Một khoảnh khắc mãn nhãn khi Federer vận dụng kỹ thuật hoàn hảo trên sân tennis!
+/dataset/test/images/100000000859.jpg	Cú đánh cực mạnh từ Federer trong tư thế bất ngờ, khiến khán giả phải trầm trồ!
+/dataset/test/images/100000000859.jpg	Thế giới tennis bùng nổ khi Federer thực hiện cú nhảy đầy nghệ thuật và tinh tế!
+/dataset/test/images/100000000859.jpg	Khí thế của Federer trên sân là điều không thể chối cãi, hoàn toàn cuốn hút mọi ánh nhìn!
+/dataset/test/images/100000000164.jpg	Một vận động viên chèo thuyền bền bỉ giữa dòng nước lạnh giá mùa đông đầy thử thách.
+/dataset/test/images/100000000164.jpg	Với cú chèo mạnh mẽ, anh ấy nhanh chóng vượt qua những con sóng nhỏ trong khung cảnh tuyết trắng.
+/dataset/test/images/100000000164.jpg	Giữa một vùng nước yên bình, vận động viên chèo thuyền hòa mình vào vẻ đẹp của mùa đông huyền bí.
+/dataset/test/images/100000000164.jpg	Hình ảnh tuyệt đẹp khi người chèo thuyền đối mặt với lạnh giá, kiên cường không bỏ cuộc.
+/dataset/test/images/100000000164.jpg	Ánh mắt quyết tâm, từng nhịp chèo mạnh mẽ đưa anh tiến về phía trước, chinh phục thiên nhiên.
+/dataset/test/images/100000000935.jpg	Cận cảnh một tay vận động viên đang cầm bóng chuyền MIKASA đầy sức mạnh, chuẩn bị cho cuộc tranh đấu.
+/dataset/test/images/100000000935.jpg	Một khoảnh khắc đầy nhựa sống trước trận đấu bóng chuyền, nơi tinh thần thể thao lan tỏa mãnh liệt.
+/dataset/test/images/100000000935.jpg	Chú ý đến từng chi tiết, tay cầm chắc chắn quả bóng, sẵn sàng cho những pha bóng đỉnh cao.
+/dataset/test/images/100000000935.jpg	Sàn đấu bóng chuyền chờ đón những cú chuyền bóng đầy nghệ thuật, đầy kịch tính và adrenaline.
+/dataset/test/images/100000000935.jpg	Không khí hồi hộp trước giờ G, nơi chiến thuật và kỹ năng sẽ quyết định thắng bại.
+/dataset/test/images/100000000934.jpg	Một khoảnh khắc đầy niềm vui khi các vận động viên ăn mừng chiến thắng tại giải đấu.
+/dataset/test/images/100000000934.jpg	Đội bóng vàng rực rỡ đứng bên nhau, hòa mình trong bầu không khí ngập tràn giấy màu.
+/dataset/test/images/100000000934.jpg	Sự phấn khích lan tỏa, ánh đèn tỏa sáng, các cô gái trở thành những nhà vô địch của trận đấu.
+/dataset/test/images/100000000934.jpg	Hàng ngàn cổ động viên hô vang tên đội, tạo nên bầu không khí cuồng nhiệt của môn bóng chuyền.
+/dataset/test/images/100000000934.jpg	Một chiến thắng tuyệt vời, các cầu thủ nâng cao cúp vô địch đầy tự hào trong tiếng reo hò.
+/dataset/test/images/100000000701.jpg	Cristiano Ronaldo ăn mừng hào hứng sau khi ghi bàn, làm rung chuyển cả sân vận động!
+/dataset/test/images/100000000701.jpg	Thủ môn Juventus, Gianluigi Buffon, đang chật vật trong nỗ lực cứu thua trước sức ép từ Real Madrid.
+/dataset/test/images/100000000701.jpg	Các cầu thủ Juventus cúi xuống thất vọng, trong khi Ronaldo chỉ huy đội hình Real Madrid tiến lên.
+/dataset/test/images/100000000701.jpg	Benzema khôn ngoan di chuyển, tạo cơ hội vàng cho Ronaldo, khiến hàng phòng ngự Juventus gặp khó khăn.
+/dataset/test/images/100000000701.jpg	Không khí nghẹt thở trong trận Chung kết Champions League, khi các cầu thủ thể hiện quyết tâm chiến thắng.
+/dataset/test/images/100000000538.jpg	Một vận động viên chèo thuyền xuất sắc chuẩn bị bắt đầu cuộc hành trình trên sông lấp lánh.
+/dataset/test/images/100000000538.jpg	Ánh hoàng hôn tuyệt đẹp phản chiếu trên mặt nước khi cô gái điều chỉnh bộ chèo của mình.
+/dataset/test/images/100000000538.jpg	Tiếng nước vỗ hữu tình hòa cùng sự tĩnh lặng, khởi đầu một cuộc đua không thể nào quên.
+/dataset/test/images/100000000538.jpg	Vận động viên chèo thuyền khéo léo nhìn về phía mặt trời, sẵn sàng cho cuộc chiến đầy cảm xúc.
+/dataset/test/images/100000000538.jpg	Với tâm trí tập trung, cô chuẩn bị cho cuộc đua trong ánh sáng vàng rực rỡ của buổi chiều.
+/dataset/test/images/100000000157.jpg	Vận động viên trong tư thế chuẩn bị, một cú đấm chính xác đã sẵn sàng!
+/dataset/test/images/100000000157.jpg	Ánh sáng mờ, nhưng năng lượng trong phòng tập là vô cùng mạnh mẽ, sẵn sàng cho trận đánh lớn.
+/dataset/test/images/100000000157.jpg	Nhìn bóng dáng vận động viên, mọi chú ý đang đổ dồn vào từng cú đấm rất mạnh mẽ!
+/dataset/test/images/100000000157.jpg	Từng giọt mồ hôi rơi, thể hiện sự nỗ lực không ngừng nghỉ trong từng bài tập boxing.
+/dataset/test/images/100000000157.jpg	Hình ảnh mạnh mẽ này cho thấy sự quyết tâm cao, phấn đấu để trở thành nhà vô địch!
+/dataset/test/images/100000000704.jpg	Ronaldo đang tập trung tuyệt đối, điều chỉnh bóng bằng đôi chân khéo léo bất ngờ.
+/dataset/test/images/100000000704.jpg	Với sự tự tin, Ronaldo kiểm soát bóng trong không khí căng thẳng trước trận đấu quan trọng.
+/dataset/test/images/100000000704.jpg	Một khoảnh khắc xuất sắc, Ronaldo đưa bóng lên cao và chuẩn bị cho những pha kỹ thuật tiếp theo.
+/dataset/test/images/100000000704.jpg	Sân cỏ ấm áp, Ronaldo vẫn thể hiện sự điềm tĩnh vượt trội khi xử lý bóng một cách điêu luyện.
+/dataset/test/images/100000000704.jpg	Trong bầu không khí sôi động, Ronaldo quay lưng lại, thể hiện tài năng xử lý bóng cực kỳ ấn tượng.
+/dataset/test/images/100000000265.jpg	Một vận động viên lặn chăm chú giữa đàn cá, hòa mình vào sắc màu đại dương tuyệt đẹp!
+/dataset/test/images/100000000265.jpg	Với vẻ tự tin, anh ấy lướt nhẹ nhàng qua các khối đá, tạo nên một cảnh tượng thật ngoạn mục!
+/dataset/test/images/100000000265.jpg	Những chú cá bơi lượn xung quanh anh ấy, giống như một vũ điệu sinh động của biển cả!
+/dataset/test/images/100000000265.jpg	Dưới làn nước trong xanh, vận động viên lặn đang khám phá những kho báu bí ẩn của san hô!
+/dataset/test/images/100000000265.jpg	Mặc kệ những dòng nước lạnh, anh ấy không ngừng tìm kiếm điều kỳ diệu bên dưới đại dương bao la!
+/dataset/test/images/100000000939.jpg	Cầu thủ Takahashi nhảy lên cao, chuẩn bị thực hiện cú đập bóng quyết định!
+/dataset/test/images/100000000939.jpg	Áo đỏ nổi bật, Takahashi lao lên không trung, mang lại tinh thần cho đội.
+/dataset/test/images/100000000939.jpg	Trong khoảnh khắc này, Takahashi thể hiện sức mạnh vượt trội của mình trên sân đấu!
+/dataset/test/images/100000000939.jpg	Mọi ánh mắt đều đổ dồn vào Takahashi khi anh thực hiện cú phát bóng mạnh mẽ!
+/dataset/test/images/100000000939.jpg	Nhìn Takahashi bay lên như chim, tinh thần đồng đội dâng cao trong trận đấu kịch tính này!
+/dataset/test/images/100000000284.jpg	Cô gái cưỡi ngựa phô diễn kỹ thuật tuyệt vời trong bộ môn nhảy ngựa đầy hấp dẫn!
+/dataset/test/images/100000000284.jpg	Giây phút hồi hộp khi ngựa vươn mình nhảy qua hàng rào, thật sự mãn nhãn!
+/dataset/test/images/100000000284.jpg	Một cú nhảy hoàn hảo, đoàn kết giữa người và ngựa trong môn thể thao đầy cam go này!
+/dataset/test/images/100000000284.jpg	Ánh nắng lung linh chiếu rọi, tạo nên khoảnh khắc không thể quên trong cuộc đua nhảy ngựa!
+/dataset/test/images/100000000284.jpg	Vận động viên thể hiện phong độ đỉnh cao với cú nhảy đầy năng lượng, làm say đắm lòng người!
+/dataset/test/images/100000000652.jpg	Một vận động viên trượt tuyết bị kẹt giữa những cơn bão trắng xóa, cảnh tượng thật kịch tính và gay cấn!
+/dataset/test/images/100000000652.jpg	Giữa khung cảnh tuyết phủ dày đặc, một người trượt tuyết đã phải dừng lại ngắm nhìn.
+/dataset/test/images/100000000652.jpg	Chúng ta thấy một tay đua gặp khó khăn trong biển tuyết, một thử thách không thể tưởng tượng!
+/dataset/test/images/100000000652.jpg	Hình ảnh sử thi của trượt tuyết trở nên thay đổi khi một vận động viên nằm chìm trong tuyết dày.
+/dataset/test/images/100000000652.jpg	Khung cảnh đầy kịch tính khi tay đua trượt tuyết hiện lên giữa những cành cây phủ đầy b雪!
+/dataset/test/images/100000000609.jpg	Nhìn từ cửa sổ tàu, hai tay chèo đang chuẩn bị tận dụng sức gió mạnh mẽ.
+/dataset/test/images/100000000609.jpg	Những cánh buồm lớn vươn ra, tàu chạy nhanh như tên bắn giữa đại dương bao la!
+/dataset/test/images/100000000609.jpg	Đội thuyền trưởng đang điều khiển một cách tài tình, hòa cùng sóng biển xanh sâu thẳm.
+/dataset/test/images/100000000609.jpg	Trải nghiệm tuyệt vời trên biển, lòng đầy quyết tâm, chinh phục từng con sóng dữ.
+/dataset/test/images/100000000609.jpg	Hình ảnh sống động của trận đua, từng khoảnh khắc đều toát lên sức mạnh và sự quyết tâm!
+/dataset/test/images/100000000971.jpg	Một cầu thủ nước đang chuẩn bị tung cú ném quyết định vào khung thành đối phương.
+/dataset/test/images/100000000971.jpg	Trong khoảnh khắc căng thẳng, vận động viên nhanh chóng lừa bóng qua tay thủ môn dày dạn kinh nghiệm.
+/dataset/test/images/100000000971.jpg	Hãy xem cách cầu thủ lướt đi trên mặt nước, sẵn sàng cho một cú ném đầy uy lực!
+/dataset/test/images/100000000971.jpg	Khung cảnh trận đấu kịch tính khi một cầu thủ đang nỗ lực đoạt lại bóng của đối thủ.
+/dataset/test/images/100000000971.jpg	Ánh mắt quyết tâm, người chơi nước chuẩn bị ra tay trong trận đấu bóng nước nảy lửa này!
+/dataset/test/images/100000000503.jpg	Vận động viên chạy băng băng qua những tảng đá, thể hiện sự dũng cảm trong từng bước.
+/dataset/test/images/100000000503.jpg	Áo mưa bay lượn trong gió, anh chàng quyết tâm chinh phục cuộc đua khắc nghiệt này.
+/dataset/test/images/100000000503.jpg	Mồ hôi và quyết tâm hòa quyện, anh đang tiến đến đích với tốc độ chớp nhoáng.
+/dataset/test/images/100000000503.jpg	Kiên cường và mạnh mẽ, vận động viên này thật sự là hình mẫu cho sự bền bỉ trong thể thao.
+/dataset/test/images/100000000503.jpg	Cánh tay vung mạnh, đôi chân lướt nhanh, mỗi pha chạy là một biểu tượng của sức mạnh và ý chí.
+/dataset/test/images/100000001053.jpg	Một bậc thầy đang bay lên không trung, chuẩn bị cho cú rơi khủng khiếp xuống đối thủ!
+/dataset/test/images/100000001053.jpg	Vận động viên nổi bật này không ngần ngại phô diễn kỹ thuật nhào lộn tuyệt vời giữa vòng đấu khốc liệt.
+/dataset/test/images/100000001053.jpg	Các khán giả háo hức chứng kiến cú nhảy ấn tượng của đô vật, tạo nên không khí hồi hộp cho trận đấu!
+/dataset/test/images/100000001053.jpg	Trên sàn đấu đầy kịch tính, cú nhảy đầy sức mạnh này hứa hẹn sẽ làm đảo lộn toàn bộ cục diện trận đấu.
+/dataset/test/images/100000001053.jpg	Đô vật đang cất cánh, và những cái nhìn đầy lo lắng từ đội ngũ bên ngoài cho thấy điều gì đang sắp xảy ra!
+/dataset/test/images/100000000940.jpg	Một cú đập bóng mạnh mẽ từ số 8 Yoshimura, khán giả nín thở chờ đợi kết quả!
+/dataset/test/images/100000000940.jpg	Tiếp theo, Yoshimura bật nhảy như cơn bão, mang lại sức mạnh cho đội nhà trong trận đấu này!
+/dataset/test/images/100000000940.jpg	Các đối thủ phản ứng nhanh chóng, nhưng liệu có kịp để ngăn cản cú đánh đầy kỹ thuật của Yoshimura?
+/dataset/test/images/100000000940.jpg	Không khí trong nhà thi đấu thật căng thẳng, mọi ánh mắt đổ dồn vào cú đánh quyết định của Yoshimura!
+/dataset/test/images/100000000940.jpg	Đội chủ nhà đang bùng nổ cảm xúc! Một cú đập sắc nét của Yoshimura đang làm rung chuyển cả sân!
+/dataset/test/images/100000000825.jpg	Một võ sĩ đang trong tư thế chuẩn bị, sẵn sàng cho trận chiến kịch tính trên thảm đấu.
+/dataset/test/images/100000000825.jpg	Với đai đen quấn chặt, người chiến binh Thái Cực tự tin bước vào trận đấu đầy cam go này!
+/dataset/test/images/100000000825.jpg	Áo võ đang tràn ngập sức mạnh, cùng những bước đi kỹ thuật, chuẩn bị cho những đòn tấn công quyết liệt.
+/dataset/test/images/100000000825.jpg	Khung cảnh tĩnh lặng, nhưng năng lượng trên thảm đấu đang tăng cao, mọi ánh mắt đổ dồn vào võ sĩ.
+/dataset/test/images/100000000825.jpg	Trận chiến sẽ bắt đầu, người võ sĩ thể hiện tinh thần quyết tâm tuyệt đối trên thảm đấu màu sắc!
+/dataset/test/images/100000000683.jpg	Cristiano Ronaldo đang khéo léo điều khiển bóng, thể hiện sự tự tin trước giờ G của trận đấu.
+/dataset/test/images/100000000683.jpg	Với ánh đèn sân vận động rực rỡ, Ronaldo luyện tập chuẩn bị cho trận đấu quan trọng của đội tuyển Bồ Đào Nha.
+/dataset/test/images/100000000683.jpg	Ngôi sao bóng đá Cristiano Ronaldo thể hiện khả năng kiểm soát bóng hoàn hảo, thu hút mọi ánh nhìn.
+/dataset/test/images/100000000683.jpg	Trên sân, Ronaldo thể hiện kỹ thuật điêu luyện, không gì có thể cản bước chân anh trong trận đấu này!
+/dataset/test/images/100000000683.jpg	Sự quyết tâm và tinh thần mạnh mẽ của Ronaldo rõ rệt qua từng bước chân, chuẩn bị cho trận chiến sắp tới.
+/dataset/test/images/100000000634.jpg	Cánh buồm đang vươn mình mạnh mẽ, sẵn sàng cho cuộc chiến trên biển cả xanh thẳm!
+/dataset/test/images/100000000634.jpg	Giữa một ngày nắng rực rỡ, chiếc du thuyền tung hoành trên làn sóng, cảm nhận sức mạnh của tự nhiên!
+/dataset/test/images/100000000634.jpg	Những sợi dây buộc căng lên dưới ánh nắng, tạo nên sức hút khó cưỡng khi điều khiển chiếc thuyền!
+/dataset/test/images/100000000634.jpg	Đối diện với làn sóng, các vận động viên đang chuẩn bị cho một cuộc đua đầy kịch tính và bất ngờ!
+/dataset/test/images/100000000634.jpg	Hãy nhìn xem, cột buồm vươn cao, điều này cho thấy sức mạnh phi thường của môn thể thao đua thuyền!
