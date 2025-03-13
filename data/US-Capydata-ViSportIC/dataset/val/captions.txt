@@ -268,7 +268,6 @@
 /dataset/val/images/000000440844.jpg	Những cậu bé đang luyện tập tennis ở trên sân vào ban ngày .
 /dataset/val/images/000000440844.jpg	Hai cậu bé đang luyện tập tennis ở trên sân vào ban ngày .
 /dataset/val/images/000000440844.jpg	Những cậu bé đang cầm vợt tennis và đứng ở trên sân vào ban ngày .
-/dataset/val/images/000000246976.jpg	Ng
 /dataset/val/images/100000000067.jpg	Vận động viên thể hiện sự tập trung cao độ tại đường chạy, chuẩn bị cho cuộc đua cam go sắp tới!
 /dataset/val/images/100000000067.jpg	Với tư thế chuẩn bị hoàn hảo, cô gái này sẵn sàng bứt phá trong môn điền kinh!
 /dataset/val/images/100000000067.jpg	Ánh nắng chiếu sáng khung cảnh, tăng thêm sức sống cho những giây phút căng thẳng trước giờ G.
@@ -424,7 +423,6 @@
 /dataset/val/images/100000000823.jpg	Không khí sôi nổi trong lớp học Taekwondo, nơi các em cùng nhau rèn luyện tinh thần học hỏi.
 /dataset/val/images/100000000823.jpg	Các học viên ngồi quây quần, thể hiện sự tập trung và quyết tâm trong bộ môn Taekwondo.
 /dataset/val/images/100000000823.jpg	Giảng viên dõng dạc hướng dẫn, mang đến động lực cho các em nhỏ trong lớp học nghệ thuật Taekwondo.
-/dataset/val/images/000000375153.jpg	]
 /dataset/val/images/100000000300.jpg	Cô nàng tay cầm chặt dây cương, sẵn sàng cho cuộc thi cưỡi ngựa đầy kịch tính!
 /dataset/val/images/100000000300.jpg	Với phong thái tự tin, cô đang chuẩn bị cho màn trình diễn cưỡi ngựa ấn tượng, thu hút mọi ánh nhìn!
 /dataset/val/images/100000000300.jpg	Áo vest chỉnh tề, ánh mắt mạnh mẽ, cô gái này đang vào vị trí xuất phát cho vòng đua ngựa.

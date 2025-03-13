@@ -9,3 +9,4 @@ tqdm
 kaggle
 wordcloud
 seaborn
+pyvi
