@@ -1,4 +1,0 @@
-Các đoạn cdoe hổ trợ
-│── scripts/                 
-│   ├── crawl_images.py          # Code thu thập ảnh từ nguồn web
-│   ├── generate_captions.py     # Annotation
